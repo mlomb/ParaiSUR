@@ -1,37 +1,67 @@
+import os
 from dataclasses import dataclass
-from PIL import Image
+from pathlib import Path
+from typing import Literal
 
-import pytesseract
+import cv2
 import easyocr
+import pytesseract
 
-from lib.text import try_extract_from_text
+OCR_CACHE_PATH = Path("../data-ocr")
 
 reader = easyocr.Reader(["en"], gpu=True)
 
 
 @dataclass
-class ImagePreprocessParams:
-    # TODO: set good values here
-    threshold_value: int = 100
+class OCRParams:
+    engine: Literal["tesseract", "easyocr"]
+    grayscale: bool
+    threshold: int | None
+
+    def id(self):
+        id = self.engine
+        if self.grayscale:
+            id += "_grayscale"
+        if self.threshold is not None:
+            id += "_threshold" + str(self.threshold)
+        return id
 
 
-def preprocess_image(image, params: ImagePreprocessParams):
-    # Grayscale
-    image = image.convert("L")
-    # Threshold
-    image = image.point(lambda p: 255 if p > params.threshold_value else 0)
-    # To mono
-    image = image.convert("1")
+def ocr_sample(sample, params: OCRParams) -> str:
+    id = params.id()
+    cache_path = OCR_CACHE_PATH / sample["filename"]
+    cache_file = cache_path / f"{id}.txt"
 
-    return image
+    # try to load from cache
+    if cache_file.exists():
+        return cache_file.read_text()
 
-
-def ocr_images(image_paths: list[str], params: ImagePreprocessParams):
+    # run OCR
     # combine texts from all images
     text = ""
-    for image_path in image_paths:
-        text += "\n".join(reader.readtext(image_path, detail=0, batch_size=50))  # type: ignore
-        # text += pytesseract.image_to_string(
-        #    preprocess_image(Image.open(image_path), params)
-        # )
+    for image_path in sample["images"]:
+        text += run_ocr(image_path, params) + "\n"
+
+    # save to cache
+    os.makedirs(cache_path, exist_ok=True)
+    cache_file.write_text(text)
+
     return text
+
+
+def run_ocr(image_path: str, params: OCRParams) -> str:
+    image = cv2.imread(image_path)
+
+    # preprocess image
+    if params.grayscale:
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    if params.threshold is not None:
+        _, image = cv2.threshold(image, params.threshold, 255, cv2.THRESH_BINARY)
+
+    # run OCR
+    if params.engine == "tesseract":
+        return pytesseract.image_to_string(image)
+    elif params.engine == "easyocr":
+        return "\n".join(reader.readtext(image, detail=0, batch_size=50))  # type: ignore
+    else:
+        raise ValueError(f"Unknown OCR engine: {params.engine}")

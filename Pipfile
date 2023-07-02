@@ -15,6 +15,7 @@ easyocr = "*"
 pillow = "==9.5.0"
 torch = "*"
 torchvision = "*"
+opencv-python = "*"
 
 [dev-packages]
 ipykernel = "*"
