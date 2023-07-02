@@ -12,6 +12,9 @@ pypdf = "*"
 pytesseract = "*"
 pyocr = "*"
 easyocr = "*"
+pillow = "==9.5.0"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 ipykernel = "*"
