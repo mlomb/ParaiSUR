@@ -1,23 +1,27 @@
-from math import isnan
 import re
 
 
-def try_extract_from_text(text: str):
+def build_invoice_regex():
+    prefixes = [
+        prefix + "(?:;|:)"  # match : or ;
+        for prefix in [
+            "Invoice num.",
+            "Inv.",
+            "Num",
+            "Num.",
+            "Invoice",
+            "Invoice Locator",
+        ]
+    ]
+    prefixes.append("(?:.*)#(?:.*?)")
+    invoice = "[A-Z0-9]{6,}"
+
+    return f"""(?i)\\s?({"|".join(prefixes)})\\s?({invoice})"""
+
+
+def extract_invoice(text: str):
     invoice = None
-    total = None
-
-    total_regex = "Total: -?\$((\d+),?)+\.?(\d*)"
-    total_match = re.search(total_regex, text)
-    if total_match is not None:
-        total_str = (
-            total_match.group(0)
-            .replace(",", "")
-            .replace("Total: $", "")
-            .replace("Total: -$", "-")
-        )
-        total = float(total_str)
-
-    invoice_regex = "(Inv#:|Invoice num.:|Inv.:|Invoice #:|Num:|Locator #:|Invoice:|Invoice Locator:)\s([A-Z0-9]+)"
+    invoice_regex = build_invoice_regex()
     invoice_match = re.search(invoice_regex, text)
     if invoice_match is not None:
         invoice = invoice_match.group(2)
@@ -36,7 +40,27 @@ def try_extract_from_text(text: str):
                     invoice = line
                     break  # pick first
 
+    return invoice
+
+
+def extract_total(text: str):
+    total = None
+    total_regex = "Total: -?\$((\d+),?)+\.?(\d*)"
+    total_match = re.search(total_regex, text)
+    if total_match is not None:
+        total_str = (
+            total_match.group(0)
+            .replace(",", "")
+            .replace("Total: $", "")
+            .replace("Total: -$", "-")
+        )
+        total = float(total_str)
+
+    return total
+
+
+def try_extract_from_text(text: str):
     return {
-        "invoice": invoice,
-        "total": total,
+        "invoice": extract_invoice(text),
+        "total": extract_total(text),
     }
