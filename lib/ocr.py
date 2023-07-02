@@ -9,7 +9,7 @@ import pytesseract
 
 OCR_CACHE_PATH = Path("../data-ocr")
 
-reader = easyocr.Reader(["en"], gpu=True)
+__global_easyocr_reader: easyocr.Reader | None = None
 
 
 @dataclass
@@ -27,7 +27,7 @@ class OCRParams:
         return id
 
 
-def ocr_sample(sample, params: OCRParams) -> str:
+def ocr_sample(sample, params: OCRParams, only_cache=False) -> str:
     id = params.id()
     cache_path = OCR_CACHE_PATH / sample["filename"]
     cache_file = cache_path / f"{id}.txt"
@@ -35,6 +35,9 @@ def ocr_sample(sample, params: OCRParams) -> str:
     # try to load from cache
     if cache_file.exists():
         return cache_file.read_text()
+
+    if only_cache:
+        return ""
 
     # run OCR
     # combine texts from all images
@@ -62,6 +65,11 @@ def run_ocr(image_path: str, params: OCRParams) -> str:
     if params.engine == "tesseract":
         return pytesseract.image_to_string(image)
     elif params.engine == "easyocr":
-        return "\n".join(reader.readtext(image, detail=0, batch_size=50))  # type: ignore
+        global __global_easyocr_reader
+        if __global_easyocr_reader is None:
+            print("Initializing EasyOCR reader...")
+            __global_easyocr_reader = easyocr.Reader(["en"], gpu=True)
+
+        return "\n".join(__global_easyocr_reader.readtext(image, detail=0, batch_size=50))  # type: ignore
     else:
         raise ValueError(f"Unknown OCR engine: {params.engine}")

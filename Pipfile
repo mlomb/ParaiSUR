@@ -16,6 +16,8 @@ pillow = "==9.5.0"
 torch = "*"
 torchvision = "*"
 opencv-python = "*"
+ipywidgets = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
