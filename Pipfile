@@ -18,6 +18,12 @@ torchvision = "*"
 opencv-python = "*"
 ipywidgets = "*"
 jupyter = "*"
+nltk = "*"
+editdistance = "*"
+paddleocr = ">=2.0.1"
+paddlepaddle-gpu = "*"
+deskew = "*"
+scikit-image = "*"
 
 [dev-packages]
 ipykernel = "*"

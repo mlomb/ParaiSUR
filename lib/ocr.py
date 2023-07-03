@@ -1,75 +1,141 @@
-import os
 from dataclasses import dataclass
-from pathlib import Path
+from functools import cache
 from typing import Literal
 
 import cv2
 import easyocr
 import pytesseract
+from deskew import determine_skew
+from paddleocr import PaddleOCR
+from skimage.color import rgb2gray
+from skimage.transform import rotate
 
-OCR_CACHE_PATH = Path("../data-ocr")
+from lib.cache import get_cache, set_cache
 
-__global_easyocr_reader: easyocr.Reader | None = None
+
+def get_ocrs(sample):
+    """
+    Obtiene los OCRs ya computados
+    """
+    return get_cache(sample["filename"] + "-ocr.json")
 
 
 @dataclass
 class OCRParams:
-    engine: Literal["tesseract", "easyocr"]
-    grayscale: bool
-    threshold: int | None
+    engine: Literal["paddleocr", "easyocr", "tesseract"]
+    grayscale: bool = False
+    threshold: int | None = None
+    deskew: bool = False
 
     def id(self):
         id = self.engine
         if self.grayscale:
             id += "_grayscale"
+        if self.deskew:
+            id += "_deskew"
         if self.threshold is not None:
             id += "_threshold" + str(self.threshold)
         return id
 
 
-def ocr_sample(sample, params: OCRParams, only_cache=False) -> str:
+def run_ocr_sample(sample, params: OCRParams):
+    """
+    Realiza OCR en un sample con los parámetros especificados y lo guarda en la caché.
+    """
     id = params.id()
-    cache_path = OCR_CACHE_PATH / sample["filename"]
-    cache_file = cache_path / f"{id}.txt"
+    cache_key = sample["filename"] + "-ocr.json"
 
-    # try to load from cache
-    if cache_file.exists():
-        return cache_file.read_text()
+    db = get_cache(cache_key)
+    if db is not None:
+        # check if it is already generated
+        if id in db:
+            return
 
-    if only_cache:
-        return ""
-
-    # run OCR
-    # combine texts from all images
-    text = ""
+    # must generate
+    pages = []
     for image_path in sample["images"]:
-        text += run_ocr(image_path, params) + "\n"
+        pages.append(run_ocr_image(image_path, params))
 
     # save to cache
-    os.makedirs(cache_path, exist_ok=True)
-    cache_file.write_text(text)
+    if db is None:
+        db = {}
+    db[id] = pages
+    set_cache(cache_key, db)
 
-    return text
 
-
-def run_ocr(image_path: str, params: OCRParams) -> str:
+def run_ocr_image(image_path: str, params: OCRParams) -> dict:
     image = cv2.imread(image_path)
 
     # preprocess image
+    if params.deskew:
+        params.grayscale = True
     if params.grayscale:
         image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    if params.deskew:
+        raise NotImplementedError()
+        # angle = determine_skew(image)
+        # image = rotate(image, angle, resize=True) * 255
     if params.threshold is not None:
         _, image = cv2.threshold(image, params.threshold, 255, cv2.THRESH_BINARY)
 
-    # run OCR
-    if params.engine == "tesseract":
-        return pytesseract.image_to_string(image)
-    elif params.engine == "easyocr":
-        global __global_easyocr_reader
-        if __global_easyocr_reader is None:
-            print("Initializing EasyOCR reader...")
-            __global_easyocr_reader = easyocr.Reader(["en"], gpu=True)
+    boxes = []
 
-        return "\n".join(__global_easyocr_reader.readtext(image, detail=0, batch_size=50))  # type: ignore
+    # run OCR
+    if params.engine == "paddleocr":
+        result = get_paddleocr_instance().ocr(image)[0]
+        boxes = [
+            {
+                "bounds": [list(map(int, lst)) for lst in item[0]],
+                "text": item[1][0],
+                "confidence": item[1][1],
+            }
+            for item in result
+        ]
+    elif params.engine == "easyocr":
+        results = get_easyocr_reader().readtext(
+            image, detail=1, batch_size=40, paragraph=False
+        )
+        boxes = [
+            {"bounds": [list(map(int, lst)) for lst in item[0]], "text": item[1], "confidence": item[2]}  # type: ignore
+            for item in results
+        ]
+    elif params.engine == "tesseract":
+        d = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
+
+        boxes = []
+        n_boxes = len(d["level"])
+        for i in range(n_boxes):
+            if d["conf"][i] < 0:
+                continue
+            (x, y, w, h) = (d["left"][i], d["top"][i], d["width"][i], d["height"][i])
+
+            boxes.append(
+                {
+                    "bounds": [
+                        [x, y],
+                        [x + w, y],
+                        [x + w, y + h],
+                        [x, y + h],
+                    ],
+                    "text": d["text"][i],
+                    "confidence": d["conf"][i] / 100,
+                }
+            )
     else:
         raise ValueError(f"Unknown OCR engine: {params.engine}")
+
+    text = "\n".join([box["text"] for box in boxes])
+
+    return {"boxes": boxes, "text": text}
+
+
+@cache
+def get_easyocr_reader():
+    print("Initializing EasyOCR reader...")
+    return easyocr.Reader(["en"], gpu=True)
+
+
+@cache
+def get_paddleocr_instance():
+    print("Initializing PaddleOCR instance...")
+    return PaddleOCR(use_angle_cls=False, lang="en", use_gpu=False)
