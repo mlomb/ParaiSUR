@@ -117,10 +117,16 @@ def find_professional_total(detail_lines: list[list[str]]):
             "consultant",
             "specialist",
             "administrative",
-            "senior pm",
+            "senior",
+            "pm",
             "electrical engi",
-            "engineering tec",
+            "engineering",
+            "technician",
+            "tec",
             "analyst",
+            "consultant",
+            "scientist",
+            "supervisor",
         ]
 
         for word in words:
