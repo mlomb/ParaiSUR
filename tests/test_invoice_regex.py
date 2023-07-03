@@ -2,7 +2,7 @@ import sys
 
 sys.path.append("..")
 
-from lib.text import build_invoice_regex, try_extract_from_text
+from lib.invoice import build_invoice_regex, extract_invoice_from_text
 
 bold = lambda text: f"\033[1m{text}\033[0m"
 red = lambda text: f"\033[91m{text}\033[0m"
@@ -22,21 +22,21 @@ print(bold("Should match:"))
 for line in should_match:
     if line == "":
         continue
-    res = try_extract_from_text(line)
+    invoice = extract_invoice_from_text(line)
     print(yellow(line), end=" ")
-    if res["invoice"] == "A1A1A1A1A":
-        print(green(res["invoice"]))
+    if invoice == "A1A1A1A1A":
+        print(green(invoice))
     else:
-        print(red(res["invoice"]))
+        print(red(invoice))
 
 print()
 print(bold("Should reject:"))
 for line in should_reject:
     if line == "":
         continue
-    res = try_extract_from_text(line)
+    invoice = extract_invoice_from_text(line)
     print(yellow(line), end=" ")
-    if res["invoice"] is None:
-        print(green(res["invoice"]))
+    if invoice is None:
+        print(green(invoice))
     else:
-        print(red(res["invoice"]))
+        print(red(invoice))

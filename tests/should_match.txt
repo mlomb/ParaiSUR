@@ -7,6 +7,7 @@ Invoice num.: A1A1A1A1A
 Invoice: A1A1A1A1A
 Locator #: A1A1A1A1A
 Num: A1A1A1A1A
+invoice nam.: A1A1A1A1A
 
 deator #: A1A1A1A1A
 lvoice: A1A1A1A1A

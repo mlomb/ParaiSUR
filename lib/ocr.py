@@ -13,11 +13,11 @@ from skimage.transform import rotate
 from lib.cache import get_cache, set_cache
 
 
-def get_ocrs(sample):
+def get_ocrs(sample) -> dict:
     """
     Obtiene los OCRs ya computados
     """
-    return get_cache(sample["filename"] + "-ocr.json")
+    return get_cache(sample["filename"] + "-ocr.json") or {}
 
 
 @dataclass
@@ -82,7 +82,7 @@ def run_ocr_image(image_path: str, params: OCRParams) -> dict:
 
     # run OCR
     if params.engine == "paddleocr":
-        result = get_paddleocr_instance().ocr(image)[0]
+        result = get_paddleocr_instance().ocr(image, cls=False)[0]
         boxes = [
             {
                 "bounds": [list(map(int, lst)) for lst in item[0]],
@@ -138,4 +138,4 @@ def get_easyocr_reader():
 @cache
 def get_paddleocr_instance():
     print("Initializing PaddleOCR instance...")
-    return PaddleOCR(use_angle_cls=False, lang="en", use_gpu=False)
+    return PaddleOCR(use_angle_cls=False, lang="en", use_gpu=False, show_log=False)

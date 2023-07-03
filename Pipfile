@@ -24,6 +24,7 @@ paddleocr = ">=2.0.1"
 paddlepaddle-gpu = "*"
 deskew = "*"
 scikit-image = "*"
+fasttext = "*"
 
 [dev-packages]
 ipykernel = "*"

@@ -4,6 +4,7 @@ import editdistance
 
 from lib.cache import get_cache, set_cache
 from lib.data import load_all_invoices
+from lib.ocr import get_ocrs
 
 
 def find_invoice_cached(sample: dict) -> str | None:
@@ -25,18 +26,30 @@ def find_invoice_cached(sample: dict) -> str | None:
 
 def find_invoice(sample: dict) -> str | None:
     # intentar extraer del nombre
-    invoice = sample["filename"][:-4]  # .pdf
-    invoice = validate_invoice(invoice)
+    candidate = sample["filename"][:-4]  # .pdf
+    invoice = validate_invoice(candidate)
+    if invoice is not None:
+        return invoice
 
     # intentar extraer del texto real del PDF
-    if invoice is None and len(sample["text"]) > 0:
-        invoice = extract_invoice_from_text(sample["text"])
-        invoice = validate_invoice(invoice)
+    if len(sample["text"]) > 0:
+        candidates = extract_invoice_candidates_from_text(sample["text"])
+        for candidate in candidates:
+            invoice = validate_invoice(candidate)
+            if invoice is not None:
+                return invoice
 
     # intentar extraer del texto obtenido por OCR
-    # TODO!
+    ocrs = get_ocrs(sample)
+    for _, pages in ocrs.items():
+        # invoice is always in page 0
+        candidates = extract_invoice_candidates_from_text(pages[0]["text"])
+        for candidate in candidates:
+            invoice = validate_invoice(candidate)
+            if invoice is not None:
+                return invoice
 
-    return invoice
+    return None
 
 
 def validate_invoice(candidate: str | None) -> str | None:
@@ -45,10 +58,11 @@ def validate_invoice(candidate: str | None) -> str | None:
     Si no es válido, intenta encontrar el invoice más cercano.
     Si aún así no lo encuentra, devuelve None.
     """
-    all_invoices = load_all_invoices()
-
     if candidate is None:
         return None
+
+    all_invoices = load_all_invoices()
+    candidate = candidate.strip().upper()
 
     if candidate in all_invoices:
         # match perfecto
@@ -70,46 +84,13 @@ def validate_invoice(candidate: str | None) -> str | None:
     return None
 
 
-def build_invoice_regex():
-    prefixes = [
-        prefix + "(?:;|:)"  # match : or ;
-        for prefix in [
-            "Invoice num.",
-            "Inv.",
-            "Num",
-            "Num.",
-            "Invoice",
-            "Invoice Locator",
-        ]
-    ]
-    prefixes.append("(?:.*)#(?:.*?)")
-    invoice = "[A-Z0-9]{6,}"
+def extract_invoice_candidates_from_text(text: str) -> list[str]:
+    candidates = []
 
-    return f"""(?i)\\s?({"|".join(prefixes)})\\s?({invoice})"""
+    lines = text.split("\n")
+    for line in lines:
+        matches = re.findall("([A-Z0-9@]{6,})", line.strip(), re.IGNORECASE)
+        for match in matches:
+            candidates.append(match)
 
-
-INVOICE_REGEX = build_invoice_regex()
-
-
-def extract_invoice_from_text(text: str):
-    invoice = None
-    invoice_regex = INVOICE_REGEX
-    invoice_match = re.search(invoice_regex, text)
-    if invoice_match is not None:
-        invoice = invoice_match.group(2)
-    else:
-        # extraction failed, we can assume we have something like ": 12345678"
-        # I'm assuming that there is a line that starts with ":"
-        lines = text.split("\n")
-        for line in lines:
-            if len(line) > 0 and line[0] == ":":
-                line = line[1:].strip()
-
-                # now we have to check that we only have alpha chars
-                # since we can have things like ": Jan 18, 2021\n"
-                # and we want ": 514599571\n"
-                if line.isalnum():
-                    invoice = line
-                    break  # pick first
-
-    return invoice
+    return [c.upper() for c in candidates]
