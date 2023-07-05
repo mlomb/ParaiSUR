@@ -1,7 +1,9 @@
 from lib.data import load_first_names, load_last_names
 
 
-def is_professional(desc):
+def is_professional(desc: str):
+    professional = False
+
     # lower
     desc = desc.lower()
 
@@ -15,31 +17,49 @@ def is_professional(desc):
     last_names = load_last_names()
     for i in range(len(words) - 1):
         if words[i] in first_names and words[i + 1] in last_names:
-            return True
+            professional = True
 
     PROFESSIONAL_KEYWORDS = [
-        "drafter",
-        "engineer",
-        "associate",
-        "manager",
-        "managem",
-        "consultant",
-        "specialist",
         "administrative",
-        "senior",
-        "pm",
-        "electrical engi",
-        "engineering",
-        "technician",
-        "tec",
         "analyst",
+        "associate",
+        "cnslt",
+        "compensation",
         "consultant",
+        "consultant",
+        "consutlant",
+        "contractor",
+        "coordinator",
+        "designer",
+        "director",
+        "drafter",
+        "electrical engi",
+        "engi",
+        "engineer",
+        "engineering",
+        "estimator",
+        "expert",
+        "managem",
+        "management",
+        "manager",
+        "pm",
         "scientist",
+        "senior",
+        "specialist",
         "supervisor",
+        "tec",
+        "technical",
+        "technician",
     ]
 
     for word in words:
         if word.lower() in PROFESSIONAL_KEYWORDS:
-            return True
+            professional = True
 
-    return False
+    NEGATIVE_KEYWORDS = ["travel", "trvl", "weekend", "credit", "equipment"]
+
+    for word in words:
+        if word.lower() in NEGATIVE_KEYWORDS:
+            professional = False
+
+    return professional
