@@ -1,13 +1,31 @@
 import json
+import random
 from functools import cache
+from typing import Literal
 
 
 @cache
-def load_extracted_samples():
+def load_extracted_samples(filter: Literal["only_text", "only_ocr"] | None = None):
     with open("../data-extracted/samples.json") as f:
         samples = json.load(f)
 
+    if filter == "only_text":
+        samples = [s for s in samples if len(s["text"]) > 0]
+    if filter == "only_ocr":
+        samples = [s for s in samples if len(s["text"]) == 0]
+
+    # shuffle
+    random.Random(42).shuffle(samples)
+
     return samples
+
+
+def load_extracted_sample(filename):
+    samples = load_extracted_samples()
+    for sample in samples:
+        if sample["filename"] == filename:
+            return sample
+    return None
 
 
 @cache

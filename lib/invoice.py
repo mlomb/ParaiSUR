@@ -77,7 +77,7 @@ def validate_invoice(candidate: str | None) -> str | None:
             best_dist = dist
             best_match = invoice
 
-    if best_dist <= 2:
+    if best_dist <= 1:
         return best_match
 
     # no hubo suerte

@@ -1,4 +1,4 @@
-def extract_details_from_text(text: str) -> list[list[str]]:
+def extract_details_from_text(text: str) -> list[dict]:
     DETAILS_LABELS = [
         "details on due fees",
         "items",
@@ -76,81 +76,35 @@ def extract_details_from_text(text: str) -> list[list[str]]:
 
         line.append(item)
 
-    return lines
-
-
-def find_professional_total(detail_lines: list[list[str]]):
-    from lib.data import load_first_names, load_last_names
-
     def parse_number(x: str):
         return float(x.strip().replace("$", "").replace(",", ""))
 
-    first_names = load_first_names()
-    last_names = load_last_names()
+    detail_lines = []
 
-    # print(detail_lines)
-    total = 0
-
-    for line in detail_lines:
+    for line in lines:
         # ACTIVAR ESTO PARA DETECTAR DETAILS_LABELS NUEVOS
         # esta desactivado por defecto porque hay filas vacias que tienen "0"
         # assert len(line) in [4, 7], line
         if len(line) < 4:
             continue
 
-        desc = line[0].lower()
-        words = desc.split()
+        # line looks like:
+        # ['Alexandra Torres - Technical Supervisor', '2 ', '$193.24', '$386.48']
 
-        # if there is a "[first_name] [last_name]" in the description, it's a professional
+        item_hours = parse_number(line[1])
+        item_price = parse_number(line[2])
+        item_total = parse_number(line[3])
 
-        professional = False
-        for i in range(len(words) - 1):
-            if words[i] in first_names and words[i + 1] in last_names:
-                professional = True
-
-        PROFESSIONAL_KEYWORDS = [
-            "drafter",
-            "engineer",
-            "associate",
-            "manager",
-            "managem",
-            "consultant",
-            "specialist",
-            "administrative",
-            "senior",
-            "pm",
-            "electrical engi",
-            "engineering",
-            "technician",
-            "tec",
-            "analyst",
-            "consultant",
-            "scientist",
-            "supervisor",
+        # check last column
+        expected_total = item_hours * item_price
+        assert item_total - expected_total < 0.01, [
+            line,
+            item_hours,
+            item_price,
+            item_total,
+            expected_total,
         ]
 
-        for word in words:
-            if word.lower() in PROFESSIONAL_KEYWORDS:
-                professional = True
+        detail_lines.append({"desc": line[0], "total": item_total})
 
-        if professional:
-            # line looks like:
-            # ['Alexandra Torres - Technical Supervisor', '2 ', '$193.24', '$386.48']
-
-            item_hours = parse_number(line[1])
-            item_price = parse_number(line[2])
-            item_total = parse_number(line[3])
-
-            # check last column
-            expected_total = item_hours * item_price
-            assert item_total - expected_total < 0.01, [
-                line,
-                item_hours,
-                item_price,
-                item_total,
-                expected_total,
-            ]
-
-            total += item_total
-
-    return total
+    return detail_lines

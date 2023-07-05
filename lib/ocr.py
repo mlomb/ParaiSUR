@@ -67,14 +67,12 @@ def run_ocr_image(image_path: str, params: OCRParams) -> dict:
     image = cv2.imread(image_path)
 
     # preprocess image
-    if params.deskew:
-        params.grayscale = True
     if params.grayscale:
         image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     if params.deskew:
-        raise NotImplementedError()
-        # angle = determine_skew(image)
-        # image = rotate(image, angle, resize=True) * 255
+        angle = determine_skew(image)  # type: ignore
+        image_deskew = rotate(image, angle, resize=True)  # type: ignore
+        image = (image_deskew * 255).astype("uint8")  # volver a 0-255
     if params.threshold is not None:
         _, image = cv2.threshold(image, params.threshold, 255, cv2.THRESH_BINARY)
 
