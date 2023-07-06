@@ -7,7 +7,7 @@ from lib.data import load_all_invoices
 from lib.ocr import get_ocrs
 
 
-def find_invoice_cached(sample: dict) -> str | None:
+def find_invoice_cached(sample: dict, only_cache=False) -> str | None:
     """
     Intenta encontrar el invoice de un sample, se cachea si se encuentra.
     """
@@ -16,6 +16,10 @@ def find_invoice_cached(sample: dict) -> str | None:
     invoice = get_cache(cache_key)
     if invoice is not None:
         return invoice
+
+    if only_cache:
+        # no buscar en el cache
+        return None
 
     invoice = find_invoice(sample)
     if invoice is not None:

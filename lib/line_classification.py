@@ -1,3 +1,7 @@
+from functools import cache
+
+from thefuzz import fuzz, process
+
 from lib.data import load_first_names, load_last_names
 
 
@@ -13,10 +17,13 @@ def is_professional(desc: str):
     words = desc.split()
 
     # matchear "Nombre Apellido"
-    first_names = load_first_names()
-    last_names = load_last_names()
+    # first_names = load_first_names()
+    # last_names = load_last_names()
     for i in range(len(words) - 1):
-        if words[i] in first_names and words[i + 1] in last_names:
+        # if words[i] in first_names and words[i + 1] in last_names:
+        #     professional = True
+
+        if is_first_name(words[i]) and is_last_name(words[i + 1]):
             professional = True
 
     PROFESSIONAL_KEYWORDS = [
@@ -26,40 +33,80 @@ def is_professional(desc: str):
         "cnslt",
         "compensation",
         "consultant",
-        "consultant",
-        "consutlant",
         "contractor",
         "coordinator",
         "designer",
         "director",
         "drafter",
-        "electrical engi",
+        "electrical",
         "engi",
         "engineer",
         "engineering",
         "estimator",
         "expert",
-        "managem",
         "management",
         "manager",
-        "pm",
+        "scheduler",
         "scientist",
         "senior",
         "specialist",
         "supervisor",
-        "tec",
         "technical",
         "technician",
+        "workshop",
+        "meeting",
     ]
 
     for word in words:
-        if word.lower() in PROFESSIONAL_KEYWORDS:
+        if process.extractOne(
+            word,
+            PROFESSIONAL_KEYWORDS,
+            scorer=fuzz.ratio,
+            score_cutoff=80,
+        ):
             professional = True
 
-    NEGATIVE_KEYWORDS = ["travel", "trvl", "weekend", "credit", "equipment"]
+    NEGATIVE_KEYWORDS = [
+        "charges",
+        "contingent",
+        "credit",
+        "equipment",
+        "expenses",
+        "part",
+        "travel",
+        "trvl",
+        "weekend",
+    ]
 
     for word in words:
-        if word.lower() in NEGATIVE_KEYWORDS:
+        if process.extractOne(
+            word,
+            NEGATIVE_KEYWORDS,
+            scorer=fuzz.ratio,
+            score_cutoff=80,
+        ):
             professional = False
 
     return professional
+
+
+@cache
+def is_first_name(firstname: str):
+    first_names = load_first_names()
+    return process.extractOne(
+        firstname,
+        first_names,
+        scorer=fuzz.ratio,
+        score_cutoff=90,
+    )
+
+
+@cache
+def is_last_name(lastname: str):
+    last_names = load_last_names()
+    return process.extractOne(
+        lastname,
+        last_names,
+        scorer=fuzz.ratio,
+        score_cutoff=90,
+    )

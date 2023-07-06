@@ -25,6 +25,8 @@ paddlepaddle-gpu = "*"
 deskew = "*"
 scikit-image = "*"
 fasttext = "*"
+thefuzz = "*"
+python-levenshtein = "*"
 
 [dev-packages]
 ipykernel = "*"
