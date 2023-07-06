@@ -44,17 +44,22 @@ def is_professional(desc: str):
         "engineering",
         "estimator",
         "expert",
+        "extra hours",
         "management",
         "manager",
+        "meeting",
         "scheduler",
         "scientist",
         "senior",
         "specialist",
         "supervisor",
+        "support",
         "technical",
         "technician",
+        "travel",
+        "trvl",
+        "weekend",
         "workshop",
-        "meeting",
     ]
 
     for word in words:
@@ -62,7 +67,7 @@ def is_professional(desc: str):
             word,
             PROFESSIONAL_KEYWORDS,
             scorer=fuzz.ratio,
-            score_cutoff=80,
+            score_cutoff=60,
         ):
             professional = True
 
@@ -73,9 +78,7 @@ def is_professional(desc: str):
         "equipment",
         "expenses",
         "part",
-        "travel",
-        "trvl",
-        "weekend",
+        "travel expense",
     ]
 
     for word in words:
@@ -83,7 +86,7 @@ def is_professional(desc: str):
             word,
             NEGATIVE_KEYWORDS,
             scorer=fuzz.ratio,
-            score_cutoff=80,
+            score_cutoff=60,
         ):
             professional = False
 
@@ -96,8 +99,8 @@ def is_first_name(firstname: str):
     return process.extractOne(
         firstname,
         first_names,
-        scorer=fuzz.ratio,
-        score_cutoff=90,
+        scorer=fuzz.partial_ratio,
+        score_cutoff=85,
     )
 
 
@@ -107,6 +110,6 @@ def is_last_name(lastname: str):
     return process.extractOne(
         lastname,
         last_names,
-        scorer=fuzz.ratio,
-        score_cutoff=90,
+        scorer=fuzz.partial_ratio,
+        score_cutoff=85,
     )
