@@ -1,5 +1,7 @@
+import json
 from dataclasses import dataclass
 from functools import cache
+from pathlib import Path
 from typing import Literal
 
 import cv2
@@ -10,14 +12,16 @@ from paddleocr import PaddleOCR
 from skimage.color import rgb2gray
 from skimage.transform import rotate
 
-from lib.cache import get_cache, set_cache
-
 
 def get_ocrs(sample) -> dict:
     """
     Obtiene los OCRs ya computados
     """
-    return get_cache(sample["filename"] + "-ocr.json") or {}
+    try:
+        with open(Path("../data-cache") / (sample["filename"] + "-ocr.json")) as f:
+            return json.loads(f.read())
+    except FileNotFoundError:
+        return {}
 
 
 @dataclass
@@ -45,7 +49,7 @@ def run_ocr_sample(sample, params: OCRParams):
     id = params.id()
     cache_key = sample["filename"] + "-ocr.json"
 
-    db = get_cache(cache_key)
+    db = get_ocrs(cache_key)
     if db is not None:
         # check if it is already generated
         if id in db:
@@ -60,7 +64,8 @@ def run_ocr_sample(sample, params: OCRParams):
     if db is None:
         db = {}
     db[id] = pages
-    set_cache(cache_key, db)
+    with open(Path("../data-cache") / cache_key, "w") as f:
+        f.write(json.dumps(db))
 
 
 def run_ocr_image(image_path: str, params: OCRParams) -> dict:

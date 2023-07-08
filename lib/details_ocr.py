@@ -77,6 +77,7 @@ def split_detail_line(line):
     # TODO: si el numero empieza con 5, o -5, cambiar por un $, que tambien se confunde
     total_str = line[-1]["text"].strip()
 
+    # https://i.imgur.com/trbYo80.png ↓
     money_regex = r"(-?)(?:\$|S)(\d{1,3}(?:(?:\.|,)?\d{3})*(?:\.|,))(\d{1,2})"
     money_match = re.search(money_regex, total_str, re.IGNORECASE)
 

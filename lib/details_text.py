@@ -66,14 +66,6 @@ def extract_details_from_text(text: str) -> list[dict]:
                 lines.append(line)
             line = []
 
-            # reiniciar si el item no empieza con $
-            # if item[0] != "$":
-            #    # ignorar linea entera si empieza con un detector
-            #    if line != [] and line[0] not in DETAILS_LABELS:
-            #        lines.append(line)
-        #
-        #    line = []
-
         line.append(item)
 
     def parse_number(x: str):
@@ -105,6 +97,13 @@ def extract_details_from_text(text: str) -> list[dict]:
             expected_total,
         ]
 
-        detail_lines.append({"desc": line[0], "total": item_total})
+        detail_lines.append(
+            {
+                "desc": line[0],
+                "price": item_price,
+                "hours": item_hours,
+                "total": item_total,
+            }
+        )
 
     return detail_lines
