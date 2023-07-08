@@ -33,8 +33,8 @@ def is_professional(desc: str, debug=False):
 
     # matchear "Nombre Apellido"
     for i in range(len(words) - 1):
-        name = is_first_name(words[i], score_cutoff=90) and words[i] != "project"
-        last = is_last_name(words[i + 1], score_cutoff=90)
+        name = is_first_name(words[i], score_cutoff=85) and words[i] != "project"
+        last = is_last_name(words[i + 1], score_cutoff=75)
         if name and last:
             if debug:
                 print("nombre apellido", words[i], words[i + 1])
@@ -99,6 +99,8 @@ def is_professional(desc: str, debug=False):
         "special on site",
         "time entered",
         "sub cc",
+        "travel weekend",
+        "trvl weekend",
     ]
 
     NEGATIVE_KEYWORDS = [
@@ -117,6 +119,9 @@ def is_professional(desc: str, debug=False):
         "travel",
         "individual",
         "group",
+        "2021",
+        "2022",
+        "2023",
     ]
 
     NEGATIVE_PHRASES = [
@@ -125,6 +130,8 @@ def is_professional(desc: str, debug=False):
         "meal on",
         "travel expense",
         "travel from",
+        "admin fees",
+        "credit note",
     ]
 
     professional = (
@@ -139,7 +146,7 @@ def is_professional(desc: str, debug=False):
         or does_match(
             queries=phrases,
             choices=PROFESSIONAL_PHRASES,
-            score_cutoff=60,
+            score_cutoff=87,
             debug_label="professional phrase",
             debug=debug,
         )
@@ -150,7 +157,7 @@ def is_professional(desc: str, debug=False):
         and not does_match(
             queries=words,
             choices=NEGATIVE_KEYWORDS,
-            score_cutoff=87,
+            score_cutoff=90,
             debug_label="negative keyword",
             debug=debug,
         )
@@ -179,9 +186,9 @@ def does_match(
     for query in queries:
         # heur, si la palabra es larga y esta en el query, mandale
         for choice in choices:
-            if len(choice) >= 6 and choice in query:
+            if len(choice) >= 4 and choice in query:
                 if debug:
-                    print(debug_label, "|", query, choice)
+                    print(debug_label, "(in)", "|", query, "|", choice)
                 return True
 
         match = process.extractOne(
