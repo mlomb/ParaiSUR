@@ -27,6 +27,7 @@ scikit-image = "*"
 fasttext = "*"
 thefuzz = "*"
 python-levenshtein = "*"
+diskcache = "*"
 
 [dev-packages]
 ipykernel = "*"
