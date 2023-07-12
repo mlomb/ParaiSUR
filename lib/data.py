@@ -38,7 +38,7 @@ def load_all_invoices():
 
 @cache
 def load_first_names():
-    with open("../data/first_names.txt") as f:
+    with open("../cache/first_names.txt") as f:
         names = f.read().splitlines()
 
     return [n.lower() for n in names]
@@ -46,7 +46,7 @@ def load_first_names():
 
 @cache
 def load_last_names():
-    with open("../data/last_names.txt") as f:
+    with open("../cache/last_names.txt") as f:
         surnames = f.read().splitlines()
 
     return [s.lower() for s in surnames]

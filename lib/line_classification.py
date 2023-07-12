@@ -7,6 +7,12 @@ from thefuzz import fuzz, process
 from lib.data import load_first_names, load_last_names
 
 
+prof_cache = dc.Cache("../cache/prof")
+
+
+# Si se trabaja en esta funcion hay que limpiar el cache
+# Dejo el cache para hacer rápido otros análisis
+@prof_cache.memoize(tag="prof")
 def is_professional(desc: str, debug=False):
     professional = False
 
