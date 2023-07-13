@@ -1,4 +1,5 @@
  - Lisa Lee $181.00
+ -Matthex Kight 37.50 $63.00
  Administrative 0.25 $0.36
  Administrative 7 $170.00
  Associate -project work 1 $215.00
@@ -16,11 +17,14 @@
  entered - William Huynh 0.50 $143.96
 (na Rice - Project Controls Scheduler 1 $127.87
 - Madison Carson 21 $131.00
+--Jennifer Sath $114.00
 -Ashley Thompso 4 $68.80
 -Cameron Williams 40 $93.00
 -Courtney Chung 32 -S85.00
 -Dr.Matthew Bush MD 108.50 $111.36
 -Joseph Powell 40 $163.00
+-Keliy Greer 9.50 $35.00
+-Madisoa Carson 16 $116.00
 -Madison Carson $131.00
 -Madison Carson 25.20 $116.00
 -Madison Carson 26 $128.38
@@ -42,7 +46,6 @@
 -monitoring 8 $181.00
 -nda 40 $14.00
 -oject Scheduler I - 2 $31.42
--projectwork 40 $135.00
 -special on-aite 40 163.00
 -special on-site 10 $192.00
 -special on-site 24 $128.3
@@ -50,7 +53,6 @@
 -sub-contractor 6.50 $181.00
 . Engineer - Lori Kelly 8 $146.22
 .Project Manager $201.56
-.abooDaeisthi Procct Both -Epmat $352.26
 .onsultant Technical IV 40 $163.00
 0 - Amanda Yates
 0 - Amber Adams
@@ -136,6 +138,7 @@
 0 - Tyler Cooke 0.50 $26.00
 0 -Francisco Allen 3 $181.00
 0 -Meliasa Broun 23.20 $116.00
+0 -Melissa Brc 27.60 $16.00
 0 -Melissa Brown 13.60 $116.00
 0 -Melissa Brown 7.75 $83.00
 0 -Michael williams 40 $163.00
@@ -209,9 +212,11 @@
 0-Austin Hopkins 3 $181.00
 0-Billy Smith 5 $181.00
 0-Brandi Wilkerson 40 $163.00
+0-Cani Barton 36.03 $155.00
 0-Cassidy Lopez 5 $170.00
 0-Charies Wood 11.75 $181.00
 0-Charles Wood 40 $163.00
+0-Eiizabeth Casey 2 $181.00
 0-Francisco Allen 24 $163.00
 0-Heather Mccall 6.51 $170.00
 0-Heather Mocall 5.71 $170.00
@@ -311,7 +316,6 @@
 0-nda 40 $163.00
 0-nda 40 S135.00
 0-nda 8 $135.00
-0-prayect work 40 $163.00
 0-project work 2 $181.00
 0-project work 24 $163.00
 0-project work 27 $163.00
@@ -332,11 +336,11 @@
 0-support 40 $207.00
 0-trvl weekend 14 $131.00
 0-trvl weekend 32 $93.00
+0.Toda Browning 40 $163.00
 1Manager -compensation 2 $176.34
 1Olson-Project Scheduler I 1 $68.80
 1Wilson-Project Manager IV 0.75 $89.80
 1t Manager 2 $176.34
-2022 na
 3.Manager 6 $325.00
 3IS Specialist - Justin Johnson 139 $36.17
 3IS Specialist 158 $5.54
@@ -379,9 +383,12 @@ A  Consultant - Leah Gardner MD 72.75 $81.60
 A Thompaon -Prcject Manager IV 1 $68.80
 A te Engineer -monitoring 2.25 $103.48
 A te Engineer 8.50 $103.48
+A-in Pees 1 $1.417.50
+A-in Pees 1 $9.271.80
 A: ngineer - Curtis Bennett $163.00
 ACMINISTRATIVE 5 $81.00
 ACNINISTRATIVE -Chri er Alien $79.30
+ADM RATIVE - Andrew Littie 2.50 $79.30
 ADM RATtVE - Andrew Little $81.00
 ADMINISTRATEVE 1.50 $91.00
 ADMINISTRATEVE 8 81.00
@@ -515,6 +522,7 @@ ADVINISTRATIVE - Melissa Brow 14.80 $116.00
 ADXINISTRATIVE - Christopher Allen 2 579.30
 ADYINISTRATIVE - Paul Macias 579.30
 AGER - Steven Hubbard 5 $177.80
+AI ees 1 $302.34
 AIMINISTRATIVE -sub-contractor 3.50 $79.30
 ALNINESTRATIVE 5 $81.00
 ANAGER -Melissa Brcwn 14 $131.00
@@ -594,8 +602,10 @@ ASScCIATE I -compensation 18 $93.30
 ASSoCE er-Marie Wang 6 S100.47
 ASSocATE II -compensation 5 $111.00
 Aaa Richmond - Engineering Expert
+Aabg 8% FaX to all values
 Aahley Gomez -Project Manager I 0.25 $36.19
 Aaministrative -Mark Watkins 1.50 $85.00
+Aan es 1 $3.667.50
 Aanda Yates -Associate 40 $163.00
 Aaron Beard - Sr.Scientist 350.C0
 Aaron Olson - Administrative
@@ -662,15 +672,10 @@ Acministrative 60 $207.60
 Acministrative 7.25 $38.65
 Acministrative I - Shawn Franklin 9.37 $181.00
 Ad inistrative - Connie ilson 2
-Ad-in Tees 1 $66.13
-Ad-in Tees 1 $9.60
-Ad-in Tees 2 $47.95
-Ad-in Tees s42.89
 Ad-iniatrative - Thocas Coeman 2 $93.15
 Ad-inistrative - kahiey Thompson 1 $68.80
 Ad-inistrative 2 $31.42
 Ad: trative - Amanda Thompson 4 $42.27
-Ad=in Tees 1 $596.12
 Adainiscratve - Thomas Coleman 1.50 $93.15
 Adainistrative 0.25 $17,42
 Adainistrative 0.75 $15.
@@ -700,6 +705,7 @@ Adam Russell-Tochnical Supervisor 0.50 $19
 Adam Russt Engineer 0.50 $146.22
 Adam ll - Sr. Engineer 0.50 $146.22
 Adan Rusaell -Technical Svpervigor 0.50 $299.04
+Ade ces 1 $5.62
 Adeinistrative 18 $115.00
 Adeinistrative-add. cn $68.80
 Adi is $5,100.00
@@ -717,13 +723,14 @@ AdmAoanK Time. nteyerr-Bobby/bnes you, Aksana 0.50 131.06 $93.15 $131.06
 Admi ive I -management 1.50 $85.00
 Admimistrative -Shawn Franktin 40 $163.00
 Admimistrative 0.75
-Admin Fes is wrona 1 $64.72
 Admin I $31.70
 Admin I $7.00
 Admin I 1 $34.01
 Admin Te 1 $329.CC
+Admin atrative - Ashley Thcmpson 2 $68.80
 Admin i 1 $4,064.81
 Admin ive -Ashley Gomez 0.25 $15.00
+Admin strative - Jeffrey Hclmes 1 $68.80
 Admin strative -project work $93.15
 Adminiatrative - Ashley Thempson ? $68.80
 Adminiatrative -monitoring 15 $31.00
@@ -1402,6 +1409,20 @@ Adminiteative-Melissa Williams $15.00
 Admir ive-monitoring $15.00
 Admir ive-nda 7.50 $38.65
 Admninistrative ( - Robert Colon 3.50 $181.00
+Admy ees /$1,050.00
+Adn es 1 $0.00
+Adn es 1 $0.31
+Adn es 1 $149.28
+Adn es 1 $264.51
+Adn es 1 $298.56
+Adn es 1 $329.00
+Adn es 1 $4.984.88
+Adn es 1 $543.00
+Adn es 1 $66.13
+Adn es 1 $870.00
+Adn es 2 $3,442.50
+Adn tes 1 $264.19
+Adn zes $109.66
 Adni is $2,105.88
 Adnin Pe 1 $802.91
 Adniniatrative - Tiffany Anderson 7.25 $38.65
@@ -1428,14 +1449,14 @@ Adotinistrative 2 568,80
 Adr trative - Ashley Gomez 1 $15.00
 Adr zes I $0.00
 Adriana Baird - 0 34 $111.36
-Adrin Tees 1 $3,937.50
-Adrin Tees 1 S4,645.50
+Adrin Fe 1 $6.45
 Adrm.i s 1 $513.69
 Adrninistrative - David Davis  4  $68.80
 Ads rative-special on-site 8 $38.65
 Adsinistracive - Rachael Shaw 2 $68.80
 Afexandra Torres - Sr. Project Engimcer $193.24
 Aficia Mofina - PRO]ECT MANAGEM 7 $261.21
+Ai ees 1 $900.00
 Aiexa Foster - Design Drafter 2.50 $24.53
 Aiexander Adams - GIS Special st 200 $2.97
 Aiexi  - Design Drafter 0.50 $124.53
@@ -1499,6 +1520,7 @@ Alexander Keller - ASSOCIATE II
 Alexander Keller - ASSOCIATE II 158 $111.00
 Alexander Keller - ASSOCIATE II 315 $111.00
 Alexandra Ton Project Engineer 0.50 $193.24
+Alexandra Tor
 Alexandra Torre hnical Supervisor 1 $199.04
 Alexandra Torres - Se. Project Engiccer 1 $193.24
 Alexandra Torres - Sr. Project Enginee 1 $193.24
@@ -1656,6 +1678,12 @@ Amber Adams-Associate 40 $163.00
 Amber Adams-Speci olease inctadfet $163.00
 Amber Duarte - Project Manager III 8
 Ambor Engineer Design II(Enginccr $6.63
+Amou erdue-441649407 ine Jaument erms $57.19
+Amount Ove-due - D11535455 1 $121.06
+Amount Ove-due - M07592029 2 $176.23
+Amount Ove-due -515690533 1 $230.68
+Amount Ove-due -M99701294 1 $2.205.00
+Amount Overdert Tems Seep tope incomplet 45731 $2,016.90
 Amount Overduc -G340920 lue Jale is wrong 1 5352.26
 Amt dan - Senior Consultant 10 $170.00
 Amv Hanson-Sr.Spocialist 0.50 $221.97
@@ -1897,6 +1925,7 @@ Anna Patterson - Design Engineer 4 $181.00
 Anne Williams - Project Controls Scheduler 40 $163.00
 Anne Williams - Project Engineer
 Anne Williams-Engineer Design Ill (Senior) 40 $163.00
+Annerfeer lue Soon 12 $68.80
 Ans Smith - Project Manager III 24 $100.00
 Ansociate Engineer $103.48
 Ant! 3eran-ENGIKEERING 3.50 $199.94
@@ -1935,6 +1964,7 @@ Antonio Saunders - SENIOR DESIGNER
 Antonio Saunders - SENIOR DESIGNER 136 $128.70
 Antonio Saunders - SENIOR DESIGNER 29 $139.00
 Antonio Saunders - SENIOR DESIGNZR $138.00
+Aon es 1 $1.350.00
 AoteShipping Date is missing $755.62
 April Todd - Engineering Consul 1.72 $181.00
 Ar Ivarez-Project Manager IIi 40 $163.00
@@ -3055,6 +3085,7 @@ Austin Hopkins -Senior PM 1 $181.00
 Austin Hopl GIS Specialist  35 $163.00
 Austin Robinson - Consultant Technical III
 Austin Robinson - GIS Specialist
+Autumn Je n-Principal 13.60 $420.00
 Autumn Jefferson - Principal
 Autumn Jefferson - Principal 0 $420.00
 Autumn Jefferson - Principal 10.70 $420.00
@@ -3066,7 +3097,9 @@ Autumn Jefferson -Principal 7.90 $420.00
 Autumn Jefferson-Principal $420.00
 Autumn Jefferson-Principal 18.70 $420.00
 Autumn Jefferson-Principal 7.30 $420.00
+Autumn Jefforsen-Principaf 45.30 $420.00
 Axso Engincer -special on-sie $100.47
+B-ittney Medonalc - Des gner 9 $85.04
 B=ian Cock - Asscciate Engineer $103
 Barbara Clark - Associate Consuitant 127.50 $81.60
 Barbara Clark - Associate Consultant 182.50 $81.60
@@ -3130,6 +3163,7 @@ Benjamin Oliver-ENGINEERING TEC 17 $117.46
 Benjamtin Lamb - Senior Anaiyst 137.50 $160.00
 Benjanin Clarke -Project Scheduler 7 $38.65
 Bennett Administrative $68.80
+Beverly Hayeni Fafracking Vumper 160
 Beverly Hays - Senior Consultant 84.50 $216.00
 Beverly Hays-Senior Consultant 76 $216.00
 Billy Smith - 0 40 $163.00
@@ -3413,6 +3447,7 @@ Brian Thompson - GIS Specialist 186 $29.38
 Brian Tran - Sr. Engincer 3.50 $265.00
 Brian Tran - Sr. Engineer 14.10 $265.00
 Briana Brad roject Manager I 40 $163.00
+Briana Bradforc  40 $163.00
 Briana Bradford - Administrative I  40 $163.00
 Briana Bradford - CONSTRUCTION SPECIALIST V 36.50 $163.00
 Briana Bradford - Construction Specialist II
@@ -3522,6 +3557,7 @@ Bryce Rosales - GIS Specialist 210 $2.97
 Bt Williams - Associate Engincer 3 $103.48
 C ant TechnicalIII 0.25 $195.00
 C so.cO
+C-TRO arsen 29 $163.00
 C-management 40 $163.00
 C. ct Enginoer $199.04
 C. tion Manager 2 $181.00
@@ -4166,6 +4202,8 @@ CIVIL ENGINEER-monitoring 14 s143.21
 CIVIL ENGINEER-mothy Robinson 40 $103.00
 CIVIL ENGINEER-sub-contractor 47.50 $143.21
 CIVIL ENGJNEER - Stephen Ramirez 70.50 $143.2f
+CIVILENGINE lakayla Crawford 21 $207.00
+CIVILENGINEE 14 $143.21
 CIVILENGINEER $143.21
 CIVILENGINEER 11.50 $143.21
 CIVILENGINEER 3 $143.21
@@ -4173,7 +4211,6 @@ CIVILENGINEER 30 S143.21
 CIVILENGINEER-SME 0 $170.00
 CIVILENGINEER-add.cnsft 3 S143.21
 CIVILENGINEER-support 11 $143.21
-CIi eting on 2022-12-09 $2,486.99
 CLECTRICALENGI $123.
 CO TANT TECHNICAL III- Jeffrey Thomas 40 $163.00
 CONS TION SPECIALISTV 34.50 $200.56
@@ -4356,6 +4393,7 @@ CONSULTANTTECHNICAL IN 23 $16.09
 CONSULTANTTECHNICALIII 6 $153.07
 CONSULTANTTECHNICALNI 7 S148.61
 CTRICAL ENG! 0.50 $143.21
+CTRICALENGI 3 $148.23
 Cadc ter I-Mark Watkins 32.50 $120.00
 Cadd Drafier -compensation $120.00
 Cadd Draftcr I-nda $120.00
@@ -4478,6 +4516,7 @@ Carl Barton -Design Drafte $155.00
 Carl Barton-Project Manager IIl 0.83 $155.00
 Carl Barton-Specialist III 0.03 $155.00
 Carl Wilson -GIS Specialist 250 $2.97
+Carla Ki -Microstation 2D 6 3D 0.25 $85.04
 Carla Kirby - Designer
 Carla Kirby - Designer 0.25 $85.04
 Carla Kirby - Designer 0.50 $85.04
@@ -4500,6 +4539,7 @@ Carla Kirby -Designer 4.25 $85.04
 Carla Kirby -Micn n 2D&3D 2 $85.04
 Carla Kirby -Microstation 2D &3D 1 $85.04
 Carla Kirby -Microstation 2D& 3D 0.50 S85.04
+Carla Kirhy -Nicrostacon 2D  3D 0.50 $85.04
 Carla Kiroy -Microstation 2D&3D $85.04
 Carla Kiroy-Microstation 2D&3D 0.25 S85.04
 Carla Zimmerman - GIS Specialist 200
@@ -4647,6 +4687,8 @@ Charles Wood -Project Engineer 4 $181.00
 Charles Wood -Project Manager 19 $181.00
 Charles Wood-Microstation 2D&3D 37 $163.00
 Charles Wood-Project Scheduler I 12.08 $181.00
+Charles Xood - : 2 $181.00
+Chent mecting  -21 $6,520.00
 Chery Brown - SENIOR ASSCCIATE C.50 $128.70
 Chery Valencia -Technical Supervisor 20 $181.00
 Chery-Valencia- Project Nanager 40 $183.00
@@ -4753,6 +4795,7 @@ Christopher Harris - Principal 5.75 $68.80
 Christopher Harris - Project Manager 5 . 25 $68.80
 Christopher Harris -Principal 0.50 $68.80
 Christopher Ho - Construction Manager
+Christopher Koods - neer 53.40 $61.28
 Christopher Mancock - ENGINEERING TEC 15.50 $113.48
 Christopher Noccs- Engineer 90.80 $161.28
 Christopher Osborne -GIS Specialist 144 $111.36
@@ -4777,10 +4820,10 @@ Christopher Woods -Engineer 96.50 $161.28
 Christopher Woods eer 85.10 $161.28
 Christopher i-Progam Manager 168.50 $2.97
 Christy Alvarado - Program Manager 90 $2.97
+Cierical -Mak Rios 0.50 $51.71
 Cierical -Mark Rios 0.50 $51.71
 Cierical -extra hours 0.50 $51.71
 Cierical -trvi xeekend 0.50 $51.71
-Ciient me 1 on 2023-01-23 $2,691.20
 Cindy Baker - Executive Consutlant
 Clerical
 Clerical - Mark Rios
@@ -4790,7 +4833,6 @@ Clerical - Tammy Fritz
 Clerical -nda
 Clerical -special on-site 0.50 $51.1
 Clerical 0.50 $51.71
-Clie etng on 2021-08-30 $76.34
 Co int Technical I-Mark Watkins 3 $151.00
 Co: tegert-PM III 12 $68.80
 Cody Speara - Microstation 20 & 30 0.75 $55.99
@@ -5265,6 +5307,7 @@ Controls Scheduier $127.87
 Controls Scheduler-add. cnslt 0.50 $127.87
 Conulisn Tecnical 29 S128.38
 Cor nt TechnicalI-Mark Watkins 1 s151.00
+Cor nti 193.20 $135.36
 Cor t-Dwayne Porter 108 $185.00
 Coraultart Tecknical I - Mark Natkins 1.50 $151.00
 Corey Bailey Jr. - Associate Consultant 152 $81.60
@@ -5384,7 +5427,6 @@ Crystal Miles-GIS Specialist 80 $2.97
 Crystal Obrien -Administrative 3 $0.36
 Crystal Stevens - Consultant Technical III
 Crystal. Project Scheduler I $93.15
-Ctie ing on 2021-01-18 1 $4.448.00
 Cu: Bennett- Pcoject Concrols Scheduler 14 $181.00
 Curtis Benett-Engineer Design S (Senior) 32 $163.00
 Curtis Benneit -Project Manager 8 $181.00
@@ -8289,6 +8331,7 @@ Edward Sreer - CADD DrafterII r Design Drafter) 2 59,07
 Edwards -Proect Scheduler  1 $68.80
 Egineer Design W(Senior-support 22 $198.00
 Eineer Desig $202.00
+Eliaabeth Casey - 0 40 $163.00
 Elizabeth Barmett-GIS Specialist $2.97
 Elizabeth Berger - GIS Speciaiist 38.50 $5.54
 Elizabeth Berger - GIS Specialist $5.54
@@ -9984,7 +10027,6 @@ Engineer-SME 0.50 $121.06
 Engineer-SME 0.50 $199.04
 Engineer-SME 40
 Engineer-SME 40 $163.00
-Engineer-ShE 22023-11-09 Ksana 3 1 $2,546.88 $121.06 $2,546.88
 Engineer-Stephen Anderson 38.80 $161.28
 Engineer-Stephen Anderson 68.50 $161.28
 Engineer-Thomas Larsen $163.00
@@ -10588,7 +10630,6 @@ Executive Consuttant Date is nrong 5 $68.80
 Exex onsutlant-special on-site 12 $68.80
 Exi ve Consutlant - Pamela Michael $68.80
 Expe $97.98
-Experse f:om 2021-03-29 526
 FINANCE - Kevin Lee
 FINANCE - Madison Carson 15 $131.00
 FINANCE - Marx Mcintosh 1 $75.17
@@ -10616,13 +10657,18 @@ FINANCE-Mary Nie 3 $142.75
 FINANCE-Mary Nielsen 2 $142.76
 FINANCE-Megan Sanchez 40 $163.00
 FINANCE-Thomas Leonard 3 $181.00
+FINANCE-Timethy Robinson 26.25 $163.00
 FINANCE-monitoring 3 $142.75
 FINANCE-nda 40 $118.00
 FINANCE-project work 0.75 $142.75
 Felici ler - Project Manager Iv 121.90 $130.00
 Fernandez-Engineering Consultantl 151 $81.60
 Fire entered -Gloria Marshall 4.75 $146.22
+Francea Davicaon - Mieroatation 2D s 3D 4.50 $57.67
+Frances Dav-dson - -Xicrostation 2D s 30 1.50 $57.67
 Frances David 1icrostation 2D &3D 1.75 $57.67
+Frances Davidscn - Microstation 20 s 3D $57.67
+Frances Davidscn - Microstation 2D s 30 4 $57.67
 Frances Davidson  Microstation 2D & 3D 1.75 $57.67
 Frances Davidson - Microstation 2D  3D 1.50 $57.67
 Frances Davidson - Microstation 2D & 3 1.25 $57.67
@@ -11927,6 +11973,7 @@ Heather Mccall-0 6.06 $170.00
 Heather Mccall-Design Engineer 40 $170.00
 Heather Mccall-Design Engineer 40 170.00
 Heather Moody - Program Manager 2 $18.00
+Heather Nccall - Principal 7.60 $170.00
 Heather Nccall - Specisiist III 2.05 $170.00
 Heather Norton - Project Scheduler I 4 $57.19
 Heather Norton - Project Scheduler I 8 $57.19
@@ -11967,6 +12014,7 @@ IS Specialist 90 S13.14
 IS Spejlit -Chritn S atcotad moant base on 169 $68.45
 Ian Macias - Engineering Consultant II
 Ict Manager III -extra hours 155 $2.97
+Indiau tneSo $0.25
 Indon Williams - Associate Engineer 8 $103.48
 Inio Saunders-SENIOR DESJGNER 20 $128.70
 Iony Adams - ADMINISTRATIVE $81.00
@@ -12063,6 +12111,7 @@ James Jones - Project Manager Iff 1 $93.15
 James Le - GIS Specialist
 James Le-Program Manager 149 $76.29
 James Mills-Engineer 9 $121.06
+James Nansen - 0 32 $135.00
 James Patel-GIS Specialist 84 $2.97
 James Ramos-Project Manager I 40 $163.00
 James Rivera - Program Manager
@@ -12086,6 +12135,7 @@ James Rowe -Designer 4.50 $82.56
 James Rowe -Desigr 0.50 S85.04
 James Rowe-Designer 2.50 $85.04
 James Rowe-Designer 3 S85.04
+Jamie Fieming - Microstation 2D &3D 1 $57.67
 Jamie Fleming - Micros 2D&30 4.75 $55.99
 Jamie Fleming - Microstation 2D & 2 $57.67
 Jamie Fleming - Microstation 2D & 3D
@@ -12106,6 +12156,7 @@ Jamie Fleming-Microstation 2D &3D 2 $57.67
 Jamie Fleming-Microstation 2D &3D 2.25 $57.67
 Jamie Fleming-Microstation 2D&3D 1 $55.99
 Jamie Fleming-Microstation 2D&3D 4.75 $57.67
+Jamie Flen 4icrostation 2D3D 1.75 $57.67
 Jamie Howard -Eng Design II Sr.Estimator 0.50 $89.00
 Jamie Lane - Associate 72 $245.00
 Jamie Lane-Associate $5.50 $245.00
@@ -12113,6 +12164,7 @@ Jamie Patterson - Engineering Consuftant ! 159 $81.60
 Jamie Patterson-Engineering Consultant I 127.75 $81.60
 Jamie Patterson-Engineering ConsultantI 167 $81.60
 Jamie Phillips - Project Manager III
+Jamie Pieming - Micrcstation 20 s 3D 1 $57.67
 Janager 1.50 s375.00
 Janes Hansen - Design Drafcer 40 5135.00
 Janes Le - Prograr Manager 166 $76,29
@@ -13170,6 +13222,7 @@ Kevin Smith - DESIGNER 8 $104.00
 Kevin Smith - DESIGNZR $104.00
 Kevin Smith -DESiGNER 4 $104.00
 Kevin Smith-DESIGNER 26 $104.00
+Khitney Grant - Microstation 2D & 3D 4 , 25 7.67
 Killiam Huynh - Technical Supervisor 1 $199.04
 KilliamTurner - Project Manager II $57.19
 Kim Freeman - Engineering Consultant I
@@ -13196,6 +13249,7 @@ Kimberly Stevens - Program Manager 161 $18.00
 Kimberly Stevens -GIS Specialist 250 $2.97
 Kimberly Stevens -Program Manager 153 $2.97
 Kista Chandier -Microstation 2D s 3D 2.25 $57.67
+Kri Soto- 40 $63.00
 Kripmem Project Manager /pecial on-site horiney ana $15.00
 Krista Chandler - Microstaticn 230 $57.67
 Krista Chandler - Microstaticn 2D 6 3D 3.75 $55.99
@@ -13225,6 +13279,7 @@ Krista Chandler :- Micros: n 2D & 3D 3.75 $57.67
 Krista Chandler-Microstation 2D &3D 0.75 $57.67
 Krista Chandler-Microstation 2D &3D 1 $57.67
 Krista Chandler-Microstation 2D &3D 2 $55.99
+Krista Chraoder-Microstation 2D&3D 4.75 $57.67
 Krista Clements - Sr. Associate 190 $225.00
 Krista Clements -Manager 171.50 $260.00
 Kristen Moore - Engineer Design III (Senior)
@@ -13570,6 +13625,7 @@ Level I1-Jeffrey Sharp $140.00
 Level ll - David Baker 1 $220.00
 Level ll -monitoring $140.00
 Level11-WFH 30 $163.00
+Levelll- Jeffrey Sh $140.00
 Li :hmond -Engineering Expert 2 $350.00
 Lia Mendoza-Administrative $163.00
 Liaa Richmond -Engineering Expert $350.00
@@ -13611,8 +13667,10 @@ Lindsey Hocd - Project Manager IV 3 $6.63
 Lindsey Wood - Engineer Design I (Er 3 $6.63
 Lindsey Wood - Engineer Design II (Engineer) 5 $6.63
 Lindsey Wood - Project Manager IV
+Linv JueSoon 37.10 $275.00
 Lis Project Manage 2.75 $176.34
 Lisa Buchanan -Project ManagerII 166 $5.54
+Lisa Coatreras - Microstation 2D & 3D 5.50 S57.67
 Lisa Contreras - Micro ation 2D 3D 9 557.67
 Lisa Contreras - Microstation 20 6 30 4.50 67
 Lisa Contreras - Microstation 2D & 3D
@@ -13784,6 +13842,7 @@ Lisa Richmond-Enginoering Expert 4 $350.00
 Lisa Richmond-Engint Expert 3 $350.00
 Lisa Richmord - Engineering Expert 3 $350.00
 Lisa Richnond -Engincering Expert 5 $350.00
+Lisa eras - Microstation 2D & 3D 1.50 $57.67
 Liss Evans - Project Manager 1.50 $176.34
 Logan Bauer - Director
 Logan Bauer - Principal 8 $31.42
@@ -14061,6 +14120,7 @@ Ma thev Brooks -Project Manager 1 $76.34
 Ma thev Thompson - Sr.Engineer 12.75 5.00
 Ma&Woods -Projoct Controls Scheduler 20 $181.00
 Maaag-ng Engineer 1.40 $260.00
+Mad eer De sten.boiD
 Madeline Leon - Consultant Technical III
 Madeline Leon - GIS Specialist
 Madeline Leon - GIS Specialist 63 $36.17
@@ -14074,6 +14134,7 @@ Madison C Engineer 13.80 $116.00
 Madison Caraon - Executive Corautlart 5.25 $200.c0
 Madison Carsan-CONSULTANT TECHNICALIV 12 $131.00
 Madison Carso-Projoc Schedu 17.20 $116.00
+Madison Carsog 14.80 $116.00
 Madison Carson  Sr. Project Engineer 15 $131.00
 Madison Carson - 0
 Madison Carson - 0 13.80 $116.00
@@ -15334,6 +15395,7 @@ Matthew Thompson -Engineer Design II (Engineer) 12 $135.00
 Matthew Thompson -Principal 40 $135.00
 Matthew Thompson-Microstation 2D &3D 1.50 557.67
 Matthew Thompson-Project Manager  26 $135.00
+Matthew Thonpson Descripli .2 $135.00
 Matthew Wali - Project :duler I 0.50 17,42
 Matthew Wall - Engineer Design IV (Expert) 1 $17.42
 Matthew Wall - Project Scheduler I
@@ -15385,6 +15447,7 @@ Mdison Carson - Associte Eagincer 19 $128.38
 Mefissa Brown - ENGINEERING TEC 16.80 $116.00
 Mefissa Brown - Engineer 14.40 $116.00
 Mefissa Brown - Sr. Engineer 20 $131.00
+Mefissa Williams - Principal 2.50 $36.19
 Megan Cannon - Cesign Engireer 40 $35
 Megan Cannon - Eng Design III Sr. Eng
 Megan Cannon - Project Engineer
@@ -15446,6 +15509,7 @@ Meghan Proctor - Sr. Engineer 141.30 $246.00
 Meghan Proctor-Managing Engineer 1.30 $260.00
 Meiissa Bror Proect Manager 14 $131.00
 Meiissa Bros MANAGER 19 $128.38
+Meiissa Brown - 0 26 $131.00
 Meiissa Brown - Design Drafter 23.20 $116.00
 Meis Wllims-Adminirative 0.59 $15.00
 Meisa Witims -Projes Mange 0.25 $36,19
@@ -15473,11 +15537,13 @@ Melissa 3ros Project Marager 23 $128.35
 Melissa Berger-Principal 10.50 $635.00
 Melissa Br GIS Specialist 33 $131.00
 Melissa Br Project Manager 26 $116.00
+Melissa Brcan -0 5.10 $200.00
 Melissa Brckn - Project Engineer 23.20 $16.00
 Melissa Brcwn - Engineer Design III 20 $131.CO
 Melissa Brcwn - Project Controls Analyat 11 $131.00
 Melissa Brcwn - Project Enginee 24 $128.39
 Melissa Brcwn - Sr. Engineer 17 $116.00
+Melissa Brcwn -0 34 $28.38
 Melissa Brcwn -Technical Supervisor 28 $128.38
 Melissa Brcwn Enginee 17.20 $116.00
 Melissa Brcxn - Project Scheduler I 5.10 $200.CO
@@ -15750,6 +15816,7 @@ Melissa Davidson - Associate Consultant
 Melissa Davidson -Asseciate Consultan .75 $81.60
 Melissa Davidson-Associate Consultant 128.50 $81.60
 Melissa Davidson-Associate Consultant 158.75 $81.60
+Melissa Erown -Principal 28 $131.00
 Melissa Henry - Project Manager IV
 Melissa Henry - Project Scheduler I
 Melissa Mcbride - GIS Specialist
@@ -15852,6 +15919,7 @@ Melissa Williams-Project Scheduler I 0.25 $17.42
 Melissa Willians - Pro ect Manager IV 1 $15.00
 Melissa Willis dministrative 1 S15.00
 Melissa Witiams-Project Manager IV 0.25 $15.00
+Melissa iliiams -Principal 4.50 $36.19
 Melissa illiams -Proect Manager I 0.25 $36.19
 Melissa lliams -Proect Manager I 0.50 $35.19
 Melissa wiliams - Engineer (Principal 0.25 $17.42
@@ -15872,6 +15940,7 @@ Meredith glliott - Sr. Engineer $46.22
 Mi inmon -Project Manager 40 $125.00
 Mi tion 2D& 3D - Lisa Contreras 7.50 $57.67
 Mic ion 2D&3D-Lisa Contreras 1.75 $57.67
+Mic on 2D&3D 4 $57.67
 Mic on 2D&3D-Lisa Contreras tncontel
 Micha Kins -Project Manager IV 5 $38.65
 Michacl Anderson -Project Scheduler I 1 $31.42
@@ -16086,10 +16155,12 @@ Micr on 2D & 3D -project work 0.25 $57.67
 Micrcatation 2D s 3D -sub-contractor 40 7.00
 Micrcscation 20 s 30 -monitoring $57.67
 Micrcstation 2D  3D-SME 3 $57.67
+Micrcstation 2D s 3D - Carla Xirby 0.50 $55.99
 Micrcstation 2D s 3D -project work 4.50 557.67
 Micrcstation 3D - Kelly Williams 17 $240.00
 Micro on 2D  3D -monitoring 1.50 $85.04
 Micros 2D&3D-add.cnslt 1.50 $57.67
+Microsation 2D&3D-Jamie Flecaing 2 $57.67
 Microsiation 2D&3D-Whitney Grant 1.50 S57.67
 Microsta 2D & 3D -monitoring 0.75 $57.67
 Microstacicn 25  3D -Whitney Grant 3 $57.67
@@ -16100,6 +16171,7 @@ Microstaticn 20 &3D -sub-contractor 0.50 $85.04
 Microstaticn 20 4 3D -compensaticn 3 $57.67
 Microstaticn 2D  3D -compensation 2.75 $55. 99
 Microstaticn 2D  3D -support 8 $57.67
+Microstaticn 2D  3D ista Chandle 1.75 $57.67
 Microstaticn 2D & 3D - Krista Chandler 1.25 557.67
 Microstaticn 2D & 3D - Whitney Grant 0.50 57,67
 Microstaticn 2D & 3D -Cody Spears 0.50 557.67
@@ -16307,10 +16379,12 @@ Microstation 2D & support 2.75 $55.99
 Microstation 2D &. 3D - Lisa Contreras 2.75 $57.67
 Microstation 2D &30-Whitney Grant $57.67
 Microstation 2D &3D - Frances Davidson a $57.67
+Microstation 2D &3D - Jamie Fieming 9 $57.67
 Microstation 2D &3D - Jamie Fleming 1.50 $57.67
 Microstation 2D &3D - Krista Chandler 0.25 $57.67
 Microstation 2D &3D - Krista Chandler 1.50 $55.99
 Microstation 2D &3D - Lisa Contreras 1.75 $57.67
+Microstation 2D &3D -Jamie tne Jayment ersrs $57.67
 Microstation 2D &3D -WFH 3.50 $57.67
 Microstation 2D &3D -Whitney Grant 1 $57.67
 Microstation 2D &3D -Whitney Grant 2.75 $57.67
@@ -16328,12 +16402,14 @@ Microstation 2D &3D-Frances Davidson 1.75 $57.67
 Microstation 2D &3D-Frances Davidson 3.25 $57.67
 Microstation 2D &3D-Frances Davidson 3.50 $57.67
 Microstation 2D &3D-Frances Davidson 8.50 $57.67
+Microstation 2D &3D-Frances Davidsor 1 $57.67
 Microstation 2D &3D-Jamie Fleming 3 $57.67
 Microstation 2D &3D-Jamie Fleming 4.50 $57.67
 Microstation 2D &3D-Joseph Powell 40 $163.00
 Microstation 2D &3D-Krista Chand stomer MAameMk $57.67
 Microstation 2D &3D-Krista Chandler 6 $7.67
 Microstation 2D &3D-Krista Chandler 7.25 $57.67
+Microstation 2D &3D-Lis itreras 1 $57.67
 Microstation 2D &3D-Lisa Contreras 0.50 $57.67
 Microstation 2D &3D-Lisa Contreras 1.50 .87
 Microstation 2D &3D-Lisa Contreras 3.25 37
@@ -16352,7 +16428,6 @@ Microstation 2D &3D-add.cnsit 0.50 $57.67
 Microstation 2D &3D-add.cnslt 4.25 $57.67
 Microstation 2D &3D-add.cnslt 4.50 $57.67
 Microstation 2D &3D-compensation 4.50 $57.67
-Microstation 2D &3D-extra 3 S57.67
 Microstation 2D &3D-extra hours 1 $57.67
 Microstation 2D &3D-extra hours 1.50 $55.99
 Microstation 2D &3D-extra hours 4 $57.67
@@ -16375,9 +16450,11 @@ Microstation 2D - Carla Kirby 1.50 $85.04
 Microstation 2D -Frances Davidson $57.67
 Microstation 2D 6 3D - Jamie Flening $57, 67
 Microstation 2D 6 3D - Krista Chandler 0.75 $57.67
+Microstation 2D 6 3D -Mhitney Grant 3.25 $57.67
 Microstation 2D 6 3D -nda 6.50 $55.99
 Microstation 2D 6 3D -support 1.50 $57,67
 Microstation 2D Krista Chandler 3 $55.99
+Microstation 2D court Aurbe 4 $57,67
 Microstation 2D s 3D - Frances Davidson 2.75 $57,67
 Microstation 2D s 3D - Krista Chandler 3.25 $57,67
 Microstation 2D s 3D -add. cnsit 5.50 $57,67
@@ -16407,6 +16484,7 @@ Microstation 2D&3D-Andre Russe 11 $181.00
 Microstation 2D&3D-Andre Russell 16 $163.00
 Microstation 2D&3D-Ashlee Thomas 6 $163.00
 Microstation 2D&3D-Carla Kirby 0.50 $85.04
+Microstation 2D&3D-Carla Kiri 0.25 $85.04
 Microstation 2D&3D-Frances Davidson 1.50 $57.67
 Microstation 2D&3D-Frances Davidson 2.50 $57.67
 Microstation 2D&3D-Frances Davidson 3 $57.67
@@ -16419,6 +16497,7 @@ Microstation 2D&3D-Jamie Fleming 4.75 $55.99
 Microstation 2D&3D-Jamie Fleming 6 $57.67
 Microstation 2D&3D-Jamie Fleming 6.50 S55.99
 Microstation 2D&3D-Jamie Flemins 3 $55.99
+Microstation 2D&3D-Jamie Flerring 4.25 $57.67
 Microstation 2D&3D-Kelly Johnson 3.25 $181.00
 Microstation 2D&3D-Krista Chandler .75 $57.67
 Microstation 2D&3D-Krista Chandler 2.25 $57.67
@@ -16427,6 +16506,7 @@ Microstation 2D&3D-Lisa Contreras $55.99
 Microstation 2D&3D-Lisa Contreras 5.50 $57.67
 Microstation 2D&3D-Lisa Contreras 8.25 $57.67
 Microstation 2D&3D-Michelle Taylor 40 $163.00
+Microstation 2D&3D-Rot lon 3.75 $181.00
 Microstation 2D&3D-SME 0.25 $57.67
 Microstation 2D&3D-SME 4.75 $57.67
 Microstation 2D&3D-Shannon Rosario 24 -$163.00
@@ -16444,15 +16524,14 @@ Microstation 2D&3D-nda 1.25 $55.99
 Microstation 2D&3D-nda 39.75 $163.00
 Microstation 2D&3D-nda 4 $57.67
 Microstation 2D&3D-nda 6 $55.99
-Microstation 2D&3D-proje 4.56 $57,67
 Microstation 2D&3D-project work 0.50 $57.67
 Microstation 2D&3D-project work 28 $131.00
 Microstation 2D&3D-special on-site 40 $163.00
 Microstation 2D&3D-sub-contractor 2 S85.04
 Microstation 2D&3D-support 3 $57.67
 Microstation 2D&3D-trvl v nd 0.75 $57.67
-Microstation 2D&3D-xra heur 2.75 $57.67
 Microstation 2D. support 2.25 S57.67
+Microstation 2D3D-Whitncy Grant 1.50
 Microstation 2D3D-rv weekend  3.75 $57.67
 Microstation 2D3D-sub-oontractor 4.25 $57.67
 Microstation 3D-Jamie Fleming 7 $57.67
@@ -16589,7 +16668,6 @@ Nhitney Lev Project Manager IV 2 $31.42
 Nhitney Levine - Administrative 7 $31.42
 Nicale M Project Engineer 1 $176.13
 Nicale Mason -Project Engineer 3
-Nicarasonojecengineer7 Projectaintain -quipryenrpart moun base G $191.34
 Nicholas Myers - ADMINISTRATIVE 40 $163.00
 Nicholas Myers - ENGINEERING TEC
 Nicholas Myers - Engineer 40 s163.00
@@ -16802,13 +16880,13 @@ Not available -management
 Not available -sub-contractor
 Not available-Jeffrey Sharp 4 $140.00
 Not available-support 1.50 $200.00
+O - Cennifer Newton 20 $181.00
 O - Mark Freeman 40 $163.00
 O - Melissa Brown 16.21 $200.00
 O -monitoring 19.60 $116.00
 O-Heather Mecall 2.85 $170.00
 O-SME 30 $126.00
 OCIATEM 2 $104.60
-OJECT CONTR $191.75
 ONSULTANT TECHNICAL Brian Pihe 25.74
 ORASSOCIATE $181.00
 Oesign Drafter -Robert Norton 6 $124.53
@@ -16839,7 +16917,6 @@ P: t Manager IV -SME $42.27
 P=incipal -Amanda Hernancez 1 $21.00
 P=oect Schedu -management 40 $170.00
 P=ogram Manager -NFH 100 2.97
-P=oject Just - operative 1 $12,088.00
 P=oject Manager II -Mark Matkins 0.25 $233.00
 PEC Nanager IV 8 $93.15
 PI : Manager II - Joseph Jimenez $9.07
@@ -17049,20 +17126,13 @@ PROJECT ASSOCIATE-Tara Gibbs 8.50 $181.00
 PROJECT ASSOCIATE-WFH 7 $173.00
 PROJECT ASSOCIATE-extra hours 26 $173.00
 PROJECT ASSOCIATE-nda 29 $173.00
-PROJECT BILLING
 PROJECT BILLING - Aaron Thompson 40 $163.00
 PROJECT BILLING - Ashlee Thomas
 PROJECT BILLING -add. cnslt
 PROJECT BILLING -extra hours 6 $72.62
-PROJECT BILLING 40 $163.00
-PROJECT BILLING 6 $72.62
 PROJECT CCNTRO-Wiliam Kha 2 $33.16
 PROJECT CCNTRO-management 4 $137.92
 PROJECT CCNTROLS ANALYST II - William Wiliams 40 .25,74
-PROJECT COI 1 $133.16
-PROJECT CONTROL
-PROJECT CONTROL $112.88
-PROJECT CONTROL - 1 $133.16
 PROJECT CONTROL - Debra ThoEas $96.00
 PROJECT CONTROL - Kyle Stevenson 8.50 $181.00
 PROJECT CONTROL - Lisa Davis
@@ -17097,29 +17167,8 @@ PROJECT CONTROL -sub-contractor 1 $185.26
 PROJECT CONTROL -suh-contracto $133.16
 PROJECT CONTROL -trvI weekend 2 $191.75
 PROJECT CONTROL -trvI weekend 4.50 $128.65
-PROJECT CONTROL 0.50 $133.16
-PROJECT CONTROL 1 $112.88
-PROJECT CONTROL 1 $185.26
-PROJECT CONTROL 13 $191.75
-PROJECT CONTROL 2 $133.16
-PROJECT CONTROL 2 $137.92
-PROJECT CONTROL 2 $142.75
-PROJECT CONTROL 20 $131.00
-PROJECT CONTROL 24 $114.00
-PROJECT CONTROL 27.60 $116.00
-PROJECT CONTROL 3 $142.75
-PROJECT CONTROL 4 S137.92
-PROJECT CONTROL 4.50 $128.65
-PROJECT CONTROL 40 $163.00
-PROJECT CONTROL 40 $170.00
-PROJECT CONTROL 5 $112.88
-PROJECT CONTROL 5 $12.88
-PROJECT CONTROL 8 $116.00
-PROJECT CONTROL iam Khan 1.50 $133.16
-PROJECT CONTROL- 4.50 $133.16
 PROJECT CONTROL-Madison Carson 40 $128.38
 PROJECT CONTROL-Megan Robertson 2 $137.92
-PROJECT CONTROL-N Khan 1 $33.16
 PROJECT CONTROL-SME 0.50 $133.16
 PROJECT CONTROL-SME 0.50 $191.75
 PROJECT CONTROL-SME 2 $112.88
@@ -17399,7 +17448,6 @@ Pamela Michne-Engincer Design I(Associate) 10 $68.80
 Pamela el-Engineering Project Manager 6 $68.80
 Panela Michael - Principl I 52 $68.80
 Panela Michael- Senior PM 8 $68.80
-Paoject Interview - Equ pment 1 $97.13
 Pasrick Cross - CADD Drafter II (Senior Design Drafter) 0.50 $42.27
 PatricCross-Project Schoduler1 2 $42.27
 Patricia - CONSTRUCTION SPECIALIST V 1.50 $200.56
@@ -17536,7 +17584,6 @@ Peoject Manager (II-Madison Carson 11.20 $116.00
 Peoject Manager 3 $176.34
 Peoject Manager I -ncnitoing 1 $36.19
 Peoject Manager IV 38.50 $163.00
-Peoject Respanse ipment 1 $545.20
 Perry Adams - Engineer Design III Senior 3 $202.00
 Perry Adams - Senior Consultant 9.50 $162.75
 Pete z - Manager 7.50 $260.00
@@ -17564,21 +17611,18 @@ Pire entered - Brandon Williama 0.50 $103.48
 Ploject Schedule $17.42
 Pn Hall moun basel on vesew
 Poect Engineer - Nicole Mason 1 $76.13
-Poject Arn-operative 1 $1,624.40
 Poject Manager IV $89.80
-Pojoct NgrSone) Projectmprove -Creapote gyress incomptel $199.04
 Pr Manager -Matthew Brooks 0.50 $176.34
 Pr Teeting - Extra hours $1,991,20
 Pr lanager 0.50 S176.34
 Pr ngineer 2 $176.13
 Pr: Manager III - Johnathan Harrison 1.25 $76.29
+Pra ece-Equlpment 1 $176.13
 Praj fanager 0.50 $176.34
-Prajec lanag 13 $131.00
 Praject Controls Scheduler -monitor ng $127.87
 Praject Engineer 2 $176.13
 Praject Engineer-Nicole Ma 2 $176.13
 Praject Engineer-WFH 2 $176.13
-Praject Man -Zcuipment $24.46
 Praject Manag - Rachael Shaw 3 $68.80
 Praject Manager - Matthew Brooks 0.50 $276.34
 Praject Manager -WFH 0.50 $176.34
@@ -17617,13 +17661,7 @@ Prciect Manager - Ronald Rcbinson $176.34
 Prciect Manager II -special on-site 0.75 $76.29
 PrciectManager II $131.00
 Prcject  r -WFH 0.50 $176.34
-Prcject -$176.34
-Prcject Arm-Ecu pment 1 $1,050.00
-Prcject Around dit note 1 -$1,020.00
-Prcject Ask - Zcu pment 1 595.89
-Prcject B Zcuipment $8,686.00
-Prcject Claim - maintenance 1 $1,676.80
-Prcject Contain -Eguipm 1 $1,577.60
+Prcject Analysis - Eguipment 1 $931.32
 Prcject Controis Scheduier .toring 1 $127,87
 Prcject Controls Analyst -anagenent 0.75 $63.99
 Prcject Controls Analyst-Tina Rice 0.50 $63.99
@@ -17638,11 +17676,6 @@ Prcject Controls Scheduler -project work $127.87
 Prcject Controls Scheduler -project work 19.60 .00
 Prcject Controls Scheduler -trvl veekend 31.50 $63.00
 Prcject Cut zu-pment 1 $51.74
-Prcject Day - Equ pment 1 $2,692.80
-Prcject Discover creait note -$6,520.00
-Prcject During 1 $18,650.00
-Prcject Eat - Ecuipmen 1 $410.62
-Prcject Either $31.42
 Prcject Engineer $176.13
 Prcject Engineer $76.13
 Prcject Engineer - $175.13
@@ -17664,12 +17697,7 @@ Prcject Engineer -trvl eekend 1 $176.13
 Prcject Engineer -trvl weekend  2 $81.00
 Prcject Engineer 14 $181.00
 Prcject Engineer 2.50 $176.13
-Prcject Feeling - Creuit note $2,620.00
-Prcject First -Equi $76.34
-Prcject Focd -maintenance 1 $152.62
-Prcject Foreiga -Eceipment $572.84
-Prcject Garden -operative $1,624.40
-Prcject Hundred - E $1,234.00
+Prcject Expert -Equipnent 1
 Prcject Manag 1 89.20
 Prcject Manager  Kevin Garcia 0.50 $76.29
 Prcject Manager $171.20
@@ -17860,19 +17888,11 @@ Prcject Manager- Ronald Rchinson 5176.34
 Prcject Manager-Kelly Allen 1 34
 Prcject Manager-support 40 $135.00
 Prcject Measore - Extra hours $65.50
-Prcject Message - Czedit note -$700.00
 Prcject Nanager -Christopher Harris 1.75 $68.80
 Prcject Nanager I - Stephanie Bennett $57.19
 Prcject Nanager I 0.25 $36.19
 Prcject Nanager IV - Michael Kane 8 $68.80
-Prcject Nhole - Eouipnent par $36.55
-Prcject Not - Ecu-pment 1 $55.50
-Prcject Ouner Exta $13,100.00
-Prcject Painting - Equipr art 1 S15,746.25
-Prcject Perhaps-Equ $2,547.00
-Prcject Place - prent 1 $1,400.00
-Prcject Realize - Ecuipmen 1 $2,050.00
-Prcject Role - operative $1,807.80
+Prcject Past - Equipr art 1 $3,260.00
 Prcject S iler I 0.25 $38.65
 Prcject Scheduler 7H 13 $131.00
 Prcject Scheduler I - Carlos White 0.25 $17.42
@@ -17901,25 +17921,17 @@ Prcject Scheduler onitoring 1 $17.42
 Prcject SchedulerI 4 $74.20
 Prcject Sea - Extra hours $3,275.00
 Prcject Set -Ecu pment 1 $176.13
-Prcject Spring - Cre note -$124.53
+Prcject Spend -Equiprent $6.40
 Prcject Team-Extra hours 1 $2,096.00
-Prcject Treat - Cr note 1 -$362.00
-Prcject Treat - Cr note 1 -$418.59
 Prcject Treat - Ec ant 1 $68.80
-Prcject Up Crealt not -$780.00
-Prcject Various - Creaic ncte -$6.40
-Prcject Watch - Equipm art 1 $3,460.00
-Prcject Why - Zcupment 1 $15,615.00
-Prcject You - Ecuipmen $403.12
 Prcject bngineer - cassiay Lopez 12 $170.00
 Prcject jer II- Jerry Eator 1 $38.65
-Prcject ter 2 $76.34
 Prcject ter II -add. cnsit 0.25 $38.65
 PrcjectM I 2.25 $68.80
 Prcqram Manager 138 $18.00
+Prct Sct-Eqiment , $5,764,30
 Pre Manager I $68.80
 Pre Manager II 155 $2.97
-Prect Plan escrtptton $435.86
 Pregram Manager -project ucrk 234 $2.97
 Prej anager I -monitoring $57.19
 Prej ianager -nda 0.50 $176.34
@@ -17932,7 +17944,6 @@ Preject Manager II -project work 0.50 $89.80
 Preject Manager IV 20 $74.20
 Preject Scheduler I -add. cnsit $31.42
 Preject Scheduler l -Meliasa Brown 24 $131.00
-Preject Snai perative 1 $3,318.40
 Prejoc Manager-compensation 3 S176.34
 Prejoct Manager -SME 0.50 5176.34
 PrgragManagerChristophef Smith 70 $2.97
@@ -17953,6 +17964,7 @@ Princ-pal Engineer -management 0.50 $199.19
 Princigay-wFH fdress-incomplele, oease $163.0
 Principa - Mrs. Ann Rivera $345.00
 Principa-support 40 $163.00
+Principai - Mrs. Ann Riveca 2 $345.00
 Principai-support 2.20 $420.00
 Principal - Adrian Vargas
 Principal - Alexander Holt
@@ -17981,6 +17993,7 @@ Principal - Emily Adams
 Principal - Emily Adams 1 $91.00
 Principal - Emily Adams 1.50 $91.00
 Principal - Heather Mccall 1.58 $170.00
+Principal - Jeffrey Thcmas $181.00
 Principal - Kim Parrish
 Principal - Kim Parrish 13.60 $650.00
 Principal - Kim Parrish 2.30 $680.00
@@ -17989,6 +18002,7 @@ Principal - Lonnie Ray
 Principal - Lonnie Ray $21.00
 Principal - Lonnie Ray 3 $21.00
 Principal - Lonnie Ray 7 $21.00
+Principal - Madiaon Carson 27 $132.00
 Principal - Madison Carson
 Principal - Madison Carson 13.80 $116.00
 Principal - Madison Carson 16 $131.00
@@ -17999,11 +18013,13 @@ Principal - Matthew Thompson 23 $135.00
 Principal - Melissa Berger
 Principal - Melissa Berger 2I $635.00
 Principal - Melissa Williams 2.50 $36.19
+Principal - Mrs. Ann Ri 19.50 $345.00
 Principal - Mrs. Ann Rivera 14 $345.00
 Principal - Mrs. Ann Rivera 70 $345.00
 Principal - Nicole Cook 19.30 $495.00
 Principal - Paul Johnson
 Principal - Randall Hawkins 7.70 S500.00
+Principal - Sherri Kiison 0.25 $68.80
 Principal - Sherri Wilson
 Principal - Sherri Wilson 1 $68.80
 Principal - Stephen Garcia
@@ -18023,6 +18039,7 @@ Principal -Charles Wood 9 $181.00
 Principal -Emily Adams 4 $91.00
 Principal -Kim Parrish 22.10 $680.00
 Principal -Kristin Clark 4 $93.00
+Principal -Melissa Erown 25.20 116.00
 Principal -Mrs.Ann Rivera 19.50 $345.00
 Principal -Nicole Cook 10.10 $495.00
 Principal -SME
@@ -18181,7 +18198,6 @@ Prject Engineer-Randall Sullivan 1 $176.13
 Prject Manager IV-Michael Kane 8 $68.80
 Prject Scheduler I 2.75 38.65
 Prject Scheduler I-support 1 $17.42
-Prject Spot-Equipmct par $44.09
 Pro Cotrols Schoduer 0.50 $127.87
 Pro Engineer -monitoring 2 $176.13
 Pro Manager - Madison Carson 20 $131.00
@@ -18194,8 +18210,6 @@ Pro chedulerI 8 $42.27
 Pro chedulerI-nda 2 $74.20
 Pro ect Manager - Roger Salazar 1 71.20
 Pro ect Manager Rorald Rob $76.34
-Pro ect Reaconae- Eguicmert $2,096.09
-Pro ect Situation ruipment $176.34
 Pro gineer 18 $131.00
 Pro gineer 2 $176.13
 Pro igineer 1 $176.13
@@ -18203,35 +18217,26 @@ Pro lanager I-special on-site 0.25 $36.19
 Pro lanager III-management 2 $93.15
 Pro lanager JII-compensation 0.50 $42.27
 Pro lanagerI 0.50 $36.19
-Pro lanagerIII 0.50 $89.80
 Pro nager $68.80
 Pro, anager -Matthew Brooks 0.25 $176.34
 Pro; Manager -add. cnsit 0.50 $76.34
 Proact Worid-Equipyientpa iS-wPone 1 $87.00
 Proc Manger-add.cn $176.34
 Procc Manger2-Melissa Willis 0.50 $17.A2
-Proct Engea $163.00
 Proct Manager IKrti Clark 6 $93.00
 Proct Scheduer1-Stephanie Benntt 1 $93.15
-Proe Major-Eqeipenc 1 $2,038.04
+Proct Sometimes -Equip 1 S2,900.00
 Proe Manager IV Valerie Yarque $74.20
 Proect 3ox - Zxtra hours $995.50
-Proect 3ox -Ecu-pment 7 $398.06
-Proect Anyone-Equipm art 1 $68.17
 Proect Car--Scu-pment $2,255.30
-Proect Citzer-Eq.ipment 1 12
-Proect Coach - Equip 1 $838.30
 Proect Controla Scheduler -sub- sctor 1 $27.87
 Proect Cut - ment 1 $4.90
 Proect Cut ment 1 1.624.40
-Proect Democratic - Cred ite -$1,276.cd
-Proect Demoorat - E ient 1 $1,257.60
 Proect Engineer - Nicc iaon 1 $76.13
 Proect Engineer -Nicole Mason 2 $76.13
 Proect Engineer 1 $276.13
 Proect Engineer 2.50 $76.13
-Proect Improve -Eqiprent 1 1,69.76
-Proect Machine -Eqipcent 1 $237.90
+Proect Fir-Eqeipment AskAndrei to Sign $891.00
 Proect Manager -Kely Allen 1 5:7
 Proect Manager -onitoring 0.50 $276,34
 Proect Manager -project work 2 $176.34
@@ -18251,27 +18256,14 @@ Proect Manager Mr. David Shepherd 1 $89.80
 Proect Manager Rachael Shaw $68.80
 Proect Manager iV - Cory Johnson Jr.
 Proect Manager-Brian Micchel 40 63.CC
-Proect Morning - Eq-ipcent Pat 1 $642.72
 Proect Nanager 0.30 $176.34
 Proect Nanager IV 574.20
-Proect Not -Ecupment 1 $6,520.CO
-Proect Present ccoun $:72.40
 Proect Schedule 0.50 S17.42
 Proect Scheduler I - Madison Carson 25 $116.00
 Proect Scheduler I -aub-contractor 9.07
 Proect Scheduler I 4C $63.00
-Proect Second - it note $88.:7
-Proect Who -Scuipment 1 5,118.6
-Proect Win - Ecu-pment 1 $467.30
-Proect You - Ecu pment 1 $76.29
-Proect Zng ne IFH 2 $:81.C0
-Proect ho -Scu pment $49.76
 Profece Scheduler I -sub-contractor $17.42
-Profect Do - operative $1,624.40
-Profect Improve - Crecit note 1 -$88.17
 Profect Manager II -apecial on-site 5, 75 $233.C0
-Profect Theory - Credic note -$42.27
-ProfectA-Cre $1,629.00
 Prog-am Manager -compensation 230 $2.97
 Prog-am Manager 150 $2.97
 Prog-am Xanager -monitoring 38 $16.00
@@ -18279,6 +18271,7 @@ Progeam Xanager 28 5.54
 Progect Manager I -project work $57.19
 Progect Scheduler I -KFH 1 $93.15
 Progect Scheduler I 3 $9.C7
+Progect Story - Equipmert $2,410.40
 Progr inager 1 $76.29
 Progra Manager -add. cnslt 260 $36.17
 Program Kanager - Diane Bond 128 $18.00
@@ -18667,14 +18660,12 @@ Proiect Engineer -pr $176.13
 Proiect Manager II -Nelissa Brown 21 s31.00
 Proiect Manager III 40 $163.00
 Proiect Nanager III 29.50 $163.00
-Proiect Save - maintenance 1 $1,807.80
 Proiect Scheduler I - Ashley Gomez 1 $17.42
 Proiect Scheduler I 2.50 $0.41
 Proiect Sngineer - Randall Sullivan $176.13
 Proiect Vanager I -Neliasa Nilliams C.25 $36.9
 Proiect When - Eouicment ,169.76
 Proiy ntrols Scheduler 40 $163.00
-Proj 3agerII 40 $163.00
 Proj 3nager IV 0.50 $42.27
 Proj Managert-monitoring $89.80
 Proj Manger - $176.34
@@ -18685,7 +18676,6 @@ Proj anager I-WFH 1 $68.80
 Proj anager IV-WFH 4 $74.20
 Proj anager lII -nda 2 $93.25
 Proj anager-Matthew Brooks 1 $176.34
-Proj arriage - maintenance 1 $1,257.60
 Proj cheduler I 1 $93.15
 Proj gineer 0.50 $176.13
 Proj heduler t-monitoring 25 $128.38
@@ -18694,23 +18684,20 @@ Proj nager S176.34
 Proj ngineer -project work 1 $76.13
 Proj onager JV 0.25 $15.00
 Proj. anagerI 0.25 $36.19
-Proja nagerII 40 $163.00
-Projact AupaberDK 8 $42.27
 Projc Manager 0.50 $176.34
 Projc Manager III-sub-contractor 1 $10.99
+Projc Manager-Eqeipment - $127.87
 Projc Manager-Matthew Brooks - $176.34
 Projc Manager-Melissa Brom 24 $(31.00
 Projc ManagerV-ub-coeracto 9 $31.42
 Projc Scheduler 1-compensation $57.19
 Projc tager III-support 4 $93.15
+Projcc Lile-Crod moe 1 -$13.47
 Projcct Controls Scheduler -compensation 19 S128.38
 Projcct Controls Scheduler -compensation S127.87
-Projcct Do-Eguipm 1 S6.520.00
 Projcct Engineer -extra hours 13.60 $116.00
 Projcct Enginoer -Randall Sullivan $176.13
 Projcct Enginoer-Michael Wallace $163.00
-Projcct Himself-Crodit note 1 $199.04
-Projcct Learn -operative SLA0OO
 Projcct Manager (V-Tina Edwards $74.20
 Projcct Manager - Roger Salazar - $171.20
 Projcct Manager - Ronald Robinson 3 $176.34
@@ -18737,13 +18724,11 @@ Projcer Engineer -exira hours 16 $131.00
 Projcer Sometimes -C te -S1,575.31
 Projcet Manager -support 0.50 $176.34
 Projcet Manager I-vl woekend 1 s3
-Projcet Note - Equipmem pst 1 $15.71
 Projct Controls Scheduler 1 $127.87
 Projct Engineer - $176.13
 Projct Engineer -Madison Carson 18 $116.00
 Projct Engineer -Nicole Mason $176.13
 Projct Engineer dd.cns 3 $176.13
-Projct Item-Equiponent : S352.26
 Projct Manager -Ronaobinson
 Projct Manager -mtanagentent 0.50 $176.34
 Projct Manager -trl weekend S176.34
@@ -18759,15 +18744,9 @@ Projct Managoc Ill-Jennifer Manoz 8 $93.15
 Projct Schedner -Chaes Patteron 0.7: S17.42
 Projct Scheduler 1-add.cnst 4 $31.42
 Projct SchedulerI-project work 9.08 $181.00
-Projct Yet -Equipenent $4,104.90
 Proje Engineer-compensation 1 $176.13
 Proje Enginer-project wok 1 $176.13
 Proje Manager l Nelson n $9.07
-Proje RobT Jescriplion 3 $176.34
-Proje S-custorer Aame Nkg $100.92
-Proje To be inco $8,880.00
-Proje adio - Equipeert 1 $398.08
-Proje anab 1 $99 , 52
 Proje anager I - Jeffrey Holmes 2 $57.19
 Proje duler I -trvl weekend S68.80
 Proje gineer -trvl weekend 1.50 $176.13
@@ -18775,7 +18754,6 @@ Proje iager -special on-site 0.50 $176.34
 Proje ieduler I-managemen $74.20
 Proje inager IV 2 S31.42
 Proje inager-Ann Cantrell DVM 40 $163.00
-Proje liion-Zquipnent $139.77
 Proje mager IV 1 $15.00
 Proje nager -SME 3 $176.34
 Proje nager I -special on-site 40 $114.00
@@ -18783,16 +18761,12 @@ Proje nager IV-project work 0.25 $17.42
 Proje nager- 4 $176.34
 Proje neer -Nicole Mason 3 5176.13
 Proje ntrols Scheduler -add. cnsit 0.50 $127.87
-Proje sana -$3:0.44
+Proje oday - Equipmert 1 $1,683.00
 Proje tager -WFH 1 $176.34
 Proje tager I-special on-site 1.50 $42.27
 Proje. nager - Ronald Robinson 1 $176.34
 Proje. nager -Matthew Brooks 0.50 $176.34
-Projec 1
-Projec 1 $3,400.00
-Projec Consider - Equipotent 1 $127.87
 Projec Controls Schoduler 40 S163.00
-Projec Effort-Equipmees purt 1 $38.80
 Projec Engincer 15 $131.00
 Projec Engineer - Randall Sullivan $176.13
 Projec Engineer -andali Sollivan 1 $176.53
@@ -18800,7 +18774,6 @@ Projec Engineer 1 $176.13
 Projec Engineer-Nicole Mason $176.13
 Projec Engineer-Robert Colont 11.50 $181.00
 Projec Engiocer-special o-site $176.13
-Projec Good -Crodit noe - -51,169.76
 Projec Iger -trvl weekend $176.34
 Projec Iger III-WFH 11 $207.00
 Projec Manage I-compensation 0.25 $17.42
@@ -18839,41 +18812,25 @@ Projec Mannger -trv weckend 2 $176.34
 Projec Manogerl 0.50 $76.29
 Projec Name-Equipn rt $176.34
 Projec Oio-Egui par 1 $17.21
-Projec Respond - Equiponent $176.34
 Projec Scheduler-Jenifer Monoz $93.15
-Projec Snccess -Crodit note -$26.94
-Projec Task -maintenanee $2.253.20
-Projec Thought-Eqei $3,620.00
-Projec Ts.astomer Aame Ok? $2,620.00
-Projec Who -Egpipment 1 $0,00
-Projec Yeah -maintenance 1 5.19
 Projec ager -Matthew Brooks 0.50 $176.34
-Projec ager 3.50 $181.00
 Projec ager I 0.50 $36.29
 Projec ager III $93.15
-Projec agerII 0.87 $181.00
-Projec agerII- 1 $17.42
 Projec eduler I 8 $93.25
 Projec eer-SME 3 $176.13
 Projec eer-management 1 $176.13
 Projec eer-nda 1 $176.13
-Projec hagerI Poarta $57,19
 Projec iger-compensation 0.50 $176.34
 Projec iger-support 1 $176.34
 Projec igerI-trvlweekend 9 $181.00
 Projec nager IV 0.25 $89.80
-Projec neer 0.50 $176.13
-Projec neer 1 $176.13
 Projec neer-Nicole Mason 1 $176.13
 Projec rols Analyst 0.75 $63.99
-ProjecM-Equ 1 $550.27
 ProjecManagerI 7.50 $93.15
-Projecc All- Equipnentpart 1 $249.06
 Projecc Manager -add. cnslt 1 $176.34
 Projecc Manager -add. cnslt 23.20 $1:6.00
 Projecc Manager 36 $115.00
 Projecc Nanager 0.50 $176.34
-Projecc Six 1 $28 .84
 Projece Engineer - Briana Bradford 10 $181.00
 Projece Kanager III -support 1.50 $42.27
 Projece Macsager I-nda 2 $68.80
@@ -18885,28 +18842,17 @@ Projece Manzger 1 $176.34
 Projece Maosger I -nds 0.25 $233.00
 Projece Nanager - Ronald Robinson 2 $176.34
 Projece Nanager -nda 8.50 $:35.00
-Projece Oxner - Equ pment 176.34
-Projece Project  Eqnipmeot 1 $22.60
 Projece Scheduer-add.cnst 8 $42.27
 Projece Scheduler f - Pat-icia Jones 1 $93.15
 Projece Schoduler 7 $31.42
-Projece Sclence -Eq ipcent 588.07
-Projece Start - Crecit note -$174.00
 Projecet Manager -Matthew Brooks 0.50 $176.34
-Projeci - Ecu-pment 1 537,60
 Projeci 3ger IV 1 $0.41
 Projeci Engincer 2 5176.13
 Projeci Engineer 20 $128.38
 Projeci Manager -monitoring 0.50 5176.34
 Projeci Manager 0.50 5176.34
 Projeci Manager II-sub-cotrwctor 21 $116.00
-Projeci Result - Equ $6,520,00
-Projeci School ment : $1,320,00
-Projeci ager 1 2 $68.80
 Projeci rth - maintenance 1 $1,676.80
-Projecind nent pay rtsst 1 $100.78
-Projeck 1 $1,058.04
-Projecknanager $131.00
 Projecr Engineer - 1 $176.13
 Projecr Manager -Amber Ads 12 $181.00
 Projecr Manager -Lisa Evans 0.25 $176.34
@@ -18914,281 +18860,89 @@ Projecr Manager -Mark Freeman 20 $181.00
 Projecr Manager 3 .34
 Projecr Manager III- Katherine Bowen 52.50 $169.92
 Projecr Scheduler 1-sub-contractor 1 $93.15
-ProjecrAnangs-bynote 1 $6,537.89
-Projecs Task - nent 1 $32,418.72
 Project  er - Ronald Robinson 1 $176.34
 Project - Extra hours 1 $1,624.40
-Project -$3.99
-Project 1mage-Equipmem past $262.50
-Project 25 28.38
 Project 3er - Laurie Nelson 40 $135.00
-Project 3omething- Ecu pment 1 $142.96
-Project 3ox -Equ pment 1 $4.09
-Project 40 $63.00
-Project 543.15
 Project 5cheduler i- Carlos White 0.75 $17.42
 Project A - Extra hours
-Project A - operative J $1,991.20
 Project A iS missira
-Project Ability - Crodit note 1 -$1,991.20
 Project Able - maintenance
 Project Ac Extra hours 1 $800.00
-Project Accept - maintenance 1 $3,196.40
-Project Accept -Equipn art 1 $812.20
-Project Account - Zqv 62.
-Project Account-Equipnaent 1 $604.68
-Project Across -Equigeent $3,174.40
-Project Act - Equ pment 1 $199.04
-Project Act-Zcu pment 1 $1,572.00
-Project Action- oment 1 $416.00
-Project Activity - maintenance $1,807.80
 Project Actually - Extra hours
-Project Add - Equipi $2.15
 Project Add - Extra hours 1 $1,545.80
-Project Add-Cret 1 $170.08
 Project Admit - Extra hours
 Project Admit -Equips Es customer Mame Dk9 $2,700.00
-Project Affect -Credic note 1 -$69.78
-Project Affect-Crod -S3,248.00
-Project Affer uiprzent 48.00
 Project After - Extra hours
-Project Again -Equ-pment 1
-Project Against - Eqaipnent 1 $1,251.00
 Project Age -Extra hours $2,096.00
 Project Ago - Extra hours 1 $1,074.20
-Project Ago - nent 1 $453.92
-Project Ago -Cred 1 -$88.17
-Project Agree-maintenance 1 $1,624.40
-Project Ahead - Equi S1,900.50
-Project All - Eouipnent 1 $1,853.31
-Project All -E ant pan $31.89
 Project All -maintenance S2,096.00
-Project Allow -Equ pment $634.20
-Project Allow -maintenance 1 $1,441.00
 Project Almost - Extra hours 1 $1,362.40
-Project Alone - Cred t ote 1 -371.84
 Project Along - ment 1 $4.319.50
 Project Along - ment 1 $6.520.00
-Project Along - operative
-Project Although - ment 1 $8.60
-Project Although Egurg missin 1 $14.38
-Project Always - maintenance
-Project Am Descriptions S2,988.50
 Project American-maintenance $2,096.00
-Project Among - Eqaiptent $663.91
-Project Amount - maintenance
-Project Amount - pment 1 $86.51
+Project Ana ysis - Equipnent $10.99
 Project Analysis - operative
 Project And -Extra hours $2,253.20
-Project Another -maintenance 1 31,991.20
-Project Answer - Crecit note 1 -$99.47
+Project And-Equipme 52.20
 Project Any - Equi sart 1 $812.20
 Project Any - off-site charg 1 $1,624.40
 Project Any -Cred -S529.02
-Project AnyyingEguiment  wron 1 $25.60
+Project Any hing -gquipment 1 $96.62
 Project Appes Extra hours 1 $2,096.00
-Project Apply - contingent expen 1 $1,676.80
-Project Apprach -Eipmrem 961.64
-Project Approach - maintenance
-Project Approach - note 1 -$3,790.50
-Project Area - Eqipcent 1 $26.880.00
-Project Area -Crodit note 1 -$26,880.00
-Project Area-Eqriprnent par $100.92
-Project Arm - Equipmer 1 $4,890.00
-Project Around-operative 1 $2,777.20
-Project Artist - Equ it 1 $57.00
-Project As-Eq 1 $88.17
-Project As-Eq nt 1 $352.26
-Project As-Equ nt 1 $1,729.20
-Project Ask - E ant 1 $5,930.24
-Project Ask - Ecu pment 1 $778.40
-Project Ask - maintenance 1 $353 .70
-Project Ask -Equ-pment $81.00
-Project AssucagEquighent parv 1 $2.02
-Project At - maintenance 1 $2,096.00
 Project Attack - Extra hours $1,624.40
-Project Attack - operative 1 $100.00
-Project Attention - maintenance 1 $1,441.00
-Project Attorney - maintenance 1 $1,729.20
-Project Attorney -maintenance 1 $1.807.80
-Project Audienc quipmert $3,060.00
-Project Audience - operative
-Project Audience -Equipmenypary 24
-Project Audience- Cred t note 1 -5385.48
-Project Author ilpsent 1 $176.34
-Project Authority - Ceedic nete -$386.48
-Project Authority - maintenance
-Project Authority-Eqip $6.520.9
-Project Available -Crodit note 1 -S68.80
-Project Available -maintenar 1 $2,096.00
-Project Avoid - operative
-Project Away - maintenance 1 $1,545.80
-Project Away- ote 1 -$1,169,76
 Project Baby - Extra hours 1 $2,096.00
-Project Baby-maintenance $1,441.00
-Project Back-Eq ent 1 $700.00
 Project Bad - maintenance
 Project Bad -Extra hours 1 S1,441.00
-Project Bag - Equi 1 $138.16
 Project Bag - Extra hours
-Project Bag - operative
-Project Bag-Creoit nore 1 -5418.50
 Project Bank -Extra hours 1 $1,624.40
-Project Bar -Equipmem $214.82
+Project Bar uipment 1 $1,799.19
 Project Bar-Cr tote 1 -$352.26
 Project Bar-Ec ent 1 $696.00
-Project Be - operative 1 $2,410.4t)
-Project Beat - Eq-iprent 1 $98.07
-Project Beat - Rquipnent $6,284.00
-Project Beat -Ecaipmem 1 ;2,273.60
-Project Beat -operative 1 $2.322.00
-Project Beat- t note 1 -$401.88
-Project Becom ksana -$1.179.00
-Project Become - Creci note 1 -$62.27
-Project Become - Equip Zppby 8% $352.38
-Project Become - Equipm 1 $57.10
-Project Become-Credii -$592.92
-Project Becon dit note 1 -S88.17
-Project Bed-maintenance 1 $1,441.00
-Project Before-maintenance 1 $92.34
-Project Behavior - Equipr 1 S88.17
-Project Behind edit note -$918.42
-Project Behind ssperent 1 $176.13
-Project Believe -Eq nt 1 $700.00
 Project Believe-Cn te 1 -$3,202.80
 Project Benefit - Extra hours
-Project Benefit - t note -$6.40
-Project Benefit -Eqipcent 1 $116.50
-Project Best - Crodit note -$22,860.00
-Project Best - Equ 1 $88.17
-Project Better - operative 1 $1,938.80
-Project Between -Creai: note 1 -31 .50
-Project Between -Equipcnent $4.05
-Project Beyond -E nent 1 $176.34
-Project Beyond- note 1 -$3,178.50
-Project Beyond-E nent 1 $75.20
-Project Bguipment $3,9:2.00
-Project Big-Crodit note 1 -$55.49
 Project Bill -Equip 1 $89.73
-Project Bill-Eq int 1 $928.00
 Project Bill-mantenar $2,000,00
 Project Billion - Extra hours
 Project Bit - Extra hours $1,991.20
-Project Bit -Zcu-pment 1 $4,292.00
-Project Blood-operative 1 $2,096.00
-Project Blue - operative
-Project Body - Equipmer $4,320,00
-Project Body - cont $435.00
+Project Book -Equiprent $321.36
 Project Book-maintenance 1 $2,096.00
-Project Bora-Eq iprent $688.00
-Project Both-maintenance 1 $2,912.00
-Project Break - Equ: 1 $70.98
-Project Break - Equip art 1 S7.97
-Project Bring - maintenance 1 $2,096.00
-Project Bring- ient 1 $176.34
 Project Budget - Extra hours 1 $1,624.40
 Project Business - Extra hours 1 $1,179.00
-Project Business - operative
-Project Business it note 1 -$93.55
-Project Business pment pan 1 $7.97
-Project Buy - Ceeeit note S3,648.00
-Project Buy - Equipntent 1 $176.13
 Project C ls Schedue 0.50 $127.87
 Project Call - Extra hours
-Project Campaign - nent S647.82
-Project Campaign -E ant 1 $6,510.00
-Project Can - E ent 1 $109.20
-Project Candidate - Cret ote 1 -$199.04
 Project Candidate - Equ $517.40
 Project Candidate - Equ 1 $398.08
+Project Candidate - Zquipment 1 $34,114.00
 Project Candidate -Cre ote -$842.50
 Project Candidate -Extra hours $4,899.40
 Project Capital -Extra hours $1,441.00
-Project Capital -maintenance 1 $288.20
-Project Card - operative 1 $1,624.40
 Project Care - Cred: - -$349.43
-Project Care - operative
 Project Care-Equi t 1 $6,450.00
-Project Career - operative
 Project Carry - Equip art 1 $6,517.80
+Project Carry - Equipmert 2 $88.07
 Project Carry - maintenance $1,938.60
 Project Carry - maintenance 1 $1,362.40
 Project Carry -Equipeert pait $1,484.90
-Project Carry -Equipm 1 $5,053.00
 Project Carry ipment $67.21
 Project Cary ipment 1 $4.890.00
 Project Case - Extra hours
 Project Case - maintenance S1,000.00
-Project Case -Equipm $371.00
-Project Cause - cperative 1 $1.441.C0
-Project Causg nvoice $450.00
-Project Cell -Cn 1 -$176.13
-Project Cell-Eq 1 S202.00
-Project Cemocratic - Equi 1 $1,592.32
-Project Cente dit note $1,400.00
-Project Central - Equi $863.76
-Project Central - Equi art : $1,604.75
-Project Certain Amouni based 62.40
-Project Chair - Creait note -$1,47.01
-Project ChallenE $772.90
-Project Challenge - maintenance 1 $1,441.00
+Project Center -Equipmt 1 $82.88
 Project Challenge-Extra hours 1 $1,991.20
 Project Chance - Extra hours
 Project Change -Extra hours 1 $1.807.80
-Project Character-Crodit note - $425.20
-Project Check - Crodit note 6.3(0
-Project Child -Crecit note -$6.672.00
-Project Choice - ment $193.24
-Project Choose - Equipmem 1 $1,758.94
 Project Choose -Cred te -$3,620.00
-Project Church - operative 1 S1,624.40
 Project Cit-zen - it note 1 -$100.92
-Project Citizen - operative
-Project Citizen -Equipmem port 1 $905.00
-Project Citizer ripment 1 $2,358.00
-Project Citzen -Zqoipne ct $9,475.20
 Project Civil - ment 1 $156.83
-Project Claim - Equ :t 1 $1,795,52
 Project Claim-Equippenpar by O% Tax To all ualues $3,2
-Project Clear - Crodit note -S35.32
-Project Clear - operative 51,938.80
-Project Clear- Crecit note 1 $960.00
-Project Clearly - maintenance
-Project Cnto -Eq-ip-ent 2 $86.30
 Project Co icheduler -WFH 21.12 $163.00
-Project Cold - operative 1 $1,938.80
-Project Cold-Crodit not 1 -$298.56
-Project Collection-maintenance 1 $3,353.60
 Project Common -Extra hours $1,729.20
-Project CompaeEquipmer 8%Faxto alloabses $1,048.00
-Project Company - Eqeiponent 1 -$611.25
-Project Company - maintenance $58,883.19
-Project Compare - Crodit note 1 -$240.41
-Project Compare -Coedit note -$57.19
-Project Compare -Crodit note 1 -$12,000.00
-Project Compare -Equipi 1 $1,315.98
-Project Compore -Equipenent $1,187.67
-Project Computer - Equit $31.42
-Project Computer - maintenance
 Project Comry -Extra hours S1,834.00
 Project Comtrols Scheduler - Madison Carson 26.40 $116.00
-Project Concern - operative 1 $1,807.80
-Project Condition $350.40
-Project Condition - Eq nt 1 $1,51.68
-Project Condition - operative
-Project Conference - Credin note -$748.00
 Project Congress - Ec nt $21.26
 Project Congress - Extra hours
-Project Congress - maintenance
-Project Congress it note 1 $202.00
-Project Congress oment 1 $303.00
-Project Consider - operative 1 $1,938.80
-Project Cont edit note -$2,127.50
 Project Cont heduier -SME 7 $127.87
 Project Cont teduler - Tina Rice 1 $127.87
-Project Contain - E tent 1 $75.20
-Project Contain - operative
-Project Contain - operative 1 $2,096.00
 Project Contr heduler 1 $127.87
 Project Contrals Scheduler -Tina Rice 1 $127.87
 Project Contro heduler -nanacement 1 $127.87
@@ -19199,8 +18953,6 @@ Project Controis Schedufer-Tina Rice 0.50 $127.87
 Project Controis Scheduier -project work 0.50 $127.87
 Project Controis Scheduler - Tina Rice 1 $127.87
 Project Controis Scheduler 31 $183.00
-Project Control - maintenance $2,096.00
-Project Control - operative 1 $1,257.60
 Project Control Schedul :H 4 $127.87
 Project Control Scheduler
 Project Control Scheduler - Jeremiah Glenn
@@ -19210,7 +18962,6 @@ Project Control Scheduler -trvi weekend 1 $127.87
 Project Control Scheduler 1 $127.87
 Project Control Scheduler 4 $127.87
 Project Control ilyst -sub-contractor 40 $163.00
-Project Control-Equipm Tne - $69.05
 Project Control: eduler $127.87
 Project Controla Scheduler -sub-contractor $127.87
 Project Controls Analyst
@@ -19439,154 +19190,48 @@ Project Controls duler - Tina Rice 0.50 $127.87
 Project Controls duler - Tina Rice 1 $127.87
 Project Controls duler-Tina Rice 1 $127.87
 Project Controls ler-add.cnslt 1 $127.87
-Project Controls st 2 $63.99
 Project Controls uler-Tina Rice 1 $127.87
 Project Contros Scheduler-projeot 1 $127.87
-Project Contt edit note 1 -$5,542.00
 Project Contt neduler - Tina Rice 2 5127.87
 Project Cor Scheduler 0.25 $127.87
 Project Cor icheduler-special on-site $127.87
 Project Cor s Scheduier - Tina Rice $127.87
 Project Cor s Scheduier - Tina Rice $27.87
-Project Coramon -Eqaipmeni pan 1 $1.450.00
-Project Cormmon - Eqezipment - $25.6t)
-Project Cost - maintenance 1 $1,991.20
-Project Cost - maintenance 1 $2,882.00
-Project Cost - operative 1 $1,807.80
-Project Cost - operative 1 $11,088.00
-Project Cost -Equlprent $1,10.00
-Project Cost-Creait no 1 $528.39
 Project Cotrois Scheduler 1 $127.87
-Project Could-Equipenent S7.50
-Project Country -Egeipment 1
-Project Couple - Crec 1 -S2,125.00
-Project Couple - Crec 1 S2,358.00
-Project Couple - Equ S2,800.00
-Project Couple - Extr 1 S1,441.00
-Project Couple edit note 1 -$3,275.00
-Project Course - maintenance
-Project Course edit note 1 -$14,218.80
 Project Court - Extra hours 1 $1,000.00
 Project Court - Extra hours 1 $3,406.00
-Project Cquipnent art 1 $40.65
-Project Create !dit note -$88.17
 Project Crime -Extra hours 1 $1,000.00
-Project Cul dit note 1 -$57.19
-Project Cultere - Credic note 1 -S298.56
-Project Cultural - Cred t note -S88.52
-Project Cultural- ment 1 $55.49
-Project Culture - sent : $5.67
-Project Culture - xent $6,520,00
-Project Cup-Ecu pment 1 $3,851.40
-Project Curren-Equipnsent 1 $6,520,00
-Project Dari.- Bquipeent $259.52
-Project Dark - Crodit note $206.40
-Project Dark - maintenance 1 1.65
-Project Data - xent $9,083.10
+Project Cut - Zquipment 1 $8.60
 Project Daughter -Extra hours $3,062.40
-Project Day - Equ-pment $7,447.50
-Project Day -Eauipnenc par $146.90
 Project Day -Extra haurs 1 $2,096.00
 Project Deal - Extra hours 1 $417.69
 Project Deal -Egiprent 1 $2,253.20
-Project Debate - Squ pment $3,081.12
 Project Decide - Extra hours
-Project Decide -Equipmer 1 58
-Project Decision - ent 1 $8.15
 Project Decision -Extra hours 1 $1,074.20
 Project Deep - maintenance
-Project Deep - operative
-Project Deep - operative 1 $1,991.20
-Project Defense - ( note 1 $8.75
-Project Defense - ( note 1 -$1,608.42
-Project Defense - Cred ote 1 -$88.17
-Project Defense - operative 1 S1,938.80
-Project Defense -Cr 1 -S176.34
-Project Defense -Eq-ipcent 1 $4,645.50
-Project Degree -Equipmery $3,260.00
-Project Degree zguipment Dhoneg 88.52
-Project Democratic -Equ 1 $2,408.46
-Project Democratic -Equ 1 $5,208.00
-Project Democratic -Equipm 1 $181.54
-Project Democratic-Equ 1 $425.20
-Project Democratic-Equip $21.98
-Project Des 10 Sana $14,647.20
-Project Describe -Equipmer 1 $1,462.20
-Project Describe -maintenance 1 $1,807.80
-Project Describe 1 $45.67
-Project Determine - e $1,441.00
-Project Determine - o 3353.70
-Project Develop - Ectipment $55.49
-Project Difference - Crodit note 1 -$452.12
-Project Difference - maintenance
-Project Different -Crodit note 1 -S32.27
-Project Dinector -Crodit note -$6,520.00
+Project Democrat - Equipmynt pay Dale is wrong 1 $982.50
+Project Design - Eguipment $765.36
+Project Design - Equipnent $1,441.00
 Project Dinne ipment 1 $4,320,00
-Project Dinner-Equipm $352.68
-Project Discover - Equi $1,965.00
-Project Discussion -Equipr 1 $6,520.00
-Project Discussion -maintenance 1 $1.100.00
-Project Discussion-Equipr 1 $21,287.50
-Project Discussion-Equipr 1 $63.94
-Project Discussion-Equipr art 1 $201.56
-Project Discussion-Equipr art 1 $7.00
-Project Discussion-operat 1 $1,362.40
-Project Do - maintenance 1 $2,410.40
-Project Do -Cred 1 -$96.80
+Project Dinne-Equipme rt 1 $30.93
 Project Doctor - Extra hours
 Project Doctor - Extra hours 1 $1,624.40
-Project Doctor - operative $2,253.20
-Project Doctor-operative $1,441,00
-Project Dog - Crecit note -S8.10
+Project Dog-Equipmeot 1 $132.26
 Project Door - Extra hours 1 $2.069.80
-Project Door -E ent 1 $7,986.00
-Project Down-Equipncat $74.00
-Project Draw - maintenance
-Project Draw -maintenance 1 $30.00
 Project Dream - Extra hours
-Project Drive - Equi 1 $94.26
-Project Drive ment 1 $877.50
-Project Drive. ment 1 $279.54
-Project Drop - nent $6,520.00
-Project Dru dit note 1 -$33,516.00
-Project Druc ruiprment 1 593.15
 Project Drug - Extra hours $3,196.40
-Project Drug it note 1 -S127.87
-Project Drug pment 1 $14.85
-Project Drug pment 1 $88.17
-Project Drug-Crecit note 1 -$5.477.48
-Project Drug-Crodit note -$14.38
-Project During -$4.29
 Project E -project work 1 S176.13
 Project E er -monitoring 20 $135.00
 Project E inee/-project wory ilew
-Project E r 1 $176.13
 Project E: er -add. cnslt 1 $176.13
 Project E: er -sub-contractor 32 $163.00
-Project Each -Crodit note 1 -$93.15
-Project Each -Eqepeny 1 $2.45
 Project Early - Equipr 1 $14.38
-Project Early -Crodit mote $612.00
-Project East - maintenance 1 $2,462.80
-Project Eat - Ecuipmen :t 1 $1,624.00
 Project Eco sguip .00
-Project Economic - note 1 -$42.50
 Project Edge-Cre te 1 -$4,573.00
-Project Edge-Equ st 1 $1,856.00
-Project Effect -Cregi 1 -$2,567.60
-Project Eight - Credis note 1 -$43.25
-Project Eight -operative $1,807,80
-Project Either -operative 1 $1.938.80
-Project Election - Equipinent 1 $1,165.94
-Project Election - Equipntent 1 $88.17
 Project Election - Extra hours 1 $1,807.80
-Project Employee - Crodit note 1 -$124.53
 Project En Randall Sullivan 1 s176.13
 Project En Randall Sullivan 2 $176.13
 Project Enc - Randall Suflivan $176.13
-Project End - Crecit note 1 -$4,420.00
-Project End - operative
-Project Energy - operative
 Project Eng 35 $170.00
 Project Eng SME 1 $176.13
 Project Eng compensation 1 $176.13
@@ -20263,283 +19908,78 @@ Project Engiooer 29.20 $116.00
 Project Engir 2 $176.13
 Project Ens - Nicole Mason 1 $176.23
 Project Enter - Equipmes 1 $2,358.00
-Project Enter -Crodit note -S8.10
 Project Enter-Equiprnent $1,740.00
 Project Enter-Extra hours 1 $3,196.40
 Project Entire pment $528.57
 Project Environmental - Extra hours 1 $1,938.80
-Project Environmental - maintenance
-Project Environn Crodit note -S432.53
 Project Eontrols Scheduler -WFH 0.50 $127.87
 Project Epgineer - Randal! Sullivan $[76.13
 Project Especially - Extra hours 1 $1,729.20
-Project Even - Creait note 1 -$2,268.00
-Project Evening note $300.00
 Project Event - iit note $93.15
-Project Event -Credis nose -$684.00
-Project Ever -Eqipcent $76.34
 Project Every - Extra hours 1 $1,991.20
-Project Everyone -Crecit not 1 -$350.00
-Project Everyone pment $176.34
-Project Everyone pment 1 $113.92
-Project Evidence - Equipntent 1 S2,648.75
-Project Evidence - maintenance
-Project Exac edit note 1 -S176.13
-Project Example note 1 -S1.050.00
-Project Exist - C note -$8.75
-Project Expect dit note 1 -588.17
-Project Experience -Eqipnen 1 $62.84
-Project Experience-Cred e 1 -$3,357.50
-Project Expert - Crodit note 1 -$5,265.00
-Project Eye - Crodit note -$77,910,00
-Project Eye-Crodit note -S2,797,28
-Project Fa dit note 1 $6,450.00
 Project Face - Extra hours $55.50
-Project Facr-Eqeripment $62.84
 Project Fact - Extra bours S1,938.80
-Project Fact -Equipmer t 1 $25.68
-Project Fact-Equipmer 1 $6.520.00
-Project Factor-Cre 1 $765.36
-Project Family - Equip >art 1 $905.00
-Project Family -maint 1 $353.70
-Project Family-Equip art 1 $44.09
-Project Fast - operative
-Project Fast -Equip >art 1 $26.94
-Project Father oment $68.80
-Project Fay - t note 1 -$37,60
-Project Fear - Eq-ipcent $82.78
-Project Fear-Equ 1 $25.86
-Project Federal - operative 1 $1,441.00
-Project Federal - operative 1 $1,729.20
-Project Feel - Equipeen 5396.C8
-Project Feeling- nent 1 $127.87
-Project Feeling- note 1 -$3.804.80
-Project Feeling-E nent $973.00
-Project Fenr-Equipmem pan 1 $272.60
-Project Fex - maitenance 1 $2,096.05
-Project Fi-e - Eqipcent 1 $705.36
-Project Field - maintenance $1,624.40
-Project Field-maintenance 1 S1,441.00
-Project Fight - Equip art 1 $264.19
-Project Fight - operative
-Project Figure - Equ t 1 $176.34
-Project Figure -Equipanent S5,930.24
-Project Fill - Eqiprent 1 $127.87
+Project Fe-haps- Eguipment 1 $63.94
 Project Fill -Extra hours 1 $1,624.40
-Project Fill-E 76.13
 Project Film - Extra hours
-Project Film -Cr note 1 -$0.00
-Project Filn - Equiponent $129.35
-Project Fim-Equiponent 5363.8
-Project Financial - operative
-Project Firm - E nt 1 $88.17
-Project Firm - maintenance
-Project Firm - maintenance $4,611.20
 Project First - Extra hours 1 $1,257.60
-Project First - operative
-Project First oment 1 $567.00
-Project Fish - Crecit note 1 $14,871.60
-Project Fish - Equipmes 1 $86.30
-Project Five -Eqipnent 1 $3,912.00
 Project Flant - Extra hours 1 $1,441.00
-Project Floor - Crodit note 1 -S2,567.60
 Project Floor -maintenance 807.80
-Project Focus - maintenance
-Project Focus -Crecit note -$94.26/
-Project Focus -Crodit note , -$1,448.00
-Project Focus- -quipmentart $78.42
 Project Food - Extra hours 1 $1,938.80
-Project Food - maintenance $1,179.00
-Project Foot -Crodit note 1 -$264.51
-Project Force-operat/ve 1 $1,179.00
-Project Foreign - Ciedit ncte 1 -$19.94
-Project Four - nent 1 $174.75
-Project Fr -NicMason Amourtbased $176.13
+Project For -Ecuipment pa 1 $1,92.60
 Project Free - Extra hours 1 $1,807.80
-Project Fresent-Eq-iprent $48.31
-Project Friend $174.00
-Project Friend oment 1 S3,620.00
-Project Friend-E nt $44.09
-Project Friend-E nt 1 $170.08
 Project Friend-Extra hou 1 $14,000.00
 Project Full -Equipnom Tems Seem to pe incomplet 76.34
-Project Fund - Cred:t note -$552.76
-Project Fusb - Eq-ipcent 1 $209.20
-Project Game -C ote 1 -$6.422.20
-Project Game -E nt 1 $352.26
-Project Game -E: urs 1 $1,624.40
-Project Game-C AotalDk 1 -$871.71
-Project Gar edit note 1 -$93.15
-Project Gar juipment $310.44
 Project Garden -  note 1 $46.50
 Project Garden -  note 1 -$2.14
-Project Garden - Equipptent 1 $1,716.80
 Project Garden - I nent 1 $75.50
 Project Garden - I nent 1 $8,585.28
-Project Garden-operative 1 $1,729.20
-Project Gas -Equiprr 1 $85.95
 Project Gas-Cre te 1 -$8,253.40
-Project Gas-Equ it $604.68
-Project Gas-Equ nt 1 $209.66
-Project Gas-Equ nt 1 $448.00
-Project Gas-Equ ot 1 $68.80
-Project Gec -Equipnenc 1 $604.68
-Project Genera) - Credis note 1 -5630.32
 Project General - Extra hours 1 $13,100.00
 Project Girl - note 1 -$403.12
-Project Give-Equii 1 $199.04
-Project Give-Equip art 1 $15.13
-Project Gixi - Pquipnent $1,389.09
-Project Glass -contingent exp 1 $1,000.00
 Project Good - Extra hours 1 $1,807.80
-Project Good -Eepment .212.00
-Project Government - maintenance 1 $1,624.40
-Project Government - maintenance 1 $1,938.80
-Project Great - operative 1 $1,624.40
-Project Great-Equipi 1 $74.20
-Project Ground- ment 1 $1.315.98
-Project Grow - operative 1 $2,620.00
-Project Growth - Equipm irt 1 $264.19
-Project Growth - Equipm rt 1 $3,260.00
-Project Growth - Equipmr irt 1 $19.62
-Project Growth - Equipms 1 $88.17
 Project Growth - Extra hours
-Project Growth -operative 1 S1,441.00
-Project Growth -operative 1 S1,938.80
-Project Gu ipment 1 $14,826.00
-Project Guess - Equ-pment 1 $51.19
 Project Guess - iit note 1 -$1,200.00
-Project Guess - ipment 1 $371.82
-Project Guess - ipment 1 $44.09
-Project Guess - ipment 1 $529.02
 Project Guess - lit note 1 -$17.42
-Project Guess 1 -$2,096.00
-Project Guess- Jit note 1 -$146.22
-Project Gun - Ecu pment $6,185.85
-Project Gun -Equtipmeat
-Project Gun -Zcuipment $6.40
 Project Guy - Extra hours 1 $1,624.40
 Project Guy - Extra hours 1 $1,729.20
 Project Guy - maintenance
-Project Guy -Zqu pment $5,286.40
 Project Guy ipment 1 $405.00
-Project Hair - operative 1 $995.19
-Project Half- Equipatent $704.52
 Project Hanc quipnenc pare 1 $26.81
 Project Hand -  sote - S1,856.00
 Project Hand - xent pan $21.64
-Project Happen-Eq ent 1 s528.39
-Project Happy - Equipm $403.12
-Project Hard - Equi 1 $68.80
-Project Hard -Crecit note 1 $4.40
-Project Hard-Equi 1 $352.26
-Project He - Cred t note -$1,945.75
-Project HeEqyfpment pary/ 1 $2.33
-Project Hea dit note 1 -$6,210.00
+Project Hant uipment 1 $1,158.30
 Project Head - Equipmem par $63.94
 Project Head -maintenance 1 S1,807.80
 Project Health - Extra hours 1 $1,545.80
-Project Heavy - Equ pment 1 $792.75
-Project Heavy - Equ-pment $3,840.00
-Project Heip - Equipmem - $6,520,00
-Project Help - Crodit note 1 -S88.17
-Project Help-Crodit note 1 -$6.40
 Project Hen ipment $88.52
 Project Her - Cre 1 -$5,379,00
-Project Her - Crodit note 1 S6,912.60
-Project Her -2cu pment 1 $6,520.00
 Project Her -Cre 1 -$1,462.20
 Project Her ipment 1 $28,261.00
 Project Her ra hours $2,724.80
 Project Her tipnent 2 $43.96
-Project Her-Creait note -$4.90
-Project Her-Equiprtent 1 59,372.00
 Project Here - maintenance
 Project Hersel tit note -S6,520.00
 Project Herself - Extra hours 1 $2,787.20
-Project Herself -Creait note 1 -$352.26
-Project High - maintenance
 Project Him -Extra Hours 1 $5,397.20
-Project Him-Crecit note 7 $5.694.00
-Project Himself - Creci note -$8.75
-Project Himself -Equip 1 $1.629.00
-Project Himself -Equip 1 $4.90
-Project His- sent 1 $880.65
-Project Hit - operative
-Project Hold-Equips 1 S8,896.00
-Project Hope - operative
 Project Hope -Cred 0576.13
-Project Hospital - maintenance
-Project Hot - C ote 1 -$62.84
-Project Hoti -Credin note -$169.05
-Project Hou ait note 1 -$84.54
-Project Hour - operative
-Project Hour -Eq it 1 $8.15
-Project Hour-operative 1 $2,676.80
-Project House - operative 1 $1,362.40
-Project Hov rdit note 1 -$63.94
-Project How sipment 1 $1,194.24
+Project Hope -Equipme $540.00
 Project However - Ec 1t 1 $127.87
 Project However - Ec at - S1,441.00
 Project However - Extra hours
-Project Human - operarive - 5435.00
-Project Husband -Cr 1 -199.94
-Project If - operative
-Project If -Equipe art 1 $0.57
-Project If -Equipr $1,462.20
+Project I- Equipnent $352.26
 Project If -Extra hours 1 $995.60
 Project If-Extra hours 1 $1.441.00
-Project Iinside - note 1 $765.36
 Project Important -Extra hours 1 $1,938.80
 Project Importint -Extra hours 1 $1,624.40
-Project Include - E ent 1 $2.14
-Project Include - ment $2,310.84
-Project Including - operative
 Project Increase - Extra hours
-Project Increase -Equiprr 1 $2,620.00
-Project Increase-Equipm irt 2 $273.02
 Project Indeed - Extra hours $1,807.80
-Project Indeed - off-site char 1 $1,729.20
-Project Indeed- nent 1 $88.17
-Project Indicat dit note 1 -$121.06
-Project Indicate - maintenance
-Project Industry -Equip art 1 $22.05
-Project Industry-Equip art 1 $176.34
-Project Insage - Credin note -$352.68
-Project Inside - nent - $3,990,00
-Project Inside - nent 1 $6,671.73
-Project Inside - operative 1 $1,807.80
-Project Instead - maintenance
-Project Instead -Eq ipcent $4,756.00
 Project Intemational - Extra hours 1 $1,445.00
 Project Interest -Extra hours 1 S1,807.80
-Project Interest-operative 1 $1,938.80
-Project Interesting - maintenance 1 $1,729.20
-Project Interesting - maintenance 1 $1,938.80
-Project Interesting - operative 1 $1,362.40
 Project International-Extra hours 1 $1,441.00
-Project Intervie ipment 1 $88.17
-Project Interview - Ecu pment $106.25
-Project Interview - Equipmer 1 $37.10
-Project Into -E ent 1 $680.32
-Project Investment - maintenance
-Project Investment - operative 1 $1,729.20
-Project Investment -Creait note 1 $176.13
-Project Investment -maintenance 1 $1,991.20
-Project Invoive $.76 , 34
-Project Involve-Crednote 1 -$528.39
 Project Issue - Cred -te -$388.05
-Project Issue - maintenance
 Project It - Extra hours 1 $1,938.80
 Project Item - Cre te 1 -$1,120.77
-Project Item -Crodit note 1 -5176.34
-Project Item-operative 1 $1,938.80
-Project Its - Equipmer :t 1 $54.60
-Project Itself - operative
-Project Itself - operative 1 $1,834.00
-Project Itself -maintenance 1 $1,807.80
-Project Itself- ient 1 $72.38
-Project Job -Ecu pment $2,195.71
 Project Join - oment 1 $765.36
 Project Join - oment 1 s232.00
 Project Just - Creodi 1 -$965.44
@@ -20548,10 +19988,7 @@ Project Just - Equip 1 $373.59
 Project Just - Equir $146.22
 Project Just -Equipn $2,353.00
 Project Just -Equipn 1 $187.43
-Project Just- t note 1 -$4.90
-Project K 0.50 $176.34
 Project Kan IV -Tina Edwards $74.20
-Project Kanag 2 $31.42
 Project Kanager - Matthew Brcoks 0,50 $176.3
 Project Kanager -Mattheu Brcoka 0.50 $176.34
 Project Kanager -Ronald Robinson 2 $176.3
@@ -20576,77 +20013,32 @@ Project Kanager IIf -Madison Carson 6.60 16.00
 Project Kanager IV -Tina Edvards 3 $74.20
 Project Kanager IV -nda 2 $74.20
 Project Kanager IV -trv d 0.50 $15.00
-Project Key-Equipm 1 $373.59
-Project Key-Equipn ut 1 $150.68
-Project Kha -Credic noce -$871.71
 Project Kid - Extra hours
 Project Kid-Extra hours 1 $2,724.80
-Project Kind -} $379.50
 Project Kit -Ecu pment 1 $22.60
-Project Kitchen - Credic ncte -$6,520.00
-Project Knowledge - Zcu pment $242.12
-Project Krong - Equipnenc cart 1 $28.84
-Project Krong- operative $2,10.40
-Project L rodit note 1 S3,409.29
-Project Language - Equ it $1,448.00
-Project Language - maintenance 1 $1,624.40
-Project Large -Crodit note -S171.20
-Project Last - Crei :e 1 $74.52
-Project Last-Equ it 1 $73.11
-Project Later-Equiy 1 $49.23
-Project LaterEuipmennart 1 $139.77
-Project Laugh - Cre: 1 $352.26
-Project Laugh - Equ 1 $464.00
-Project Laugh - Equ 1 $63.99
-Project Laugh - Equ t 1 $4.05
-Project Law -Equipm 1 $352.26
-Project Law-Equipmer 1 $48.56
+Project Korry - Rquipment $4270.50
 Project Lay-Ec int pan 7 $15.648.75
 Project Lay-maintenance 1 $1.834.00
 Project Lay-maintenance 2 $1.624.40
-Project Le $91.34
 Project Lead - Bcuipnent $88.17
 Project Lead -Equipn :art 1 $176.13
 Project Lead-Equipn 1 $82.68
-Project Least -Crodit note $1.322.00
-Project Least -Crodit note -S53.88
-Project Least -Equ $1,223.66
-Project Leave - Equip sart 1 $601.68
+Project LeadCrediynote 1 -$5,400.00
 Project Leg - Extra hours T $2,567.60
+Project Less - Equipmeat 1 $88.17
 Project Less - note 1 -$109.20
 Project Less- note 1 -$352,26
 Project Let - maintenance 1 $1,938.80
-Project Level - operative 1 $131.00
 Project Life - Extra hours 1 $2,787.20
-Project Life -Cre $799.18
-Project Life -operative 1 $1,991.20
-Project Light - Crodit note 1 -S2,112.27
-Project Light - Equipnrent 1 $863.76
-Project Like-E ent 1 $4,720.00
-Project Likely - maintenance
-Project List - operative
-Project List. uipmenl pari $4.38
-Project Listen pment $30.00
-Project Little - mane $1,575.00
-Project Little - operative $1,807.80
 Project Live -Equipmer $175.00
 Project Lngineer -compensacion 23 $128.38
 Project Local - Extra hours $1,441.00
-Project Long - Eguipnent $8.71
 Project Long - Extra hours 1 $1,441.00
-Project Look :ipnent - $352.68
-Project Loss - operative 1 $65.50
-Project Loss -maintenance 1 S1.938.80
 Project Low - Extra hours 1 $2,096.00
-Project Low-Eqipmcnt 1 $1,600.80
 Project M -1 -management 0.50 $36.19
 Project M -IV-Anthony Mcbride 72 $170.00
 Project M -Matthew Brooks 0.50 $176.34
-Project M -Rcnald Robinson 1 $176.34
-Project M 0.50 $176.34
-Project M 1 $233.00
 Project M 1-SME 0.25 $36.19
-Project M er 0.50 $176.34
 Project M er I 3.50 $181.00
 Project M er III - Sarah Harris 1.50 $42.27
 Project M r-Ronald Robinson $176.34
@@ -20654,7 +20046,6 @@ Project M rl-Nathaniel Nelson 2 $9.07
 Project M: - IV -nda 1.50 $31.42
 Project M: - IV -trvl weekend  4 $31.42
 Project M: -extra hours 0.50 $176.34
-Project M: 1.50 $176.34
 Project M: IV -sub-contractor 8 $38.65
 Project Ma I - Melissa Brown 19.60 $116.00
 Project Ma I-Jennifo 6 $93.15
@@ -20666,17 +20057,13 @@ Project Ma V - Kathy Avila 2 $93.15
 Project Ma V -Melissa Brown 17 $116.00
 Project Ma V- Brett Allen 8 $38.65
 Project Ma management 120 536.17
-Project Machine-Creait note 1 -$26.81
-Project Machine-Equipneni pan 1 $1,637.50
 Project Macsger- 0.50
-Project Magazine-Equip 1 $1.995.20
-Project Mahege 40 $163.00
 Project Mai  - Lisa Buchanan 123.50 $5.54
 Project Mai III 0.50 $233.00
 Project Mai IV -Michael Davis 63.50 $192.96
 Project Mai iV - Rachael Shaw 2 $68.80
-Project Majority - Equiprr 1 $70.98
 Project Make - sens 1 $370,00
+Project Make -Equipme $121.06
 Project Mal III 2 $233.00
 Project Mal IV - Stephanie Bennett Da95.15
 Project Mamager - Ronald Robinson 2 $176.34
@@ -20684,17 +20071,15 @@ Project Mamager -Matthew Brooks 1 S176.34
 Project Mamager 0.50 $176.34
 Project Mamager V  4 $68.80
 Project Mamagy-Matthey/orooks 0.50 $176.34
+Project Man -Eqaipment 1 $176.34
 Project Man -Equipnen Santiagr B $206.88
-Project Man -Zcu pment 1 $32.22
 Project Man -extra hours 12 $181.00
-Project Man 40 $163.00
 Project Man I-management 1 $93.15
 Project Man II - Timothy Brooks 593.15
 Project Man II -extra hours 6 $31.42
 Project Man II-support 0.50 $76.29
 Project Man Il-special on-site 2 $93.15
 Project Man Matthew Brooks 0.50 $176.34
-Project Man V 4 $74.20
 Project Man- tote 1 -S44.09
 Project Man-I ent S1,480.00
 Project Man: 7-extra hours 1.50 $68.80
@@ -24544,7 +23929,6 @@ Project Manager|-Gregory Payne 0.50 $68.80
 Project Manager|-extra hours 1 $68.80
 Project Manages 1 $176.34
 Project Manages III 10 $181.00
-Project ManagesJerry Eaton ccout AAamber K 0.50 $38.65
 Project Managex I - Velissa Williams 0.25 536.19
 Project Managey pply O%o Taxt alt Jadues $135.00
 Project Managi roject work 4.75 $233.00
@@ -24552,7 +23936,6 @@ Project Managor - Gecrge Lam 168 $148.00
 Project Managor -add. cnsit 1 $176.34
 Project Managor 0.50 $93.15
 Project Managr support 1 $31.42
-Project Manay 9 $116.00
 Project Mane 8 $181.00
 Project Mane Emily Bonilla 3 $31.42
 Project Mane elly Allen 1 $176.34
@@ -24570,101 +23953,47 @@ Project Mansger I1-Laera Campbeil 0.25 $38.65
 Project Many - maintenance 1 $1,441.00
 Project Mar -Lorraine Barrett 0.50 S57.19
 Project Mar -Lorraine Barrett 4 $57.19
-Project Mar 2 $42.27
-Project Mar 8 $31.42
 Project Mar I-Shannon Torres $93.15
 Project Mar Madison Carson 16 $131.00
 Project Mar Madison Carson 18.40 $116.00
-Project Mar V 1 $74.20
 Project Mar monitoring 1 $176.34
-Project Mar-Zcu pmentpart $:6.80
 Project Marager -WFH 0.50 S176.34
 Project Marager I-Ketly Johnson srkae
 Project Market - maintenance
-Project Market 1 $30,653.00
 Project Marriage - Extra hours
 Project Marriage - Extra hours 1 $2,620.00
 Project Marsger -speciai on-site 31 $36.17
 Project Martager - Matthew Brooks - S176.34
 Project Martager IfI-Sarah Harris 2.50 $57.19
 Project Marvager II -sub-contractor 1 $93.15
-Project Material-contingent expen 1 $1,624.40
-Project Matter - maintenance 1 $1,441.00
-Project Matter - operative
 Project May - Extra hours
 Project Maybe-EqL nt $1,179.00
 Project Mayrager - Melissa Wilrams 3.50 $36.19
 Project Mc xtra hours $58,883.19
-Project Mce 1 $579,72
 Project Me - Equ 1 $63.99
 Project Me - ment 1 $5,373.00
 Project Me 1 $148.82
 Project Me-Cre 1 -$31.42
 Project Meet - sont 1 S5,400.00
-Project Meetir dit note -S1,831.50
-Project Member-Equipenent 1 565.75
 Project Memory -Equipmer rt 1 $39.07
-Project Method - operative 1 $995.60
 Project Mi r -SME 0.50 $176.34
 Project Mi r -sub-contractor 0.50 $176.34
 Project Mianager - Manthew Brooks 0.50 $176.34
 Project Mianager -Aaron Thompson 2 $181.CO
 Project Mianager I -suk-contractor 8 $135.00
-Project Miflion - Eq ent 1 $39.24
-Project Mil Credin note -$85.04
-Project Military - Crec ote 1 $352.26
-Project Military - Equ 1 $110.99
-Project Million - operative 1 $1,991.20
-Project Million- ment 1 $2,096.00
 Project Mind - maintenance
-Project Minute-Equipm 1 $24.20
-Project Minute-Equipmem $350.00
-Project Miss - E ent 1 $73.11
-Project Missior dit note 1 -$2,900.00
-Project Model oment 1 $352.68
-Project Model oment 1 $517.40
-Project Model oment 1 $6.40
-Project Model- note -$96.62
-Project Modern - maintenance
 Project Moment - Extra hours 51,179.00
-Project Moment - operative 1 $1,257.60
-Project Money - operative 1 $1,624.40
-Project Month -E nent 1 $1,118.16
-Project Month -maintenance $1,624.40
-Project Month-maintenance 1 $1,441.00
-Project Morning - maintenance
-Project Morning dit note 1 -$73.11
-Project Most-Equipmem 1 $220.00
-Project Most-Equipmer $176.34
-Project Most-Equipmer S85.04
-Project Mother -1 iote -$8.75
 Project Mother -Extra hours 1 $2,724.80
 Project Mother-Extra hours 1 $1.834.00
-Project Mou edit note
-Project Mouth - t note 1 -$88.17
-Project Mouth -( note 1 $3,423.00
-Project Mouth- nent 1 $969.48
-Project Move - Zquipeent 1 $21,240.00
-Project Movement - maintenance 1 $2,096.00
-Project Mr - operative
-Project Much - operative 1 $2,096.00
-Project Music - nent $99.52
 Project Music-Cre te 1 -$68.80
 Project Must - Extra hours 1 $19,008.00
-Project Must oment 1 $4,320.00
-Project Must pment 1 $528.39
-Project My-Eqipnent 52,751.00
-Project My-operative 1 $1,362.40
-Project Myself - maintenance $1,074.20
 Project N --monitoring 3 $176.34
 Project N er-compensation 2 $176.34
 Project N erIII-SME 1 $17.42
-Project Najority -Crec note -541.99
-Project Name -Eqipcent 2 $25
+Project Name - Equiprent 3.54
 Project Nana v -Mr,David Shepherd 1 $89.80
 Project Nanag -Mr,David Shepherd 0.75 $89.80
 Project Nanag :I - Dale Meyers 6.50 $93.15
-Project NanagI gmissin 7.50 $93.15
 Project Nanage - Denise Mueller 40 $163.00
 Project Nanage - Johnathan Harriscn 3, 25 576.29
 Project Nanage 0.50 $76.34
@@ -24836,346 +24165,101 @@ Project Nanager-project work 20 $81.00
 Project Nanagex II 2.50 $9.07
 Project Nanagex IV -suh-contractor $38.65
 Project Nani I- Nelissa Killiams 0.25 $36.19
-Project National - operative
-Project National pment $176.34
-Project National pment - $604.68
-Project National-Equi $4.90
-Project Nature - Equipmer 1 $156.91
-Project Nature - Equipmer 1 $352.26
-Project Nature -Equipmer $176.34
-Project Nature-Equipn $1,004.00
+Project Nany - Equiprent $2,088.00
 Project Nearly - Extra hours $1,991.20
-Project Nearly - maintenance $1,807,80
-Project Necessary -Eg as inclade
-Project Necessary edit note 1 -$519.03
 Project Necessary-Extra hours $1,441.009
-Project Nest -Eg igcent $88.17
+Project Nedia -2quipment pert 1 $176.13
+Project Network - Equipnent $1,350.00
 Project Network-Eguipmery $88.17
-Project Never - operative
-Project New - Crodit eote -5401.88
-Project New -Equipmer 1 $175.00
-Project News - Eq nt 1 $37.60
-Project News - Equipmer $6.520.00
-Project News - Equipmer 1 $724.00
-Project News - maintenance
-Project Newspaper - Rcu pment
-Project Next - E ent 1 $4,000.00
-Project Nice - Crodit note S657.99
-Project No - operative 1 $1,362.40
-Project No-Equipntent $146.22
 Project None - Equipn rt $199.04
 Project None -Ci ote 1 -$3.92
-Project None-Crodit note 1 -$5,216.00
+Project Nor - Ecuipment 1 $352.26
 Project Nor - Equipnsent 1 $136.00
 Project Nor - maintenance
 Project Nor -Scuipment 1 56,8C0.00
-Project Norice -Equip $655.00
-Project North -E nent 1 $1,754.64
 Project North LAmoant Fpasee
-Project Not - Credjnote $127.87
-Project Not - Ecu p 1 $1,703.00
-Project Not - Equipotent 1 $25,500,00
-Project Not - operative 1 $3,353.60
-Project Not -Zcuipment 1 $7,545.60
 Project Not-I nent $132.10
-Project Note - Equipcen 2 $540.00
+Project Note - Equicment 1 $809.45
 Project Note - Extra hours 1 $65.50
-Project Note - operative $2,096.00
-Project Note - operative $2,462.80
-Project Nother 1 $9.62
-Project Nothing - Crecit note 1 -$514.20
-Project Notic ipment pari $1,824.00
-Project Novemenc - Cred.t note 1 -$1,442.00
-Project Now-Ecu pment $2,34.40
-Project Now-Equipnsent $1.614.00
-Project Occur - Eouiptent 1 $356.58
 Project Occur - Extra hours 7 $3,825.20
-Project Occur-C xte 1 -$8.07
-Project Of - maintenance
-Project Of - operative
-Project Of - operative 1 $9,768.00
-Project Of -Equipm 1 $221.97
-Project Of-Equip $195.00
-Project Off - Eguipnent 1 $25.68
 Project Off ce -Extra hours $2,362.40
-Project Offer - maintenance 1 $1,834.00
-Project Offer -Crodit note -$46,368.00
-Project Offer ent $63.94
-Project Office ment 1 $978.39
-Project Officer - maintenance 1 $1,441.00
 Project Officer-Extra hours 1 $1.938.80
-Project Officiai -EquSpme it 1 $3,297.00
 Project Official - Extra hours 1 $1,624.40
-Project Often -maintenance 1 $1,624.40
-Project Oil -Ecu-pment 1 $199.0
 Project Ok - operative 1 $1,441.00
+Project Ok-Equioment 7 $978.39
 Project Old - Extra hours 1 $1,807.80
-Project Old-Equi 1 $48.91
-Project On - Equi 1 S2,134.40
 Project On - Extra hours
 Project On - Extra hours 1 $1,441.00
-Project On -Cred.t note Y -$1,112.00
-Project On -Equij art S1,205.20
-Project Once a hours 1 $1,938.80
-Project Once dit note 57.50
-Project One - Crodit note -$62.84
 Project One -Ecu p 1 $352.26
-Project Only - Equipmer $14,927,00
-Project Only -2quSpment 1 $6.74
-Project Only xment $360.00
-Project Onto -Crecit note -$176.34
-Project Ope juipment 1 $146.22
-Project Open - E nent 1 $469.00
-Project Open - E nent 1 $8,762.00
 Project Open - Extra hours
 Project Open -Extra hours 1 $1,000.00
-Project Open- note 1 -$502.35
+Project Operation - Equipnent 1 $193.24
 Project Operation - Extra hours 1 $1,807.80
 Project Operation - Zcuipment 1 $350.00
-Project Opportuni-y-Equ-pment $604.68
+Project Operation -Eqeipment par 1 3176.13
 Project Opportunity - Equipnsent pe 1 $373.59
 Project Or-Eq at 7 $1,965.00
-Project Order - Cred ste 1 $62.84
-Project Organization - Equjpm S3,912.00
-Project Organization-Equipmepart $10,981.00
-Project Other - aent 1 $398.08
-Project Other - note -$1,441.00
-Project Other edit note $869.58
-Project Other- nent : $93.15
 Project Others - Extra hours $3,085.60
 Project Others - Extra hours 1 $1,441.00
-Project Others - maintenance
-Project Others -Eqipmont $49.76
-Project Others-ediynge $7.902.35
-Project Out - operative 1 $1,441.00
-Project Out ripment 1 $86.30
-Project Owner oment 1 $20,592.00
-Project Paper -Equ $143.96
-Project Parry-Equipmem poss - $198.75
-Project Participant -Extra hours 1 $2,096.00
-Project Particular - Extra hours 1 $1,807.80
-Project Particular -Eq st $1,020.00
-Project Partner - Crodlit note -$2,620.00
-Project Partner - Extra hours
-Project Partner - nent 1 $4,270.50
-Project Partner oment 1 $176.13
-Project Partner-Eq-iprent Peceived ar
-Project Past - $124.53
-Project Pay - Ecufpment 1 $6,510.00
-Project Pay- Seuipnent $12,581.00
-Project Pcople - Equipmer 58.71
-Project Peace
-Project Peace - ment 1 $352.68
-Project People - dit note -$1,400.00
-Project People - operative
-Project Perform - Eq it 1 $62.84
-Project Perform-maintenance 1 $1,624.40
-Project Performance -operative 1 $5.940.00
-Project Performance-Equ $352.68
+Project Our-Eauipment 1 $88.17
+Project Perhaps -Equipmept Andret to Stan $5,10
 Project Perhaps -Extra hours 1 $2.098.00
-Project Person -Eq ent 1 $88.17
-Project Personal -C :note 1 -$2,268.00
-Project Personal -Crecit note 1 -$55.68
-Project Phone -Ceedit note -$56.96
-Project Phone it note 1 $5.764.30
-Project Physica dit note 1 -$57.19
-Project Physical - maintenance 1 S1,362.40
-Project Physical - nent S139.77
-Project Physical- note -5413.92
-Project Pick - Equipm 1 $2,624.00
-Project Pick - Equipn $3,260,00
 Project Pick - Extra hours 1 $1,441.00
-Project Pick juipment 562.84
-Project Pick-Equipm $176.34
-Project Picture - operative $1,624.40
-Project Piece - Crec 1 -$3,608.00
-Project Piece - Crec 1 -$42.27
-Project Piece - Crodit note 1 -S8.75
-Project Piece - operative
-Project Piece - opere 1 $1,624.40
 Project Piece-Extra hours 1 $1,257.6
-Project Place - Equip 1 $6,520.00
-Project Place - maintenance
-Project Place-Equipntent $127.87
-Project Plan - Cred t note 1 -$7.45
+Project Plan - Equipme 1 $517.40
 Project Plan- nent 1 $9.36
-Project Plant - operative 1 $1,938.80
 Project Play -contingent expt 1 $1,179.00
 Project Player - Extra hours $288.20
-Project Player - operative
-Project Pm - Cred a 2 -$37.60
-Project Pm - Equi $84.54
-Project Point - operative
 Project Point -Creote neva nbice 1 -$2.096.12
-Project Police/Eqy/pryenpart $362.00
-Project Policy - Credst note 1 $1,225.00
-Project Political -Crec 1 -$90.50
 Project Politics -Extra hours $1,441.00
 Project Poor -Extra hours S2,322.00
-Project Population - maintenance
-Project Population -Equipr art 1 $350.00
-Project Population-Equipn 1 $398.00
-Project Population-maintenance 1 $1.257.60
-Project Positior ipment 1 $352.26
-Project Possib xdit note 1 -$90.80
-Project Possible-maintenance 1 $2,096.00
-Project Powe $88.06
-Project Power -Equ pment 1 $3,013.00
-Project Power-Equiprt 1 $1,965.00
-Project Practice -operative 1 S1.834.00
 Project Prepare - lit note 1 -$206.96
-Project Prepare - pment 1 $99.47
-Project Prepare -Equipnen 2 $558.40
-Project Prepare-Equiprnent 1 $850.50
 Project Present -Extra hours 1 $2,646.20
-Project Present-maintenance 1 S3,510.80
-Project President -Equip $88.17
 Project President- Extra hours $1,257.60
-Project Pressure - Eq nt $3.99
-Project Pressure - operative
-Project Pressure -Crecit note 1 -S77.30
-Project Pressure ipment par $142.75
-Project Pretty - Equip 1 $62.27
 Project Prevent - Extra hours
-Project Prevent -Equipinent 1 $298.56
-Project Prevent -Equipnenc pa 1 $935.00
-Project Prict dit note 1 -$261.21
-Project Produce-Equipn art 1 $46.58
 Project Product - Extra hours $1,441.00
-Project Product - off-sit irges 1 $1,441.00
-Project Product -C note 1 -$88.17
 Project Product : - Extra hours 1 $13,100.00
-Project Professor -Zcuipment $6,200.00
-Project Professor-Equipmer $352.38
-Project Professor-Equipn $464.00
-Project Professor-Equipr 1 $171.20
-Project Professor-Equipr 1 $2,952.74
-Project Professor-Equipr 1 $2.127.50
-Project Professor-Equipr oart 1 $88.17
 Project Program - Extra hours 1 $1,807.80
-Project Program - maintenance
-Project Program-Equipm $444.50
 Project Property - Extra hours
 Project Protect- Extra hou $995.60
-Project Protect-operative 1 $1,624.40
-Project Pubiic-Eqsipent $6,510,00
-Project Public - aote 1 -$298.56
-Project Public - operative 1 $1,441.00
-Project Pull -Eq-ip-ent 1 $4.90
-Project Pull squip 1 $5,134.50
 Project Purpose - Extra hours
 Project Purpose - Extra hours $1,441.00
-Project Push - maintenance $1,179.00
-Project Push -Crodit note 1 -$17.42
-Project Qualit juipment 1 $287.92
-Project Quality- operative 1 $1,807.80
-Project Quality-maintenance 1 $175.00
-Project Question - maintenance
-Project Quice - contingent expenge 1 $1,938.80
 Project Quickly -Extra hours 2 $1.991.20
 Project Quite -Cre te 1 -$403.12
-Project R Ce $1.14
-Project Race - Crecit note 1 -$431.88
 Project Race - Equipnens $176,34
-Project Race -Equiponent 5792.76
 Project Race-Equipnct $1.120.77
-Project Raise - Crodit note -$4.07
 Project Rather - Extra hours
 Project Rather - Extra hours 1 $1,624.40
 Project Rather - operative
+Project Rea ity- Equipnent 1 $4.90
 Project Read - Extra hours 1 $2,253.20
-Project Ready $3,966.00
-Project Ready cmert $257.52
-Project Ready ipment 1 $174.00
-Project Reaiize - Bouinment $417.CO
 Project Real - contingent expe 1 $2,410.40
 Project Real - contingent expe 1 $2,724.80
-Project Reality -E ient $1,681.53
-Project Realize - Equipnen 1 $3,960.76
-Project Receive - Equip vart 1 $585.00
+Project Reason - Equipme I $7.50
 Project Receive - Extra hours 51.729.20
-Project Receive-C note 1 -$85.04
-Project Recent - operative
-Project Recently - operative 1 $1,624.40
-Project Recognize - maintenance 1 $1,807.80
-Project Record - Equipmem port $540.00
-Project Record pment 1 $6,520,00
-Project Record pment 1 $88.07
-Project Record-Equ $176.34
-Project Red - operative $14,520.00
-Project Reduce - maintenance
-Project Reficct-Equipmem - $3,822.00
-Project Reflect - operative
-Project Regioa-operative $1,441.00
-Project Region - maintenance
-Project Region - operative
-Project Relate - off-site clarges 1 $4,611.20
-Project Relationsh edit note 1 $9.799.50
-Project Relationsh juipment 1 $62.84
-Project Relationsh juipment 1 $88.17
-Project ReligioL juipmentpart 1 $186.00
-Project Religiou muipment $6,520.00
-Project Religiou pment $(99.04
-Project Religiou: pment 1 $14.38
-Project Religious - Ecu pment 1 $3,013.00
-Project Religious - operative 1 $1,991.20
-Project Report - Equip 1 $1,624.40
-Project Report-operative S1,624.40
-Project Represent - Equipmem pan $176.13
-Project Represent - maintenance $1,545.30
 Project Republican - Extra hours
-Project Republican - operative $1,362.40
-Project Republican -operative - $2,462.80
-Project Republican-Creoit note 1 -$398.08
-Project Require - operative 1 $1,624.40
-Project Require-Equipm 1 $14,014.80
-Project Require-maintenance 1 $1,624.40
-Project Research - Cre: 1 $2,588.50
-Project Research - Crodit note -S5,400.00
 Project Research - Extra hours 1 $1.807.80
-Project Research-Crecit note -5765.36
 Project Resource - Extra hours $2,096.00
-Project Respond - maintenance 1 $1,624.40
-Project Respond - pment 1 $257.52
-Project Respond -Equipr 1 S8,342.00
 Project Respond lit note 1 -$221.97
 Project Rest - Extra hours 1 $1,362.40
-Project Rest -Equipnenc 1 $2,096.00
 Project Rest -Extra hours $812.20
-Project Result - Equ 1 52,310.84
-Project Result - operative $357,386.75
 Project Result-Extra hours 1 $2,096.00
-Project Retum - Equipmer $633.50
-Project Return - Credic note 7 $529.02
-Project Return tuipment 2 $604.66
-Project Reveal - maintenance 1 $2,724.80
 Project Reveal -Extra hours $1,807.80
-Project Rich-C note 2 $4.40
-Project Right-Equipntent 1 $83.99
 Project Ris-Equi 1 $44,03
-Project Rise -Eqaipmem pans $373.59
 Project Rise -Extra hours 510,296.00
-Project Risk - Cre -SS,400.00
 Project Risk - Extra hours
-Project Risk-Eq 1 $1,995.20
 Project Road - Extra hours 1 $1,807.80
 Project Road - maintenance
+Project Road -Equipsent $352.68
 Project Rock -Equipmer 1 $93.15
 Project Role - Extra hours
-Project Role -Equiipnent $201.56
-Project Rox juipment 1 $3,016.00
-Project Run - maintenance 1 $1,807.80
 Project Same -Eqaipmen pant 5146.22
-Project Save -Eguiprrent $2,096.00
+Project Same -Equipnent $7,300.00
 Project Say - maintenance 1 $1,000.00
 Project Sc er I -trvl weekend 2 $74.20
 Project Sc r I - Connie Wilson 4 $31.42
 Project Sceduler  24 S163.00
-Project Scek - Crodit note 1 -$132.26
-Project Scek - Equipmem pam S:
-Project Scene -Equip
 Project Sche -Kevin Higgins MD 40 $163.00
-Project Sche 1 3 $93.15
 Project Sche I - Carlos White 0.50 $17.42
 Project Sche I-management 5 $93.15
 Project Sche wty"8%Jax to all vabves $31.42
@@ -25189,7 +24273,6 @@ Project Scheculer I 0.25 $17.42
 Project Scheculer I 8 $65.80
 Project Scheculer I Pnel 50 .41
 Project ScheculerI 16.60 $116.00
-Project Sched 0.25 $17.42
 Project Sched I - Lynn Brown 1 $,7.42
 Project Sched Logan Bauer 2 $31.42
 Project Schedoler -nda 0.25 $17.42
@@ -26099,359 +25182,126 @@ Project Score - Extra hours $1,441.CO
 Project Sct - - Glenn Benjamin 6 $31.42
 Project Sct -I - Ashley Gomez 0.25 $17.42
 Project Sea - maintenance
-Project Season - operative $812.20
 Project Second- Extra hours 1 5995.60
-Project Section - Equipmer $36.55
 Project Security -Extra hours 1 $2,912.00
 Project See - maintenance $9,768.00
+Project Seek-Eauipment 1 $209.12
 Project Seem-Eqiprent
 Project Selteduter I 0.25 $17.42
-Project Send - Equicnent par 1 $809.25
-Project Send -Crodit note 6.34
+Project Senior - Equipnent 1 $242.12
 Project Senlor. thours 1 $2.410.40
-Project Sense - operative
 Project Seon - Equicnenr $480.00
-Project Serious - Eqt at 1 $57.19
 Project Serious -Extra hours 1 $1.938.80
 Project Serve - Extra hours $1,441.00
-Project Serve - nent 1 $57.19
-Project Serve- note 1 -$0.00
-Project Serve- rent 1 $726.36
 Project Set I -projeet work 2 S42.27
-Project Several - Eqsipesent $36.56
-Project Sg
+Project Set- Eouipment 1 $49.76
 Project Share - maintenance 1 $55.50
-Project Shculd - Pquipnent $352.26
 Project She - Ecu-pment $93.15
-Project She - operative 1 $2,901.65
-Project Ship To missing 2 .34
-Project Short -Crodit note 1 -S48.31
-Project Should -Equipntent 1 $6,783.00
-Project Shoulder ment 1 $431.88
+Project Shouid -Equipmens pert 1 5647.82
+Project Side - Equioment 1 $48.40
 Project Sign- :note 1 -$871.71
 Project Sign-Extra hours 1 $1,100.40
 Project Significant - Extra hours 1 $1,729.20
 Project Sima Equipn $44.09
-Project Similar -Credic note 1 -$15.26
-Project Simple -Equipmei 1 $398.08
-Project Simple-Crodit ro -S5,216.00
-Project Simply - operative 1 $50,304.00
 Project Simply -Extra hours 1 $1,441.00
-Project Simply-Eq 1 5352.26
-Project Sing - Crodit note 1 -518.68
-Project Sing - maintenance
-Project Single - operative
-Project Sit - operative 1 $1,991.20
-Project Site -Crecit note 1 .08
-Project Site -E ient 1 $352.68
-Project Situation - Equ pment 83
-Project Six - Cr note 1 -$44.09
-Project Six - operative
-Project Six-Equ 1 $2.97
 Project Size - Extra hours 1 $1,807.80
-Project Size -Equi 1 $403.12
-Project Skil - operative 1 $2,096.00
+Project Smiie -Eqeipment 1 $6.40
 Project Smile - maintenance 1 $2,096.00
-Project Sn-uipmem $2.23
 Project Soclety- Extra hours $2,442.00
-Project Soerimes -C c -S139.77
-Project Sold edit note 1 -S2,057.00
-Project Soldier pment 1 $3.042.00
 Project Some - Equii 1 $4,320.00
-Project Somebody - maintenance
-Project Someone - Crecit note 1 -$86.51
-Project Someone -Equipmer 1 $174.75
-Project Something -Ecu pment $59.60
+Project Someor uipment 1 $4.05
+Project Sometimes - Ecuipment 1 $271.50
 Project Sometimes - Extra hours
 Project Sometimes - Extra hours 1 $2,096.00
 Project Sometimes-C: te -$1.868.56
 Project Somotimes -Ec at 1 $398.08
-Project Soms Equipnsent $6,520.00
-Project Son-operative 1 $1,807.80
-Project Song - Eq nt 1 $199.04
 Project Song -Ci ote 1 $176.34
 Project Soo coun mber $528.39
 Project Soon - Extra hours 1 $1,441.00
 Project Sort -Extra hours 2 $1,441.00
-Project Sound-maintenance 1 S1,624.40
-Project Sourc edit note 1 $209.96
-Project Sourc tuipment $6,520.00
-Project Source - operative
-Project Source dit note 1 -$4,884.00
-Project Source ipment 1 $148.50
-Project Source ipment 1 $4,128.15
-Project Source ipment 1 $75.20
 Project Space - operative
 Project Space -Equip $212.60
 Project Space -Equip $84.54
 Project Space -operative S1,441.00
-Project Speak - Credic aote 376.34
 Project Speak - Eqpten 1 S2,436.00
 Project Speak - operative 1 $2,096.00
+Project Special - Ecuipment 1 $2,273.60
 Project Special - operative 1 $3,353.60
-Project Speech - operative $1,441.00
-Project Speech-E $43.75
+Project Spend - Equiprent $3,404.00
 Project Sport - operative 1 $2,096.00
 Project Spring - Cr ote -$176.34
-Project Spring - Cre note -$398.08
-Project Spring -Eq nt 1 $52.28
-Project Staff - Equ pment $1,400.00
-Project Staff - operative $1,807.80
 Project Stand - Credir 1 -$1,147.00
-Project Standard - maintenance $2,410,40
-Project Standard-C ote 1 -$53.88
-Project Star -ZquSpment 1 $750.C0
+Project Star - Equipmeat 1 $93.15
 Project Star ment 1 $350.00
-Project Start-operative $1,991.20
-Project State -Equipmem $352.68
-Project State dit note 1 $6,520.00
-Project State ipment $1,050.00
-Project State ipment 1 $141.96
-Project State-Eqmer 1 $3,225.00
-Project Statement -Equipenent $3,720,00
-Project Station - Crodit mote -$148.23
-Project Station - Crodit note -5176.13
+Project Start -Eouipment 1 $127.87
 Project Stay - it note 1 -S16,473.60
-Project Still - maintenance
-Project Stop -Crodit note -$2,182.46
-Project Story - Crecit note $264.20
 Project Story - Extra hours 1 $357,386.75
-Project Street - C: ste 1 -S72.60
-Project Street-C ote 1 -$7.59
-Project Strong -Creait note -$6,520.00
-Project Structure -Credir note -5323.91
-Project Structure sipment 1 $72.09
-Project Stuff -Eg $4.90
-Project Style -maintenance 1 $2,096.00
-Project Style -maintenance 1 $2,148.40
-Project Subject -Creaic ncce 1 -$71.98
-Project Subject -Eq it $110.99
-Project Success -Eqiprent 1 $8.71
-Project Such - Eqipcent 1 $528.39
-Project Such - operative 1 $2,096.00
-Project Such -Crodit note 1 -S199.00
-Project Suggest - Creci note -$14.38
-Project Suggest - maintenance 1 $1,624.40
-Project Suggest it note 1 -$72.60
-Project Suggest ment 1 $2,000.00
-Project Suggest oment 1 $4.40
-Project Summer - operative
 Project Suno .Equipn $39.90
 Project Support -E ent 1 $176.34
 Project Sure - Extra hours 1 $1,257.60
-Project Sure - operative
-Project Surface-Equip 1 $94.26
 Project System -Extra hours 1 $2,620.00
-Project System- ment 1 $176.13
-Project Table -Crodit note S4,604.75
-Project Table dit note 1 -$6,994.00
-Project Table dit note 1 -$8.60
-Project Table tipment 1 $79.45
-Project Table tipment 2 $2,751.00
-Project Take - Crecit note -$17.42
-Project Take - Ecuipnent $398.08
-Project Talk -Crodit note 1 -S176.34
-Project Talk -Crodit note 1 -S37.60
-Project Task  ipment $3,673.50
-Project Task - Cred -S88.17
-Project Task - Equi $127.87
 Project Task - Extra hours
-Project Task - maintenance 1 $1,807.80
-Project Task - note 1 -$1,807,80
-Project Task -Equiponent port 1 $264.19
 Project Task iit note -$127.87
 Project Task iit note -$604.68
-Project Task ipment 1 $970.18
-Project Tax - Cregit note 1 -S7.45
 Project Tax - Extra hours 1 $1,991.20
-Project Tax - operative 1 $1,441.00
-Project Tax fit note 1 -$176.34
-Project Te: dit note 1 $133.16
 Project Teach - Extra hours 1 $1,729.20
 Project Teach-Equipn 1 $4.90
 Project Teacher - Extra hours 1 $1,991.20
 Project Teacher - Extra hours 2 $1,729.20
-Project Teacher - operative 1 $3,085.60
-Project Teacher-Equipmer 1 $633.50
 Project Team - Eqipe LineDaymen Lerms $29.35
-Project Technology - maintenance
-Project Technology - ment 1 $6,520.00
-Project Television - Eqiprent 2 $921.60
 Project Television - Extra hours
-Project Television - operative 1 $1,938.80
-Project Television it note 1 $155.22
-Project Teli- Eguipnent $555.00
 Project Tell - Extra hours
-Project Ten -Equipmem pan : $4.05
-Project Ten -Zquipmenc 2 $5.18
 Project Tend - Equip $127.87
 Project Tend - Equip: art - $221.97
-Project Tend - Equipi irt 1 $1,953.00
 Project Tend - Equips 1 $21.25
 Project Tend - Equips irt 1 $3,260.00
 Project Tend - contin pense 1 $1,807.80
 Project Tend - contin pense 1 $2,410.40
 Project Tend - maintenance
-Project Tend -Creait note 1 -$31.00
-Project Tend -Equipi urt 1 $4.68
+Project Tend -Equipsent 1 $280.19
 Project Tend-contin pense $1,441.00
-Project Term-Crodit note 1 -S6,520.00
-Project Test -E ours 1 $55.50
 Project Test lit note $1,320.27
-Project Test pment $1,260.00
-Project Test- tnc $194.60 S
-Project Tha $:74.00
 Project Than - Cre 1 $529.02
 Project Than - Cre 8 1 $127.87
-Project Than -Crodit note - -$129.35
 Project Thank - maintenance 1 $1,624.40
-Project Thank- t note 1 -$545.20
-Project That - Equipr art 1 $272.60
+Project Thank-Equipmeat $398.08
 Project That - Extra hours
-Project That - maintenance 1 $1,179.00
-Project That -Cre ote 1 -$48.50
-Project That -Equipr 1 $63.94
-Project Thcusand Eauipmentpax $74.46
-Project Them - operative $1,807,80
-Project Themselves - Eqiprent 1 $5,26.00
-Project Themselves-operative 1 $2,096.00
 Project Theory - Extra hours $1,729.20
-Project Theory -Crecit note -$1,020.00
-Project Ther edit note 1 -s176.13
-Project Ther: pment 1 $5,400.00
-Project There $100.78
-Project These -Ecuipmont 1 $48.40
-Project They - Crexit note 1 -S2,952.74
-Project They-Equiponent 1 $57.10
-Project Thing - maintenance 1 $1,938.80
-Project Thing-Equiposent $352.68
 Project Third - Extra hours
-Project This -Equipnrent .50
-Project Those - operative 1 $1,441.00
-Project Though-Eqmipr $97.50
-Project Though: -Eguipmenc 1 $88.52
-Project Thought - E nt S350.40
 Project Thought - Extra hours - $1,991.20
-Project Thousand - Equip 1 $350.40
-Project Thousand - Equip 1 $8,965.50
-Project Thousand - Equip 1 $9,083.10
-Project Thousand - operative 1 $1,807.80
-Project Thousand-Equip 1 $176.13
-Project Thousand-Equipmer $88.17
-Project Threat - operative 1 $1,807.80
-Project Threat -( note 1 -$637.60
 Project Three lit note $206.56
-Project Through $37.60
-Project Through - Equip 1 $63.94
 Project Through - Extra hours 1 $1,624.40
 Project Through -Extra hours 1 $1,624.40
-Project Through-Equipmei 1 $2,250.40
-Project Thus - t note 1 -$340.16
-Project Thus 1 -$176.34
-Project Thus- Eq iprent 1 $1.630.00
 Project Tim Jipment 1 $8.71
 Project Time - Equipmem pan 1 $49.76
+Project Time -Equlpment 1 $6,884.45
 Project Today - Extra hours 1 $1,624.40
-Project Today iment 1 $209.96
-Project Today-Equipn art 1 $12.80
 Project Tonight - Extra hours 1 $1,624.40
-Project Tonight -contingent expens - $1,441.00
-Project Tonigi juipment 1 $1,085.50
-Project Top-Ecoipment 1 $352.26
-Project Total -Equipm 1 $3.762.00
-Project Total-Equipm rt 1 $4,635.00
-Project Tough - Crecit e 1 -$76.13
-Project Tough -Equip 1 $1,645.92
-Project Towara - Bquipnent 1 $75.20
-Project Town - Equipmer 1 $308.23
-Project Town - Equipmer 1 $350.00
-Project Town - Equipmer Missina bit $26.81
-Project Town - continger ense 1 $1,624.40
-Project Town -Crecic note 1 -$65.75
-Project Tracitional - ( :note -$77.30
-Project Trad dit note 1 -$4.05
-Project Trade -Cregit note $403.12
-Project Trade -Equi 1 $8.15
-Project Trade t note 1 -S35.89
-Project Tradition ipment 1 $176.13
-Project Tradition: dit note 1 -$14,361.60
-Project Traditional - Crodic note 1 -$4,941.00
-Project Traditional - Eaypmgh a wrong 1 $2,648.75
-Project Traditional - operative
-Project Treatment -copment $88.17
-Project Treatqu ue Soon 1 $216.26
-Project Treditional - E rent 1 $61.97
 Project Tree - note 1 -S62.84
 Project Tree - oent $217.01
-Project Tree-Crodit note -$680.32
 Project Tria ipment 1 $5,859.00
-Project Trial - operative
-Project Trip - Crecit note 1 -5:71.20
-Project Trip - contingent expenae 1 $1,441.00
-Project Trip - operative 1 $2,462.80
-Project Trip -Crecit nate 1 -$57.19
-Project Trouble -Crecic note -$86.17
-Project Trouble -Dperative 1 $1.545.80
-Project Tru edit note 1 -S6.40
-Project Tru sdit note 1 $1,810.00
-Project Turm-operative 1 $1,179.00
-Project Turn - Eqaipnem pon $15.71
-Project Tv - maintenance 1 $2,620.00
-Project Tv - operative
-Project Tv-maintenance 1 $1,44
 Project Two - E nent 1 $176.13
 Project Two - operative
-Project Two -Crodit note -$1.564.00
 Project Two-Equipmer $370.57
-Project Under - Extra hauzs 1 $1,362.40
 Project Under - Extra hours
-Project Under juipnent $8.10
-Project Under-Equipmcat $216.26
-Project Understand - it note 1 -$352.68
-Project Understand - oment 1 $7,589.64
-Project Unit - Creclit note 1 $93.15
-Project Unit -Credic note -$174.00
-Project Up -Credin note - $4,560.00
-Project Use -Ecu pment par $44.09
-Project Usually - maintenance
 Project Valu quipnent $3,504.50
 Project Value-I ent
 Project Vanager - Ronald Robinaon 1 $76.34
 Project Vanager IV - Samantha Bail $89.80
 Project Vanager IV -compensation 4 74.20
 Project Vanager Iv 20 $26.38
-Project Varicus -Eqipnen 1 $705.36
-Project Various - Equipnserst $88.17
-Project Ven-q rgrideulhorinegSignal
-Project Very-Crodit note 1 -$127.87
-Project View - Equicnent 1 -54,000.00
-Project View-Crodit note 1 $1,275.76
-Project View-Crodit note 1 -S6,520.00
-Project Voice - maintenance 1 $3,039.20
 Project Vote -Extra hours 1 $1,441.00
-Project Walk-Creait note 1 $119.00
-Project Wall - Equipm art 1 $452.50
-Project Wall - Equiprnent $124.53
-Project Want - operative
 Project War-operative 1 $1.991.20
 Project Water - Extra hours 1 $1,807.80
-Project Wea lipment 1 $3,275.00
-Project Weck - Crodit note 1 $1,169.76
 Project Week-C te $95.89
-Project Weight edit note 1 -$158.60
-Project Well - Crodit note 1 -S31.42
-Project Weste juipment 1 $6.58
-Project Weste juipment 1 $871.71
-Project Western - Cieait ncte 1 -$99.52
+Project West -Zquipment 1 $13,075.20
 Project Whatever - Extra hours
 Project When -Cre ian goa, sana 1 -$413.92
+Project Whether - Equiprent $86.30
 Project Whether - maintenance 1 $357,386.75
 Project Whether-maintenance 2 $3.039.20
-Project Which - Equipmerg $24.05
 Project Which - Extra hours
-Project Which -Equip art 1 $2,857.98
 Project While - Extra hours
-Project White - C ote 1 -$49.76
 Project White - Extra hours 1 $2,253.20
 Project Who - I ient 1 $62.84
 Project Who - maintenance - $1,938.80
@@ -26459,39 +25309,22 @@ Project Who - maintenance 1 $2,253.20
 Project Who - operative $1,441.00
 Project Who -Zcu pment 1 $201.56
 Project Who uipnent 1 $700.00
-Project Whom - operative 1 $1,624.40
-Project Why -  note 1 -$2,992.00
-Project Why -  note 1 -$604.68
 Project Why - I nent 1 $176.34
-Project Why - note 1 -$1,577.60
-Project Why- note 1 -$257.52
 Project Wide - Extra hours
 Project Wide-Extra hours 1 $1,441.00
 Project Will-Cre 1 S579.72
-Project Win - Zquipmenc $403.12
 Project Wind - Extra hours 1 $1,441.00
-Project Wind - operative 1 $2,322.00
-Project Wishout -Equipmem pani 1 $0.00
-Project With  ment $176.34
-Project Within - maintenance 1 $5,940.00
-Project Within -Equipmem per $32.68
-Project Witho ipment 1 $37.60
-Project Witho tipment 1 $18.401.94
-Project Withoct -Equipntent 1 $31.90
-Project Wny -Equipmem VoteShipping $143.96
-Project Woman-C ote 1 $2.096.00
 Project Word -E ant 1 $6,520.00
 Project Work -Eqaipmen post 1 $91.39
-Project Work-Creait note 1 $6,744.47
 Project Worke ipment 1 $362.18
+Project World - Equipnent 1 $352.68
+Project World - Equipnent 1 $403.12
+Project World - Equipnent S11.35
 Project Worry - Extra hours
 Project Worry-Eqwipm 1 $403.12
-Project Would - maintenance 1 $1,991.20
 Project Write - Extra hours 1 $1,441.00
 Project Write - Extra hours 1 $1,834.00
 Project Wrong - Extra hours
-Project Wrong - Zquipnent $6,520.00
-Project Wrong - operative 1 $1,991.20
 Project Xanager - Christopher Harris 2.50 $68.80
 Project Xanager -Matthev Brooks 0.50 $76.34
 Project Xanager -special cn-site 0.50 $76.34
@@ -26524,21 +25357,9 @@ Project Yanager III 8 532.42
 Project Yanager IV -Michael Perez 3 $0.41
 Project Yanager IV 3 $57.19
 Project Yanager IV 4 $269.00
-Project Yard - Crecit note 2,620.00
-Project Yeah -Equipnsent 0.00
 Project Yes - Extra hours 1 $1,362.40
-Project Yes -Zcu pment $6,520.00
-Project Yet-Crc 1 -$398.08
-Project You - Ecupmen 1 S11,469.60
-Project You - Equipr 1 $7.45
-Project You - Equipr 1 $73.11
-Project You Jipment $1,629.00
 Project Young - Cr note -$1,608.42
-Project Young -Eq int $502.00
 Project Your - Extra hours
-Project Your -operative 1 $1,938.80
-Project Zlection - Equip 5498.12
-Project Zng neer -Nicoie Mason 3 $176.13
 Project Zng-neer -trvl weekend 40 $163.00
 Project Zngineer $176.13
 Project Zngineer - Nicoie Maaon 2 $176.13
@@ -26557,20 +25378,15 @@ Project al-Scoipment 1 $4,978.00
 Project anager IfI 0.50 $89.80
 Project anager-add.cnslt 18 $131.00
 Project ance Duet 8 $31.42
-Project candicate $12.80
 Project culer I -Cennifer Smith 4C $4.00
 Project duler I-sub-contractor 40 $163.00
 Project duler-WFH Ssina 163.00
 Project eduler I -Tiffany Anderson 1.50 $38.65
 Project eduler I- Rachael Shav m $68.80
-Project eer $176.13
 Project eer -extra hours 2 $176.13
-Project eoHereinb 1 7
 Project er -add. cnslt 23 $116.00
 Project er -monitoring 1 $176.34
 Project er -sub-contractor 13.25 $181.00
-Project er 0.50 $176.34
-Project er 1 $176.34
 Project er I -Ashey Gomez 0.75 $36.19
 Project er I -compensation 0.25 $36.19
 Project er III - Brandon Berry 2 $135.00
@@ -26578,60 +25394,39 @@ Project er III - Melissa Brown 18 $116.00
 Project er III -monitoring 8 $31.42
 Project er IV-Jessica Andrade 4 $74.20
 Project er Ill - Mark Watkins 0.50 $233.00
-Project er Ship missir $163.00
 Project er- Ronald Robinson $176.34
 Project er-Tina Edwards 1 S57.19
-Project erI 12 $181.00
 Project fer - Extra hours > $1,834.00
 Project ger - Lisa Evans 1.50 576.34
 Project ger - Matthew Brooks 1 $76.34
-Project ger 0.50 $176.34
-Project ger 1 $176.34
 Project ger Assistant 4 $181.00
 Project ger II- Zachary Shaw 9 $31.42
 Project ger III-Teresa Tucker 160 $36.17
 Project ger IV - Tiffany Douglas 40 $14.00
 Project ger-Kelly Allen $176.34
-Project gerII 1.50 $233.00
 Project gerII-Laura Campbell 0.25 $38.65
 Project gerII-monitoring 1 $93.15
-Project husband - Eguinment $9,36
-Project ieer 1 $176.13
-Project iis -Credic note 1 -$6,520.00
 Project iuler I - Valerie Marquez 4 $74.20
-Project ive-Credjt not 1 -$2,424.00
-Project jer 1 $171.20
 Project jer III -Timothy Nest 1 $42.27
 Project ler I -sub-contractor 5 $31.42
 Project life-Extra hcurs $1,991.20
-Project lndustry - Cred t rote 1 -5386.48
 Project ls Scheduler -Tina Rice 2 $127.87
 Project luler I -add. cnslt 8 $42.27
-Project nce- Creait note 1 -$63.78
 Project neer - Nicole Mason 1 $76.13
 Project neer-compensation 1 $176.13
 Project neer-compensation 2 $176.13
 Project ner - Matthew Brooks 0.50 $176.34
-Project offer- nent $6,520.00
-Project rit $233,00
 Project rois Scheduler - Tina Rice 1 $27.87
 Project ser - Randaft Suflivan 1 $176.13
 Project ser- 3 $176.34
 Project sger III - Madison Garcia 1.50 $31.42
 Project ter -sub-contractor 0.50 $176,34
-Project witch -Equipmehepart 1 $466.99
 Project! er-Randail Sullivan 2 $176.13
-Project! jerI- 0.25 $36.19
 Project&choduler 8 $68.80
-Project' 3quipmem pan $338.06
-Project, etion $176.13
 Project: Manager 0.50 $176.34
 Project: er III -management 2 $93.15
-Project: er- 0.50 $176.34
 Project? TIII 8 $118.00
-ProjectE 2 $176.13
 ProjectI er - Ronald Robinson 1 $176.34
-ProjectI-maintenance $2,624.40
 ProjectM IV $57.19
 ProjectM r-Matthew Brooks 0.50 $176.34
 ProjectManager -project ucrk 40 $135.00
@@ -26660,7 +25455,6 @@ ProjectManagerIII 7 S57.19
 ProjectManagerIIl 0.25 $233.00
 ProjectManagerIV-Michael Pratt 0.50 $10.99
 ProjectManagerIV-support 4 $38.65
-ProjectVarous- t note -$350.00
 ProjectYanager I 0.50 $36.9
 Projectanager 1 $176.34
 Projectt er -project work 0.50 $93.15
@@ -26670,19 +25464,15 @@ Projee Manager -Matthew Brooks 1 $176.34
 Projee Manager IV-Thomas Scott $42.27
 Projee Manager-Matthew Brooks 0.50 $176.34
 Projee Manages-Matthew Brooks S176.34
-Projeet Compare - contingent expens $1,100,40
 Projeet Controls Scheduler -Madison Carson 37.60 $116.00
 Projeet Controls Scheduler 0.50 $127.87
-Projeet Decribe -Crodit note
-Projeet Drop - Equip art $88.17
 Projeet En -WFH 5176.13
 Projeet Engincer 0.50 $176.13
 Projeet Engincer 2 5176.13
 Projeet Engineer $176.1
 Projeet Engineer-Linda Lee $0.00
 Projeet Engineer-Nicole Mason 1 $176.13
-Projeet Ever - Equipenent : $1,312.25
-Projeet Fal - Eqoipnent 1 $116.50
+Projeet Less - Equipmeat 54,500,00
 Projeet Manager $176.34
 Projeet Manager - Matthew Brooks 5176.34
 Projeet Manager -SM 1 $176.34
@@ -26715,22 +25505,17 @@ Projeet ManagerI 0.50 $36.19
 Projeet ManagerII- Tumer 0.25 $57.19
 Projeet Maoager I - Katie Rivera 2 $68.80
 Projeet Me -cootingoot cxpense S3,196.40
-Projeet Onto-maintenamce - $1,441.00
-Projeet Risk - Eqaipmem pans $31.
 Projeet Scheduler 1 $38.65
 Projeet Scheduler I 0.50 $31.42
 Projeet Scheduler I-MichaelPerez 10 $0.41
 Projeet Scheduler I-rv weekend $42.27
 Projeet Scheduler-Ashley Gomez 517.42
 Projeet Schoduler I -extra hours $68.S0
-Projeet Sit -operative $1,938.80
-Projeet Te - Crodit note 1 -$91.24
+Projeet Vi: uipment $31.97
+Projeet logy-Equipmeot pert 1 $22.00
 Projegt Manager Roger Salazar $171.20
 Projeot Engineer -SME 7.92 $93.00
 Projer ager-Matthew Brooks 1 $176.34
-Projer ager1 7 $68.80
-Projet Best-Crednt ne 36.19
-Projet Look-Crodit note 1 0000.00
 Projet Manager - RonaRoinson $176.34
 Projet Manager -SME 1 $176.34
 Projet Manager 0.50 $176.34
@@ -26739,6 +25524,7 @@ Projet Manager II-Tony Yoder $93.15
 Projet Manager II-peeject work s $93.15
 Projet Manager III -managemet 0.50 $38
 Projex ager -Jennifer Taylor 20 $170.00
+Projeyineerdiuote )ale iswrong -$1,807,80
 Projgct Managg totalM 1 -$2,648.75
 Projoc Engincer al Sullivan S176.13
 Projoc Engineer-Randall Su 5176.13
@@ -26751,15 +25537,11 @@ Projoc Schcdule I-Dale Meyers 1.50 $93.15
 Projoc Stage -contingent expee 1 $1,624.40
 Projoc: er I1I-support $31.42
 Projocr Manager 1 $176.34
-Projoct Authority-Equipotent S2,106.98
-Projoct Break - Equis - $806.24
 Projoct Coetrols Schodule $127.87
 Projoct Controls Scheduler -Brianna Martin 10 $114.00
 Projoct Controls Scheduler -nda 0.25 S12A.15
 Projoct Controls Scheduler 2 S127.87
 Projoct Controls Schoduler -Tina Rice $127.87
-Projoct Dark -Crodit note -S72.38
-Projoct Daughter-Crodit note 1 -$243.00
 Projoct Engincer -Melissa Brown 11.25 $116.00
 Projoct Engincer -Nicole Mason $176.13
 Projoct Engincer -Randall Sullivan 1 5176.13
@@ -26782,16 +25564,7 @@ Projoct Engineer -support 1 $176.13
 Projoct Engineer 0.50 $176.13
 Projoct Engineer 0.50 5176.13
 Projoct Engineer 2 .13
-Projoct Example-Credii nte -$350.40
-Projoct Fine-Equipmem 1 $76.29
-Projoct Friend pment $3,081.12
-Projoct Have  Crodit note -S3,574.75
-Projoct Him-Crodit noe -$43.14
-Projoct Later -Equip 1 $862.32
-Projoct Later -Equip art 1 S1,470.50
-Projoct Look -Equipem pan 1 534.54
 Projoct M: -management 0.50 $176.34
-Projoct Main -Equipmem pan - $4.36
 Projoct MamagAssisty AiD gmiSSina 1 $136.00
 Projoct Mamage 0.50 S
 Projoct Mamager 0.25 $171.20
@@ -26864,15 +25637,9 @@ Projoct ManagerJJ] 5 $9.07
 Projoct Managoc - Kevin Higgins MD 12 $181.00
 Projoct Managor SME Sme -aaress incamn $163.
 Projoct Many-Equip art 1 $109.67
-Projoct MapcrI 8 $93.15
-Projoct Minute -Equip art - $10.50
-Projoct New- Equipmes 1 $151.00
 Projoct Operation-Equipenent 1 $1.14
 Projoct Plan - maintenance 1 $1,887,80
-Projoct Race-Equipmcot pa 1 $4,541.55
 Projoct Red-Equi art 1 $450.45
-Projoct Return - Equipnsent pan 1 $382.68
-Projoct Risk-Ex $2,912.00
 Projoct Scheduler 1 -extra hours 1 $7.42
 Projoct Scheduler 1 -management 2 531.42
 Projoct Scheduler 1 -monitoring 1 $38.65
@@ -26888,7 +25655,6 @@ Projoct Scheduler1-Melissa Williams 0.25 $17.42
 Projoct Scheduler1-Nathaniel Nelson 2 $9.07
 Projoct Scheduler] 0.75 $17.42
 Projoct Student -Extra hour $2,253.20
-Projoct Tu edit note -S765.36
 Projoct erIII -sapport 4 $93.15
 Projoot Manager-Scan Frye 2 $57.19
 Projr nagerII-management 40 $163.00
@@ -26896,6 +25662,7 @@ Projs ager 1-managemeat 0.50 $36.19
 Projs anager IV $89.80
 Projs tager IV-compensation $38.65
 Prooct Schecuer 0.50 $17,42
+Prot Stay -Eqiment par 1 S85.60
 Protect Engineer 18 $6.00
 Protect Manager $176.34
 Protect Scheduler I 8 $42.27
@@ -26911,9 +25678,11 @@ Psoject Manager I -Nelissa Williams 0.25 $36.19
 Psoject Manager IV -sub-contractcr 1 $89.80
 Psoject Nanager III -WFH 8 $3:.42
 Psul Peters - PROJECT CONTROLS ANALYST III 40 S147.60
+Ptincipal - Aiexander Mol 4.80 $420.00
 Ptoject Controls Scheculer -VFH 0.50 $127.87
 Ptoject Manager IIl-Amanda Melean 160 $2.97
 Pxincipal -adc. cnsit 22.50 $345.00
+Pxoject Iime - Ecuipment 1 $6.58
 Pxoject Scheduler I - Kristen Soto 40 $163.00
 Pzincipal -nanagement 6 $610.00
 Pzogect Vanager Ill $93.15
@@ -26926,7 +25695,6 @@ Pzoject Engineer -Niccle Nason $176.13
 Pzoject Engineer -maragement $176.13
 Pzoject Engineer -support $176.13
 Pzoject Engineer 20 $131.00
-Pzoject Garden -Eguipnent 1 $55.49
 Pzoject Kanager 00
 Pzoject Kanager IV - Stephanie Bennett 8 $93.15
 Pzoject Manager -Cre lote 2 -$6,520.00
@@ -26951,6 +25719,7 @@ Pzoject Scheduler I $74.20
 Pzoject Scheduler I - Ashiey Gomez 0.25 $7.42
 Pzoject Scheduler I -conpensation $7.42
 Pzoject Scheduler I -trvl weekend 40 $163.00
+Pzoject Time - Equipsent $2,358.00
 Pzoject Zngineer -nda 1 .13
 R DESIGNER 45 $138.00
 R I Hawkins-Principal 28 $500.00
@@ -27410,7 +26179,6 @@ Roger Salazar-Project Manager 0.50 $171.20
 Roger Salazar-Project Manager 0.75 $176.34
 Roger Si r- Project Controls Scheduler 0.50 $127.87
 Ronad Robinson -Project Manager $176.34
-Ronafd Robinson - Project Man $176.34
 Ronaid Rcbinaon -Project Manager $176.34
 Ronaid Rcbinson - S. Pro Mar.age $201.56
 Ronaid Robiaon -Sr. Proyect Manager 2 $201.56
@@ -28073,6 +26841,7 @@ Scett Carter - Progran Manager 176 $2 , 97
 Scheder | -Benjamin Clarke $38.65
 Scheduler I -WFH $93.15
 Scheduler I -management $93.15
+Scien -Any Barnett 7.50 $195.00
 Scient 11 $131.00
 Scientis lissa Brown 19 $131.00
 Scientis?-sub-cony/actor $245.00
@@ -28440,6 +27209,7 @@ Shannon Greene - ELECTRICAL ENGI 9 $123.94
 Shannon Greene - ELECTRICAL ENGt 4 $123.94
 Shannon Greene -ENGINEERING 21 $123.94
 Shannon Greene-ENGINEERING 11 $123.94
+Shannon Hinters - Program Nana 19.87 $163.00
 Shannon Morales - Program Manager 138 $18.00
 Shannon Porres - CADD Drafter Ii Senior Design Drafter 0.25 $35.32
 Shannon Rosario - Managing Engineer
@@ -28572,6 +27342,7 @@ Shawn Barnes-Design Drafter 4 $124.53
 Shawn Barnes-Design Drafter 4 s124.53
 Shawn Barnes-Design Drafter 6 $124.53
 Shawn Barnes-Design Drafter 7 $124.53
+Shawn Barnessign hdomopracktng NAupuper
 Shawn Frank roject Manager 40 $163.00
 Shawn Franklin - 0
 Shawn Franklin - 0 12 $181.00
@@ -28642,16 +27413,17 @@ Sheryl Leblanc-ELECTRICAL ENGI 4 $123.94
 Sheryl Leblanc-ELECTRICALENGI 3 $123.94
 Sheryl Leblanc-ELECTRICALENGI 8 $123.94
 Sheryl Leblane - ELECTRICAL ENGV 7 $123.94
-Shiypping Dale is mising Cligmneingg 2022-12 $51.74
 Si ict Engineer-Danielle Ryan 2 $199.04
 Si.Engineer-Jim Hartnan $146.22
 Sientist - Robert Johnson $240.00
+Sina"pil 2.25 $57.67
 Sis Specialist -monitoring 50 $5.54
 Sject Manager I -extra hours 40 $163.00
 Snff Consnfrant -Pamela Michae 12 $68.80
 Snginee Laxrence Davis 38 $163.00
 Snsjn Drafer Mark Watkins - Engineer Desigr shouta revienSublosa 98.12
 Sonsultant-Carrie Wallace 15 $185.00
+Sooeeghipmento Fress incomplete Dbea ahe
 Spe 2 $175.00
 Spe ist III 238 $36.17
 Speci  Brianna Larsen 2 $175.00
@@ -31150,7 +29922,6 @@ T tered -Ashley Thompson 4 $68.80
 T1 atered - Melissa Willians 0.50 $36.19
 T202 Sr.Eng ron-sitc base $146.22
 T: 1Support 8 $160.68
-TMe nse from2021-08-04 1 51,276.00
 TRICAL ENG] - Sheryl Leblanc 3 $123.94
 TRICAL SM EXPERT - Natasha Warren 1 $245.50
 TRICALENGI-Matthew Wright 1 $181.00
@@ -31586,6 +30357,7 @@ Technieal Supervisor-SME 40 $163.00
 Technieal rt 9 $160.68
 Tecnical Soperviser 0.25  $199.04
 Tect Supervisor-SME 0.25 $193.24
+Tems seem to be incomplete
 Tennifer Taylor - Enginee ing Consultant 40 $170.00
 Ter Il Supervisor-Alexandra Torres 5 $199.04
 Teresa Fcrd - Prcject Scheduler I 2.50 $42.27
@@ -38656,6 +37428,7 @@ Timothy Morrison -GIS Specialist 40 $2.97
 Timothy Narper -Sr.Fr Engineer 0.50 $199.04
 Timothy Nest - CADD Dra ter II (Senior Design Drafter) 3 531.42
 Timothy Niller - Eng Design III Sr. Eng 40 $163.CO
+Timothy Robinscn - 0 38.50 $63.00
 Timothy Robinson - 0
 Timothy Robinson - 0 1.75 $181.00
 Timothy Robinson - Design Engineer 40 $163.00
@@ -39202,8 +37975,6 @@ Tinte enterod-Ana Brown $68.80
 Tinte enterod-Lynn Brown 0.50 $17.42
 Tinye entered - Meliysa Brown to Sign Tavoice 32 $128.38
 Tir ered - Daniel Watson 0.25 57.19
-Tir ered - Jimny Mclaughlin $39.24
-Tir ered - Maciscn Carson 15 $131.00
 Tir ered - Madiscn Carson 18 $126.00
 Tir red - Madison Carson 12 $131.00
 Tir red-Denise Mueller 10 $181.00
@@ -39294,16 +38065,6 @@ Tracy Welch - Associate 1.50 $165.00
 Tracy Welch -Associate 1 $195.00
 Tracy Welch -Associate 40,80 $165.00
 Trav 1 $179.95
-Trav ce:se f-om 2022-06-20 1 $245.10
-Trav ense from2022-05-13 1 $656.50
-Trav ensefrom2022-05-15 1 $49.76
-Trav pen3e frcm 2022-08-03 $3,260.00
-Trav pese f-om 2022-06-06 1 $292.44
-Travei Exper rom 2022-08-16 $700.00
-Travei Exper rom2022-08-12 $22.68
-Travei Exper.8e f:om 2022-07-11 $44, 09
-Travei Experae f-om 2022-08-26 1 $362.18
-Travet Exper 1 2023-01-2[ $1,573,29
 Travis Baker - Scientist
 Travis Baker - Scientist 0.50 $240.00
 Travis Baker - Scientist 3.90 $240.00
@@ -39324,6 +38085,9 @@ Tricia Thompson - Associate
 Trime entered -Briah Shyping Date US mrissisan
 Trime entered-Johnny Harrison S143.96
 Trime entered-William Huynh 2 $199.04
+Try Pax La ad badues 1 $16,038.00
+Ts custamer Name OkI
+Tuense tree now $57.67
 Tyler Cocke - Eng Design II Sr. Estimator 3 $26.00
 Tyler Coleman - GIS Specialist
 Tyler Coleman-GIS Specialist 47 $5.54
@@ -39610,6 +38374,7 @@ Williar nh - Technical Supervisor 1 $199.04
 Willim Huynh -Design Engineer 1 $143.96
 Wilson - Project Manager II $31.42
 Wiltiam Hayni -Engineer $199.04
+Woayyiller lue Soon 4.50 $181.00
 Yime entered -Aaron Olson 0.50 $10.99
 Yime entered -Robert Luna 1.50 $4.00
 Yvonne Bowen - GIS Specialist 101 $2.97
@@ -39663,11 +38428,13 @@ al Engineer-Corey Stewart 12 $68.80
 al Jones - Administrative 1 $68.80
 al Jones -Project Maneger IV $93.15
 al-extra hours 1.50 $680.00
+al/Gro Tnvoice 54.41
 ald Robinson - Sr. Project Manager 3 $201.56
 am Khan-PROJECT CONTROL 0.50 $133.16
 ames Patel-GiS Specialist 84 $2.97
 ames Rowe-Designer 2.50 $82.56
 amie Fleming-Micstati miel $57.67
+amin fslemsseem $116.41
 amon overdve-2oome Seeme incy Time entered -Janet Fox 17.60 $295.00
 an Gilbert - Sr. Engineer 40 $207.00
 an Macias - Engineering Ccnsultan $150.C0
@@ -39678,14 +38445,13 @@ andra Thomas -Engineer Design II 0.50 $181.00
 anie Marshall - Engineer Design III (Senior) 40 S162.75
 ark Watkins-Administrative 0.50 $85.00
 asi Thompson - Acministrative 68.80
+astome ess incompte Wtease Choe
 at bigping Jate is missine $9.07
 ate Engineer $103.48
 ate Engineer 2.25 $203.48
 ate Engineer-Marie Wang 8.75 $103.48
 athleen Sampson -Engineer 3 $121.06
 atthew Brooks-Projcct Manager 0.50 5176.34
-aveExpen fm2023-05-1 Dadte is misstno $1,467.00
-avel Expe:3e f:om 2021-01-19 1 $6.58
 avid Ferguson -SENIOR ASSOCATE $139.CO
 avid Wilson -Design Engineer 8.50 $143.96
 awn Barnes -Design Drafter $124.53
@@ -39708,13 +38474,11 @@ ciate Engine 0.50 $103.48
 ciate Engineer -extra hours 28 $128.38
 ciate Engineer -management 1.50 $103.48
 ciate Engineer 4.50 $103.48
-cii neeting on 2021-05-06 $68.96
+ciect Controls Thank yoru, $127.87
 cipal -nanagement 40 $63.00
 cisco Allen-Project Manager 40 $163.00
 cject Manager - Nelissa Brown 17 $31.00
 cject Manager IiI- Kevin Garcia 0.50 $76.29
-clie etng on 2021-01-24 1 $2,736.00
-cllen ting on 2022-01-22 $98.17
 co TANT TECHNICAL III 16 $153.07
 coNSTRUCTION SPECIALIST V-management $194.72
 cor ilson -Engineer (Principal 1 $31.2
@@ -39746,13 +38510,13 @@ ct ManagerI 13.60 $116.00
 ct Scheduler I -monitcring 2 $38.65
 ct Scheduler I -sub-contractor 0.50 $68.80
 ct Scheduler I-Matthew Wall 1 $17.42
+ct Sport-Eauipment $310.44
+customer Name Ok9 $0.00
 d Spence -Engineering Consultant II 5 $150.00
-dividua/Groep Mei on 2022-5-4
 dmin strative - Melissa willams 0.25 $15.00
 dminiatrative - Jessica Andrade 2 $68.80
 dministrative -support 0.25 $17.42
 dministrative 1 $68.80
-e enterMatthew Brooks  0.50 $176.34
 e entere 1 $176.34
 e entered - Corey Stewart 8 $68.80
 e entered - Debbie Brown 32 $163.00
@@ -39772,6 +38536,7 @@ e entered-Shannon Torres 1.50 $35.32
 e entered-Stephanie Bennett 1 $93.15
 e entered-Valerie Marquez 7 $74.20
 eI3 Specialsc-Niccle Webb 167 $68.45
+eRQEGEONTROL Madison Ca 16 $131.00
 ea Simith - Design Engincer : $26,00
 ead Designer -Jeffrey Holmes 4 $68.80
 echnicai Supervisor 40 $114.00
@@ -39794,15 +38559,18 @@ ect Manager 1 $176.34
 ect Manager 1-Tiffany Anderson 2.75 $38.65
 ect Manager III -trvI weekend 0.50 $76.29
 ect Manager III-nda 4 $93.15
+ect Manager-Equipme $158.90
 ect Nanager 0.50 $176,34
 ect Nanager III- Cill Cox 32 $1:4.00
 ect Schoduler [-Michael Perez 1 S0.41
+ect Speak - Equipnent pars 1 $48.40
 ecutive Consutlant - Corey Stewart 12 $68.80
 ed-Brandi Wik 40 $163.00
 eer Design IAssociate-Angela Thompson 40 $163.00
 eer Design II (Senior) 40 $162.75
 eer Design Itt (Senior) 40 $163.00
 eer-management $121.06
+eivey Sanliago $8.60
 el Jackson  Consultant 39.25 $230.40
 elWatson-Project Managerll 2 $57.19
 elissa Jordan - ENGINEERING TEC 2 $117.46
@@ -39812,6 +38580,7 @@ en Johnson-SENIOR ASSOCIATE 97 $128.70
 ence Travis-Associate Consultant 166.75 $81.60
 enior Consultant 15 $167.00
 ennifer Smith-Program Manager 40 $114.00
+ensrm30:05-3 he ince plete 1 $249.06
 entered - Amy Gomez 14 $198.00
 entered - Ashley Thompson  3 $68.80
 entered - Brianna Larsen 2 $175.00
@@ -39867,6 +38636,8 @@ enteredMarcus Turner 200 $2.97
 er Design 1 -monitoring 1.75 $148.00
 er Design IV(Expert)-Ashley Thompson 3 $68.80
 er-Robert Williams $121.06
+erahop nger- iswrone 1 $24.51
+ered - Carlos Khite 0.50 $7, 42
 ered-Shawn Barnes 2 $124.53
 ering Consultant  24 -$163.00
 ering Expert -nda 10 $181.00
@@ -39878,11 +38649,14 @@ et Engineer-Timothy Harper 1.50 $199.04
 et Enginoer 2 $199.04
 et Manager IV-Chales Patterson 0.25 $17.42
 etingogrt9pin a e is missing $31.42
+evel il - Jeffrey Starp 4 $140.00
 ew Little-ADMINISTRATIVE 11 $81.00
 ewact - Staff Consultant
 exandra Torres -Sr. Project Engineer 2 $193.24
+fank yo, sana a $0.00
 fe entered - Ashley Comez 0.25 $36.19
 fe entered - Madison Carson 5 $28.38
+fennifer Newton-0 12 $181.00
 fime enterec - Gal-Davis 0.80 $325.00
 fime entered - Shawn Barnes 5124.53
 fter I -trvl veekend 1 $120.00
@@ -39902,7 +38676,6 @@ gner - Danielie Reese $85.04
 gner-SME 1.50 $116.00
 h Williams-PRINCIPAL/CONSULTANT 2 $209.00
 han Benson-Project Manager 1 $57.19
-harkysana Project Trouble $529.25
 harles King - Pro ect Engineer 40 $163.00
 hawn Barnes-Design Drafter 1 $124.53
 her Franco-Consultant TechnicalIll 64 $5.54
@@ -39924,6 +38697,7 @@ iawn Franklin - Sr. Associate 40 $163.00
 ica Reed - Managing Engineer 43 $360.00
 icole Mason-Sr.Proec Engineer 2 $199.04
 icrostaticn 20  3D -Krista Chandler 5.25 $57.67
+icrostation 2D  30 -Whien ant $57.67
 idail Sullivan -Proect Engineer 1 $176.13
 idministrat-v 521.78
 ie entered - Brandon Williams 0.50 $103.48
@@ -39983,6 +38757,7 @@ ime entered-Ron S201.56
 ime ettered - Amy Hanson 0.25 $221, 97
 imothy Robinson - Project Manager 40 $163.00
 in Pe $33.C7
+in Pees 1 $74.64
 ina Rice -Project Controls Scheduler 0.50 $127.87
 incer Desigm S5 (Senior-Madion Carson 19.60 $116.00
 incer Design III (Senior-Perry Adams 32 5162.75
@@ -40005,7 +38780,6 @@ ior Consultant - Brittany Smith 40 $162.75
 iorraine Barrett - Engineex Design I (Engineer) $57.19
 ipal -compensation 3.70 $20.00
 ipal -extra hours 19.50 $345,.00
-ire ente 35.36
 isa Evans -Proyect Manager 4 $176.34
 isa Rangel - Project Manager III 0.50 542.27
 isa Richrond - Engineering Expert 2 10.00
@@ -40061,6 +38835,7 @@ lanager 1 S176.34
 lanager-Matthew Brooks 0.50 $176.34
 lanagerI 0.50 $233.00
 lelissa Brown 23 $131.00
+lent mee ToteShipping Daleis uissing $1,020.48
 les HemsSe to be incompbete $124.53
 lexa Foster-Design Drafter 0.50 $124.53
 licole Mason-Project Engineer 1 $176.13
@@ -40103,6 +38878,7 @@ me entered -wiliam Huynh $199.0
 me entered-Robert Munoz 2 $233.41
 me entered-Robert Williams 1 $146.22
 me entered-Shawn Barmes 1 $124.53
+min Fecs $74.64
 ministrative - Melissa Williams 0.50 $15.00
 ministrative - Xelissa Will ams 0.25 S15.00
 mone Crystal Jones $68.80
@@ -40159,6 +38935,7 @@ nistrative 4 $68.80
 nita Brown-Sr. Engincer 11 $146.22
 nne Hanna-ENG/NEERING 8.50 $148.23
 nnis Newman - GIS Specialist 17.25 $2.97
+noice number inci 0 $0.00
 nstruction Specialist I-nda 124.40 $111.36
 nte entered - David Ferguson  4  $128.70
 ntered - Bobby Jones 5 $93.15
@@ -40183,6 +38960,8 @@ ogram Manager 3 $10.99
 ogram Manager 33 $18.00
 ogram Nanager 16 $2.97
 ohaDath Project SchedulerI $31.42
+oin Tees $32.25
+oject Col-ege Equipnent $89.17
 oject Engineer - Lawrence Davis 31.75 $163.00
 oject Engineer 1.50 $193.24
 oject Engineer-Alexandra Torres 1 $193.24
@@ -40197,8 +38976,6 @@ oject Manager-Ronald Robinson 3 $201.56
 oject ManagerI 3 $42.27
 oject ManagerIII 1 $42.27
 oject Nanage $15.00
-oject Nevspaper Ecu-pmentpar $12.80
-oject Rum - Credii note 1 -$8.75
 oject Scheduler I- Teresa Ford 8 $42.27
 oject Scheduler I-add.cnslt 2 $74.20
 on Frankin-Design Engineer 10 $180
@@ -40233,13 +39010,12 @@ rafter II (Senior Design Drafter 32 $163.00
 rafter II Senior Design Drafter -extra houis 5.50 31.42
 ram Manager -Eric Anderson 105 52.97
 rave iS wrong $297.29
-rcject Anerican $5
 rcject Manager III-Connie Nilson $31.42
 rcject Manager IV-Whitney Levine 4 $31.42
 re entered - Daniel Yoder 84 $2.97
-reject Compare-Eg $438.66
 reject Whom -Zxtra hours 1 $1,991.20
 rical Supervisor-managerment 1 $199.04
+rily Adams - Principal 1.50 $91.00
 rime enonaldohs 2 $176.34
 rime entered - Austin 3 $82.56
 rime entered - Macchex Brook $176.34
@@ -40249,6 +39025,7 @@ rime entered - Scott Cochran 166 $5.54
 rime entered Kegan $163.00
 rime entered- Johnny Harrison 5 $143.96
 rimothy Miller-CADD DrafterII(Senior Design Drafter 1 $181.00
+rimothy Robinscn - 0 0.50 $181.00
 rina Edwards - Lead Designer $68.80
 rina Rice - Designer - $82.56
 rine entered - Chcistina Garrett 20.42 $170.00
@@ -40259,18 +39036,12 @@ rlissa Williams - Project Manager I 0.25 $36.19
 rm Mayger 3 $91.00
 roect Scheduler I -Benjamin Ciarke 3 $38.65
 roect Scheduler I 2 $93.25
-roect TI -garess incomole 17.72
 rogam Manager-Andre Muray 170.50 $18.00
 rogram Nanager -Melissa Bron 24 $128.38
+roid Signalure
 rojc Schedue I-Michnel Wilkins 7 $38.65
-rojct Table 1 $4.36
-roject $1,441.00
-roject $630.00
-roject Actually $362.18
 roject Direction-Ecu pment $403.12
 roject Engineer -management 0.50 $199.04
-roject Fast- Equipnen $37.60
-roject Froje $700.00
 roject Kanager I -Brett Allen $38.65
 roject Manager  2 S57.19
 roject Manager - Kelly Allen 1 $176.34
@@ -40289,10 +39060,7 @@ roject Scheduler 2 - Lynn: Browm 0.25 $17.42
 roject Scheduler I -Charles Patterson 0.25 $17.42
 roject Scheduler I -Jessica Andrade 4 $74.20
 roject Scheduler1 2 $74.20
-roject Under couspe $46.00
-roject Whom -Equionent $36.56
 rojectSchedulerI 2 $9.07
-rojecy 1 569.08
 rojeet Manager III $42.27
 rojoct Manager 1-Angela Brows 5 $42.27
 rojoct Schedoler -Teresa Ford 8 $42.27
@@ -40300,11 +39068,11 @@ rostation 2D s 3D -monitoring 0.50 $57.67
 ry Simmons -Project Manager IV 8 $68.80
 ryant - Engineer 2 $143.96
 s Davies -CADD Drafter II (Senior Design Drafter) 1.50 $42.27
+s O% Tax t- all values
 s Patterson-Project Manager IV 1.75 $17.42
 s White -Project Manager IV 0.50 $17.42
 sa Brown - Consuitant Technical III 19.60 $116.00
 sdministsative 0.25 S15.00
-se from022-07-21 due $2,156.16
 se frorr 303-23 1 $597.00
 search Specialist -nda $100.co
 shley Gomez - Project Manager I 0.50 $35.19
@@ -40349,6 +39117,7 @@ t Manager IV 1 $89.80
 t Manager IV 3 $38.65
 t Manager-Ronald Robinson 2 $176.34
 t Nanager III 17 $233.00
+t Plan - Equiprent 1 $2,088.00
 t Scheduler I- 1 $57.19
 t Scheduler I-support 8.75 $38.65
 t SchedulerI 0.25 $17.42
@@ -40357,7 +39126,6 @@ tOJECT ACCO - Mary Nielsen 0.50 $142.75
 tanTechnicalI 56 $91.90
 tdninistrat v Ashley Gome 0.50 $15.00
 te Engineer -project work 0.50 $103.48
-teng on 2023- 1 $78.00
 tered - Melissa Brown 13.60 $116.00
 tered - Michael Pratt 1 $68.80
 tered -Melissa Brown 15 $131.00
@@ -40385,6 +39153,7 @@ ty Johnson - Eng Design II Sr. Estimator 0.50 $89.00
 uitant Technical I 2 $51.00
 ussociate Engineer 1 $03.48
 ustin Dunn-Designer II 9 S82.56
+v 0%"Fax t all valaes Mana 40 $163.00
 vin Garcia - Project Manager III 0.25 $76.29
 virginia Davis - GIS Specialist 29 $29.38
 william Huynh - Technical Sui sor 2 $199.04
@@ -40393,6 +39162,7 @@ william Turner - Project Manager III 0.25 $57.19
 xal -SME 61.20 $420.00
 xeboom20 man baseo on na Neobew
 xecutive consutlant managea 13 $68.80
+xnho Bar tambar Ak 8 $124.53
 y Choi -Project Manager 185 $2.97
 y Hunt-GIS Specialist 190 $5.54
 y Jones - Project Manager ilI 1 $93.15

@@ -7,7 +7,7 @@ from thefuzz import fuzz, process
 from lib.data import load_first_names, load_last_names
 
 
-prof_cache = dc.Cache("../cache/prof")
+prof_cache = dc.Cache("../cache/prof2")
 
 
 # Si se trabaja en esta funcion hay que limpiar el cache
@@ -39,24 +39,30 @@ def is_professional(desc: str, debug=False):
 
     # matchear "Nombre Apellido"
     for i in range(len(words) - 1):
-        name = is_first_name(words[i], score_cutoff=85) and words[i] != "project"
-        last = is_last_name(words[i + 1], score_cutoff=75)
-        if name and last:
+        if words[i] == "project":
+            continue
+
+        name = is_first_name(words[i])
+        last = is_last_name(words[i + 1])
+        score = name + last
+        if score > 175:
             if debug:
-                print("nombre apellido", words[i], words[i + 1])
+                print("nombre apellido", score, words[i], words[i + 1])
             professional = True
 
     PROFESSIONAL_KEYWORDS = [
         "administrative",
         "analyst",
         "associate",
-        "cnslt",
+        "billing",
         "civil",
+        "cnslt",
         "compensation",
         "construction",
         "consultant",
         "contractor",
         "coordinator",
+        "design",
         "designer",
         "director",
         "drafter",
@@ -64,33 +70,34 @@ def is_professional(desc: str, debug=False):
         "engi",
         "engineer",
         "engineering",
+        "entered",
         "estimator",
         "expert",
-        "management",
-        "manager",
-        "monitoring",
-        "scheduler",
-        "scientist",
-        "senior",
-        "specialist",
-        "supervisor",
-        "support",
-        "technical",
-        "technician",
-        "trvl",
-        "weekend",
         "gis",
         "I",
         "II",
         "III",
         "IV",
-        "time",
-        "entered",
         "lead",
+        "management",
+        "manager",
         "managing",
-        "subcontract",
-        "design",
+        "microstation",
+        "monitoring",
+        "principal",
+        "scheduler",
+        "scientist",
+        "senior",
+        "specialist",
         "sr",
+        "subcontract",
+        "supervisor",
+        "support",
+        "technical",
+        "technician",
+        "time",
+        "trvl",
+        "weekend",
         "tec",  # technician
         "spe",  # specialist
         "nda",  # non-destructive analysis
@@ -99,12 +106,15 @@ def is_professional(desc: str, debug=False):
     ]
 
     PROFESSIONAL_PHRASES = [
+        "2d 3d",
         "extra hours",
-        "project work",
+        "on site",
+        "project billing",
         "project manager",
+        "project work",
         "special on site",
-        "time entered",
         "sub cc",
+        "time entered",
         "travel weekend",
         "trvl weekend",
     ]
@@ -125,6 +135,7 @@ def is_professional(desc: str, debug=False):
         "travel",
         "individual",
         "group",
+        "2020",
         "2021",
         "2022",
         "2023",
@@ -179,9 +190,6 @@ def is_professional(desc: str, debug=False):
     return professional
 
 
-names_cache = dc.Cache("../cache/names")
-
-
 def does_match(
     queries: list[str],
     choices: list[str],
@@ -211,25 +219,26 @@ def does_match(
     return False
 
 
+names_cache = dc.Cache("../cache/names")
+
+
 @names_cache.memoize(tag="first_name")
-def is_first_name(first_name: str, score_cutoff):
+def is_first_name(first_name: str):
     first_names = load_first_names()
     match = process.extractOne(
         first_name,
         first_names,
         scorer=fuzz.ratio,
-        score_cutoff=score_cutoff,
     )
-    return match is not None
+    return match[1] if match else 0
 
 
 @names_cache.memoize(tag="last_name")
-def is_last_name(last_name: str, score_cutoff):
+def is_last_name(last_name: str):
     last_names = load_last_names()
     match = process.extractOne(
         last_name,
         last_names,
         scorer=fuzz.ratio,
-        score_cutoff=score_cutoff,
     )
-    return match is not None
+    return match[1] if match else 0

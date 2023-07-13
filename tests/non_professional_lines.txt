@@ -196,7 +196,6 @@ Cient workshop on 2022-1-10 1 $35.23
 Cient workshop on 2023-3-18 $17.61
 Cient worshop on 2021-351 - $52.84
 Cierical -Mak Rios 0.50 $51.71
-Cierical -trvi xeekend 0.50 $51.71
 Cifeac meecing on 2021-06-23 $1,577.60
 Ciieat vorkshop on 2023-02-11 1 $105.00
 Ciien ting on 2022-02-11 $362.18
@@ -659,3 +658,4 @@ Acmin I 1 $63.75
 Admin Fes is wrona 1 $64.72
 Project Voice - maintenance 1 $3,039.20
 Project Her - Cre 1 -$5,379,00
+Project Candidate - Equ $517.40

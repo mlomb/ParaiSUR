@@ -25,7 +25,7 @@ def find_detail_lines(sample):
                 else:
                     num_none += 1
 
-            if num_none / (num_none + num_not_none) > 0.3:
+            if num_none / (num_none + num_not_none) > 0.35:
                 # too noisy
                 return []
 
