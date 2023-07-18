@@ -39,12 +39,18 @@
 3essica Dunlap - Sr. Enginecr 3 $146.22
 Aaron Olson-Project SchedulerI 1 $68.80
 Achinistrative 4 $21.78
+Acmin I 1 $63.75
 ACNINISTRATIVE -Chri er Alien $79.30
 Ad-iniatrative - Thocas Coeman 2 $93.15
 Ad-inistrative - kahiey Thompson 1 $68.80
 Ad-inistrative 2 $31.42
 Adam ll - Sr. Engineer 0.50 $146.22
 ADM RATIVE - Andrew Littie 2.50 $79.30
+Admini $161.95
+Administr: ida 8 $38.65
+Administra Aasstng 0.50 $15.00
+Administrat ladison Carson 16 $131.00
+Administrat ve $68.80
 Administrative - Ashiey Thompson 2 $68.80
 ADMINISTRATIVE - Christopher Allen
 Administrative - Melissa williams 0.25 $15.00
@@ -56,6 +62,7 @@ Administrative -Madison Carson 20.80 $116.00
 Administrative -special on-site 0.25 $15.00
 Administrative -special on-site 0.50 $0.36
 Administrative -Tiffany Anderson $38.65
+Administrative ecial on-sit 0.25 $15.00
 ADMINISTRATIVE-sub-contractor 7 S81.00
 ADMINISTRATVE-Christopher Allen $81.00
 Afexandra Torres - Sr. Project Engimcer $193.24
@@ -69,6 +76,8 @@ ALNINESTRATIVE 5 $81.00
 Amanda Hernandez -Principa 1 $21.00
 Amy Gomez - Engineer Design III (Senior)
 Amy Gomez - Engineer Design III (Senior) $198.00
+Amy Gomez-Engineer Design III(Senior 0 $2020
+Andre Ruaseil -Design Orafter 12 $181.00
 Andrew Fermandez-Scientist 65.30 $255.00
 Anita Brown - Sr. Engineer
 Ashley Gomez-Administrative 1 $15.00
@@ -105,6 +114,7 @@ Charles Patterson - Administrative 0.75 $0.36
 Charles Xood - : 2 $181.00
 Christine Thompson - Project Manager III 40 $163.00
 Christy Alvarado - Program Manager 90 $2.97
+Cierical -trvi xeekend 0.50 $51.71
 CIVIL ENGINEER-extra hours 11 $143.21
 CIVIL ENGINEER-sub-contractor 47.50 $143.21
 CIVILENGINE lakayla Crawford 21 $207.00
@@ -125,10 +135,12 @@ Designer -special on-site 0.50 $82.56
 Designer -special on-site 33.25 $163.00
 ea Simith - Design Engincer : $26,00
 eI3 Specialsc-Niccle Webb 167 $68.45
+eisay-MeBrooks 1 $176.34
 ELECTRICAL ENG]-special on-site 3 $148.23
 ELECTRICAL ENGI -special on-site
 ELECTRICAL ENGI-special on-site 9.50 $123.94
 EN RING TEC 9 $117.46
+Engincer Design II (Sen ecial on-site 10 $162.75
 Engineer -special on-site $199.04
 Engineer -special on-site 1 $121.06
 Engineer -special on-site 2 $121.06
@@ -156,14 +168,18 @@ fennifer Newton-0 12 $181.00
 FINANCE -extra hours 0.50 $142.75
 FINANCE -WFH
 FINANCE-nda 40 $118.00
+Frar Allen-0 40 $163.00
 GIS 5p st 298 $2.97
 GIS Sp st 22 $128.38
 GIS Sp st 45 $36.17
 GIS Spe t-nda 120 $2.97
+GIS Special ecial on-site 116.25 $2.97
 GIS Specialist -special on-site
 GIS Specialist -special on-site 10 $36.17
 GIS Specialist -special on-site 270 $36.17
 GIS Specialist -special on-site 82 $2.97
+gnez - Auatin Durn $85.04
+gonald Rbins
 Jacob SUATez - PROJECT ASSCCIATE 9 $73.00
 Jacobson
 Jacobson 0.25 $5, 67
@@ -195,6 +211,7 @@ Lisa Hemande-Sr.Engincer 0.25  $146.22
 Lisa Richmond - Engineering Expert 2 $350.00
 Lisa Richmond - Engineering Expert 2.50 $350.00
 list II1 $175.00
+listrat-ve 0.25 $15.00
 Madison C Engincer Design I 16 $131.00
 Madison Carsog 14.80 $116.00
 Madison Carson - Project Manager I
@@ -230,6 +247,7 @@ Nilliam Khan -PROJECT CONTROL 0.50 $33.16
 ninistrative I 0.50 $85.00
 nistrative 4 $68.80
 O - Cennifer Newton 20 $181.00
+OJECT CONTR $191.75
 PatricCross-Project Schoduler1 2 $42.27
 Pr Teeting - Extra hours $1,991,20
 Principal -extra hours 3 $68.80
@@ -238,7 +256,15 @@ Principal -special on-site 10.10 $420,00
 Principal -WFH
 Principal -WFH  2 $21.00
 Principal -WFH 5.50 $345.00
+Pro lanagerIII 0.50 $89.80
 Projct Engineer -Madison Carson 18 $116.00
+PROJECT BILLING
+PROJECT BILLING - Aaron Thompson 40 $163.00
+PROJECT BILLING - Ashlee Thomas
+PROJECT BILLING -add. cnslt
+PROJECT BILLING -extra hours 6 $72.62
+PROJECT BILLING 40 $163.00
+PROJECT BILLING 6 $72.62
 PROJECT CONTROL - Debra ThoEas $96.00
 PROJECT CONTROL - Nilliam Khan 6 $133.6
 PROJECT CONTROL - Tiffany Dot 3 $114.00
@@ -406,7 +432,9 @@ Time entered - Brett Allen 0.25 $38.65
 Time entered - Brett Allen 6.25 $38.65
 Time entered - Brittiey Medongla 9 $85.04
 Time entered - Cheryl Brown 36.50 $139.00
+Tineeered-Danligyan 2 $199.04
 Tir ered - Jimny Mclaughlin $39.24
+Tir ered - Maciscn Carson 15 $131.00
 Tir ered - Maciscn Carson 15 $131.00
 Tir ered - Madiscn Carson 18 $126.00
 Valerie Narquez - Project Schecuier I 2 $74.20
@@ -417,17 +445,3 @@ William Turmer - Project Manager Mt 0.50 $57.19
 William Turner - Engineer Design II (Engineer) $57.19
 ynn Brown -Project 3cheouier 57.42
 Zngineer Design IlI - Mark Watkirs 9 $202.00
-Administr: ida 8 $38.65
-Administra Aasstng 0.50 $15.00
-Administrat ladison Carson 16 $131.00
-Administrat ve $68.80
-Andre Ruaseil -Design Orafter 12 $181.00
-PROJECT BILLING
-PROJECT BILLING - Aaron Thompson 40 $163.00
-PROJECT BILLING - Ashlee Thomas
-PROJECT BILLING -add. cnslt
-PROJECT BILLING -extra hours 6 $72.62
-PROJECT BILLING 40 $163.00
-PROJECT BILLING 6 $72.62
-Cierical -trvi xeekend 0.50 $51.71
-

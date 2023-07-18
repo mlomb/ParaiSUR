@@ -1,4 +1,6 @@
 
+ Star - Credit note 1 -$350.00
+ Star - Credit rote -$297.00
 0 -S 40 $163.00
 1 workshop on 2021-06-25 $12.79
 1meeting on 2023-01-10 $96.80
@@ -131,6 +133,7 @@ Admin Fees S132.25
 Admin Fees S20.11
 Admin Fees T S23.57
 Admin Fees T S25.21
+Admin Fes is wrona 1 $64.72
 Admin Pees 1 76
 Admin rees 1 $2,934.00
 Admin rees 1 $38.52
@@ -480,6 +483,7 @@ Prcject Shoulder - Credit note -$1,810.00
 Prcject Spring-Credit note 1 $6,520.00
 Prcject Start -Equipnent 1 $393.60
 Prcject These - Equipment part 1 $1,13.50
+Project Candidate - Equ $517.40
 PROJECT CONTROL 0.50 $133.16
 PROJECT CONTROL 1 $112.88
 PROJECT CONTROL 1 $185.26
@@ -494,7 +498,9 @@ Project Field - Equipment
 Project Field - Equipment part
 Project Field - Equipment part $1,050.00
 Project Field - Equipment part 1 $22.68
+Project Her - Cre 1 -$5,379,00
 Project Travel - maintenance $800.00
+Project Voice - maintenance 1 $3,039.20
 Project Wide -Credit note 1 $350.40
 Project Wide -Credit note 1 $905.00
 Project Wide -Equipment 1 $2,691.20
@@ -652,10 +658,3 @@ Yavel Expense from 2021-12-20 1 $252.50
 Yrave Expense f 21-09-05 $264.19
 Yravel Expense from 2021-06-19 1 $14,160.00
 Yravel Expense from 2022-01-29 1 $44.09
- Star - Credit note 1 -$350.00
- Star - Credit rote -$297.00
-Acmin I 1 $63.75
-Admin Fes is wrona 1 $64.72
-Project Voice - maintenance 1 $3,039.20
-Project Her - Cre 1 -$5,379,00
-Project Candidate - Equ $517.40

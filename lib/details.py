@@ -15,17 +15,19 @@ def find_detail_lines(sample):
             for ocr_page in ocrs["paddleocr_deskew"]:
                 all_lines = all_lines + extract_lines_ocr(ocr_page["boxes"])
 
+            for line in filter_detail_lines(all_lines):
+                detail_lines.append(split_detail_line(line))
+
             num_none = 0
             num_not_none = 0
 
-            for line in filter_detail_lines(all_lines):
-                if line is not None:
-                    num_not_none += 1
-                    detail_lines.append(split_detail_line(line))
-                else:
+            for line in detail_lines:
+                if line is None:
                     num_none += 1
+                else:
+                    num_not_none += 1
 
-            if num_none / (num_none + num_not_none) > 0.35:
+            if num_none / (num_none + num_not_none) > 0.3:
                 # too noisy
                 return []
 

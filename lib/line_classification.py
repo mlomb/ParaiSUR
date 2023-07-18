@@ -7,7 +7,7 @@ from thefuzz import fuzz, process
 from lib.data import load_first_names, load_last_names
 
 
-prof_cache = dc.Cache("../cache/prof2")
+prof_cache = dc.Cache("../cache/prof4")
 
 
 # Si se trabaja en esta funcion hay que limpiar el cache
@@ -18,6 +18,7 @@ def is_professional(desc: str, debug=False):
 
     # lower
     desc = desc.lower()
+    desc = desc.split("$")[0]
 
     # replace all non-alphanumeric characters with spaces
     chars = [c if c.isalnum() else " " for c in desc]
@@ -45,13 +46,14 @@ def is_professional(desc: str, debug=False):
         name = is_first_name(words[i])
         last = is_last_name(words[i + 1])
         score = name + last
-        if score > 175:
+        if score >= 175:
             if debug:
                 print("nombre apellido", score, words[i], words[i + 1])
             professional = True
 
     PROFESSIONAL_KEYWORDS = [
         "administrative",
+        "admini",
         "analyst",
         "associate",
         "billing",
@@ -103,6 +105,7 @@ def is_professional(desc: str, debug=False):
         "nda",  # non-destructive analysis
         "sme",  # subject matter expert
         "wfh",  # work from home
+        "jacobson",  # weird name
     ]
 
     PROFESSIONAL_PHRASES = [
@@ -181,7 +184,7 @@ def is_professional(desc: str, debug=False):
         and not does_match(
             queries=phrases,
             choices=NEGATIVE_PHRASES,
-            score_cutoff=80,
+            score_cutoff=81,
             debug_label="negative phrase",
             debug=debug,
         )
@@ -212,6 +215,8 @@ def does_match(
             score_cutoff=score_cutoff,
         )
         if match:
+            if match[0] == "charges" and query in ["charles", "chares"]:
+                continue  # skip common name that can be mistaken with charges
             if debug:
                 print(debug_label, "|", query, match)
             return True
@@ -219,7 +224,7 @@ def does_match(
     return False
 
 
-names_cache = dc.Cache("../cache/names")
+names_cache = dc.Cache("../cache/names1")
 
 
 @names_cache.memoize(tag="first_name")
