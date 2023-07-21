@@ -7,7 +7,7 @@ from thefuzz import fuzz, process
 from lib.data import load_first_names, load_last_names
 
 
-prof_cache = dc.Cache("../cache/prof4")
+prof_cache = dc.Cache("../cache/prof5")
 
 
 # Si se trabaja en esta funcion hay que limpiar el cache
